@@ -6626,16 +6626,24 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 부식된 장검",
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Corroded Longsword",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6650,8 +6658,8 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6674,6 +6682,14 @@
         }
       },
       {
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Ironhead Spear",
         "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
@@ -6690,24 +6706,8 @@
         }
       },
       {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Moon Dagger",
         "text": "미완성 달의 단검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
