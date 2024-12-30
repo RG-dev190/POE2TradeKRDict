@@ -6626,14 +6626,6 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Hook Axe",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
@@ -6642,16 +6634,8 @@
         }
       },
       {
-        "type": "Executioner Greataxe",
-        "text": "미완성 사형 집행자 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Ironhead Spear",
-        "text": "미완성 철창날 창",
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6666,16 +6650,24 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 부식된 장검",
+        "type": "Ironhead Spear",
+        "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
+        "type": "Executioner Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Corroded Longsword",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6690,8 +6682,16 @@
         }
       },
       {
-        "type": "Blessed Claymore",
-        "text": "미완성 축복받은 클레이모어",
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6706,8 +6706,8 @@
         }
       },
       {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
+        "type": "Blessed Claymore",
+        "text": "미완성 축복받은 클레이모어",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
