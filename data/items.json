@@ -6626,16 +6626,16 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Ironhead Spear",
-        "text": "미완성 철창날 창",
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6650,8 +6650,8 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
+        "type": "Ironhead Spear",
+        "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6682,14 +6682,6 @@
         }
       },
       {
-        "type": "Broadsword",
-        "text": "미완성 넓적검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Iron Greatsword",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
@@ -6700,6 +6692,14 @@
       {
         "type": "Blessed Claymore",
         "text": "미완성 축복받은 클레이모어",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Broadsword",
+        "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
