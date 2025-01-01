@@ -6670,6 +6670,14 @@
         }
       },
       {
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Iron Greatsword",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
@@ -6686,8 +6694,8 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6704,14 +6712,6 @@
       {
         "type": "Broad Greatsword",
         "text": "미완성 넓은날 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
