@@ -154,13 +154,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1263695895",
-        "text": "[LightRadius|시야 반경] #% 증가",
+        "id": "explicit.stat_1940865751",
+        "text": "[Physical|물리] 피해 #~# 추가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1940865751",
-        "text": "[Physical|물리] 피해 #~# 추가",
+        "id": "explicit.stat_1263695895",
+        "text": "[LightRadius|시야 반경] #% 증가",
         "type": "explicit"
       },
       {
@@ -529,6 +529,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1839076647",
+        "text": "[Projectile|투사체] 피해 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1714706956",
         "text": "마법 무리 규모 #% 증가",
         "type": "explicit"
@@ -639,11 +644,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1839076647",
-        "text": "[Projectile|투사체] 피해 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3169585282",
         "text": "[Presence|접근]해 있는 [Allies|동료들]의 [Accuracy|정확도] #",
         "type": "explicit"
@@ -679,13 +679,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2709367754",
-        "text": "근접 [HitDamage|명중] 시 [Rage|격노] # 획득",
+        "id": "explicit.stat_44972811",
+        "text": "생명력 재생 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_44972811",
-        "text": "생명력 재생 속도 #% 증가",
+        "id": "explicit.stat_2709367754",
+        "text": "근접 [HitDamage|명중] 시 [Rage|격노] # 획득",
         "type": "explicit"
       },
       {
@@ -731,6 +731,11 @@
       {
         "id": "explicit.stat_1316278494",
         "text": "[Warcry|함성] 속도 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1994551050",
+        "text": "몬스터의 상태 이상 한계치 #% 증가",
         "type": "explicit"
       },
       {
@@ -839,6 +844,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1215155013",
+        "text": "장착한 방패로 얻는 방어력 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_4103440490",
         "text": "플레이어가 쇠약화 저주에 걸림",
         "type": "explicit"
@@ -851,6 +861,11 @@
       {
         "id": "explicit.stat_416040624",
         "text": "최대 [EnergyShield|에너지 보호막]의 #%를 추가 [StunThreshold|기절 한계치]로 획득",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1120862500",
+        "text": "사용 시 마나 # 회복",
         "type": "explicit"
       },
       {
@@ -871,11 +886,6 @@
       {
         "id": "explicit.stat_3091578504",
         "text": "[Minion|소환수]의 공격 및 시전 속도 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1120862500",
-        "text": "사용 시 마나 # 회복",
         "type": "explicit"
       },
       {
@@ -914,11 +924,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1215155013",
-        "text": "장착한 방패로 얻는 방어력 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1181419800",
         "text": "철퇴나 셉터 사용 시 피해 #% 증가",
         "type": "explicit"
@@ -926,11 +931,6 @@
       {
         "id": "explicit.stat_1600707273",
         "text": "모든 [Physical|물리] [Spell|주문] 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1994551050",
-        "text": "몬스터의 상태 이상 한계치 #% 증가",
         "type": "explicit"
       },
       {
@@ -1129,6 +1129,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_4139681126",
+        "text": "민첩 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1852872083",
         "text": "희귀 및 고유 적 명중 시 피해 #% 증가",
         "type": "explicit"
@@ -1169,13 +1174,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_95221307",
-        "text": "몬스터가 명중 시 #%의 확률로 중독 유발",
+        "id": "explicit.stat_2214228141",
+        "text": "투사체가 모든 화상 상태의 적 관통",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4139681126",
-        "text": "민첩 #% 증가",
+        "id": "explicit.stat_95221307",
+        "text": "몬스터가 명중 시 #%의 확률로 중독 유발",
         "type": "explicit"
       },
       {
@@ -1206,11 +1211,6 @@
       {
         "id": "explicit.stat_970213192",
         "text": "스킬 속도 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2214228141",
-        "text": "투사체가 모든 화상 상태의 적 관통",
         "type": "explicit"
       },
       {
@@ -1499,6 +1499,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2458962764",
+        "text": "최대 생명력의 #%를 에너지 보호막으로 전환",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1697447343",
         "text": "[Quarterstaff|육척봉] 사용 시 [Freeze|동결] 축적 #% 증가",
         "type": "explicit"
@@ -1586,11 +1591,6 @@
       {
         "id": "explicit.stat_3868118796",
         "text": "연쇄 공격 1회 추가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2458962764",
-        "text": "최대 생명력의 #%를 에너지 보호막으로 전환",
         "type": "explicit"
       },
       {
@@ -1799,13 +1799,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2214130968",
-        "text": "강력 기절 상태의 적에게 항상 치명타 명중",
+        "id": "explicit.stat_1158324489",
+        "text": "[Frozen|동결]된 적에게 [CullingStrike|마무리 타격] 가능",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1158324489",
-        "text": "[Frozen|동결]된 적에게 [CullingStrike|마무리 타격] 가능",
+        "id": "explicit.stat_2214130968",
+        "text": "강력 기절 상태의 적에게 항상 치명타 명중",
         "type": "explicit"
       },
       {
@@ -1841,6 +1841,11 @@
       {
         "id": "explicit.stat_1389153006",
         "text": "일반 방어력 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1902409192",
+        "text": "스킬 사용 시 생명력 # 상실",
         "type": "explicit"
       },
       {
@@ -1906,11 +1911,6 @@
       {
         "id": "explicit.stat_959641748",
         "text": "사용 시 생명력에서 회복한 마나의 #% 제거",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1902409192",
-        "text": "스킬 사용 시 생명력 # 상실",
         "type": "explicit"
       },
       {
@@ -2614,6 +2614,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_4078695",
+        "text": "격분 충전 최대치 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1207554355",
         "text": "화살 속도 #% 증가",
         "type": "explicit"
@@ -2724,11 +2729,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4078695",
-        "text": "격분 충전 최대치 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4164870816",
         "text": "권능 충전 하나당 치명타 피해 배율 #%",
         "type": "explicit"
@@ -2814,6 +2814,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_4283407333",
+        "text": "모든 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3162258068",
         "text": "피해 막기 불가",
         "type": "explicit"
@@ -2826,11 +2831,6 @@
       {
         "id": "explicit.stat_1576794517",
         "text": "접근해 있는 캐릭터에게 처치되는 모든 적을 자신이 처치한 것으로 간주",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_4283407333",
-        "text": "모든 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -3179,6 +3179,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3175163625",
+        "text": "처치한 적이 떨어뜨리는 골드 수량 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2593651571",
         "text": "+#% to all [Resistances|Elemental Resistances] per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
         "type": "explicit"
@@ -3196,11 +3201,6 @@
       {
         "id": "explicit.stat_1563503803",
         "text": "피격 시 #% 확률로 카오스 피해 긴급회피",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3175163625",
-        "text": "처치한 적이 떨어뜨리는 골드 수량 #% 증가",
         "type": "explicit"
       },
       {
@@ -3284,13 +3284,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4238331303",
-        "text": "[Immobilised|Immobilise] enemies at #% buildup instead of 100%",
+        "id": "explicit.stat_2901213448",
+        "text": "모든 [ElementalDamage|원소] 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2901213448",
-        "text": "모든 [ElementalDamage|원소] 스킬 레벨 #",
+        "id": "explicit.stat_4238331303",
+        "text": "[Immobilised|Immobilise] enemies at #% buildup instead of 100%",
         "type": "explicit"
       },
       {
@@ -3544,6 +3544,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3311259821",
+        "text": "Deals #% of current Mana as [Chaos|Chaos Damage] to you when Effect ends",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3969608626",
         "text": "Effect is not removed when Unreserved Mana is Filled",
         "type": "explicit"
@@ -3561,11 +3566,6 @@
       {
         "id": "explicit.stat_1256719186",
         "text": "지속시간 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3311259821",
-        "text": "Deals #% of current Mana as [Chaos|Chaos Damage] to you when Effect ends",
         "type": "explicit"
       },
       {
@@ -3599,18 +3599,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_548198834",
-        "text": "범위 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4246007234",
         "text": "[LowLife|낮은 생명력] 상태일 때 [Attack|공격] 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3885634897",
-        "text": "명중 시 #%의 확률로 중독 유발",
+        "id": "explicit.stat_548198834",
+        "text": "범위 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4007938693",
+        "text": "광란 시 #레벨 춤추는 수도승 출현 발동",
         "type": "explicit"
       },
       {
@@ -3619,8 +3619,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4007938693",
-        "text": "광란 시 #레벨 춤추는 수도승 출현 발동",
+        "id": "explicit.stat_3885634897",
+        "text": "명중 시 #%의 확률로 중독 유발",
         "type": "explicit"
       },
       {
@@ -3670,6 +3670,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_789117908",
+        "text": "마나 재생 속도 #% 증가",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_1671376347",
         "text": "[Resistances|번개] 저항 #%",
         "type": "implicit"
@@ -3687,11 +3692,6 @@
       {
         "id": "implicit.stat_3299347043",
         "text": "생명력 최대치 #",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_789117908",
-        "text": "마나 재생 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -4146,6 +4146,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_4220027924",
+        "text": "[Resistances|냉기] 저항 #%",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_1671376347",
         "text": "[Resistances|번개] 저항 #%",
         "type": "enchant"
@@ -4153,11 +4158,6 @@
       {
         "id": "enchant.stat_3372524247",
         "text": "[Resistances|화염] 저항 #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_4220027924",
-        "text": "[Resistances|냉기] 저항 #%",
         "type": "enchant"
       },
       {
@@ -4221,6 +4221,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_1037193709",
+        "text": "[Cold|냉기] 피해 #~# 추가",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_210067635",
         "text": "공격 속도 #% 증가",
         "type": "enchant"
@@ -4228,11 +4233,6 @@
       {
         "id": "enchant.stat_709508406",
         "text": "[Fire|화염] 피해 #~# 추가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1037193709",
-        "text": "[Cold|냉기] 피해 #~# 추가",
         "type": "enchant"
       },
       {
@@ -4386,6 +4386,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2763429652",
+        "text": "[HitDamage|명중] 시 #%의 확률로 [Maim|힘줄 절단]",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_1658498488",
         "text": "타락한 피가 플레이어에게 유발될 수 없음",
         "type": "enchant"
@@ -4403,11 +4408,6 @@
       {
         "id": "enchant.stat_1978899297",
         "text": "모든 원소 저항 최대치 #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2763429652",
-        "text": "[HitDamage|명중] 시 #%의 확률로 [Maim|힘줄 절단]",
         "type": "enchant"
       },
       {
@@ -4466,6 +4466,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2481353198",
+        "text": "[Block|막기] 확률 #% 증가",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2451402625",
         "text": "[Armour|방어도] 및 [Evasion|회피] #% 증가",
         "type": "enchant"
@@ -4473,11 +4478,6 @@
       {
         "id": "enchant.stat_9187492",
         "text": "모든 [Melee|근접] 스킬 레벨 #",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2481353198",
-        "text": "[Block|막기] 확률 #% 증가",
         "type": "enchant"
       },
       {
@@ -4741,12 +4741,12 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1898784841",
+        "id": "enchant.stat_3459808765",
         "text": "할당 #",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3459808765",
+        "id": "enchant.stat_1898784841",
         "text": "할당 #",
         "type": "enchant"
       }
