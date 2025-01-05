@@ -6662,16 +6662,16 @@
         }
       },
       {
-        "type": "Iron Greatsword",
-        "text": "미완성 철 대검",
+        "type": "Corroded Longsword",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
+        "type": "Iron Greatsword",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6686,16 +6686,32 @@
         }
       },
       {
-        "type": "Bearded Axe",
-        "text": "미완성 수염 도끼",
+        "type": "Holy Flail",
+        "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Holy Flail",
-        "text": "미완성 신성한 도리깨",
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Executioner Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Bearded Axe",
+        "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6712,22 +6728,6 @@
       {
         "type": "War Spear",
         "text": "미완성 전쟁 창",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Executioner Greataxe",
-        "text": "미완성 사형 집행자 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Corroded Longsword",
-        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
