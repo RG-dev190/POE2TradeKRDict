@@ -6518,6 +6518,10 @@
         "text": "파문 대검"
       },
       {
+        "type": "Arced Longsword",
+        "text": "원호 장검"
+      },
+      {
         "type": "Shortsword",
         "text": "푸른혀 절단도",
         "name": "Bluetongue",
@@ -6646,8 +6650,32 @@
         }
       },
       {
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Simple Dagger",
         "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Bearded Axe",
+        "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6662,16 +6690,24 @@
         }
       },
       {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
+        "type": "Rippled Greatsword",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hunting Spear",
+        "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6702,40 +6738,8 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
-        "text": "미완성 파문 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Holy Flail",
         "text": "미완성 신성한 도리깨",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Bearded Axe",
-        "text": "미완성 수염 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Hunting Spear",
-        "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
