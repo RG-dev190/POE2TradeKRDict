@@ -581,7 +581,7 @@
       },
       {
         "type": "Sapphire Ring",
-        "text": "형제단의 속삭임 사파이어 반지",
+        "text": "형제의 속삭임 사파이어 반지",
         "name": "Whisper of the Brotherhood",
         "flags": {
           "unique": true
@@ -5105,7 +5105,7 @@
       },
       {
         "type": "Heightened Curse",
-        "text": "조고된 저주"
+        "text": "고조된 저주"
       },
       {
         "type": "Herbalism",
@@ -5409,7 +5409,7 @@
       },
       {
         "type": "Bidding",
-        "text": "Bidding"
+        "text": "지시"
       },
       {
         "type": "Break Endurance",
@@ -5485,7 +5485,7 @@
       },
       {
         "type": "Focused Curse",
-        "text": "집중 집중구"
+        "text": "집중된 저주"
       },
       {
         "type": "Fresh Clip",
@@ -5601,7 +5601,7 @@
       },
       {
         "type": "Tremors",
-        "text": "Tremors"
+        "text": "진동"
       },
       {
         "type": "Upheaval",
@@ -6642,14 +6642,6 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Hook Axe",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
@@ -6666,8 +6658,32 @@
         }
       },
       {
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Rippled Greatsword",
+        "text": "미완성 파문 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Crone Knife",
         "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Executioner Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6706,14 +6722,6 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
-        "text": "미완성 파문 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Moon Dagger",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
@@ -6732,14 +6740,6 @@
       {
         "type": "Hunting Spear",
         "text": "미완성 사냥 창",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Executioner Greataxe",
-        "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -7109,7 +7109,7 @@
       },
       {
         "type": "Tapestry Relic",
-        "text": "부서진 향로 융단 유물",
+        "text": "통솔의 짐 융단 유물",
         "name": "The Burden of Leadership",
         "flags": {
           "unique": true
@@ -7117,7 +7117,7 @@
       },
       {
         "type": "Seal Relic",
-        "text": "밤의 등화 인장 유물",
+        "text": "변화하는 계절 인장 유물",
         "name": "The Changing Seasons",
         "flags": {
           "unique": true
@@ -7125,7 +7125,7 @@
       },
       {
         "type": "Vase Relic",
-        "text": "두 번째 성체 화병 유물",
+        "text": "필사적인 동맹 화병 유물",
         "name": "The Desperate Alliance",
         "flags": {
           "unique": true
@@ -7149,7 +7149,7 @@
       },
       {
         "type": "Coffer Relic",
-        "text": "최초의 문양 궤짝 유물",
+        "text": "기억된 이야기들 궤짝 유물",
         "name": "The Remembered Tales",
         "flags": {
           "unique": true
