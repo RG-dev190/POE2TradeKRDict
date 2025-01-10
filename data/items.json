@@ -6418,6 +6418,10 @@
         "text": "고상한 글레이브"
       },
       {
+        "type": "Rending Halberd",
+        "text": "분리의 미늘창"
+      },
+      {
         "type": "Felled Greatclub",
         "text": "쓰러진 대곤봉"
       },
@@ -6658,16 +6662,16 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
+        "type": "Executioner Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Executioner Greataxe",
-        "text": "미완성 사형 집행자 대도끼",
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6690,16 +6694,8 @@
         }
       },
       {
-        "type": "Bearded Axe",
-        "text": "미완성 수염 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Splitting Greataxe",
-        "text": "미완성 분할의 대도끼",
+        "type": "Broadsword",
+        "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6716,6 +6712,22 @@
       {
         "type": "Corroded Longsword",
         "text": "미완성 부식된 장검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Bearded Axe",
+        "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6780,14 +6792,6 @@
       {
         "type": "Twin Flail",
         "text": "미완성 쌍둥이 도리깨",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Broadsword",
-        "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
