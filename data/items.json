@@ -6418,6 +6418,10 @@
         "text": "고상한 글레이브"
       },
       {
+        "type": "Savage Greataxe",
+        "text": "야만 대도끼"
+      },
+      {
         "type": "Rending Halberd",
         "text": "분리의 미늘창"
       },
@@ -6670,16 +6674,8 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
-        "text": "미완성 파문 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6694,16 +6690,8 @@
         }
       },
       {
-        "type": "Arched Greataxe",
-        "text": "미완성 아치형 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
+        "type": "Rippled Greatsword",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6712,6 +6700,30 @@
       {
         "type": "Splitting Greataxe",
         "text": "미완성 분할의 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Arched Greataxe",
+        "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6736,14 +6748,6 @@
       {
         "type": "Moon Dagger",
         "text": "미완성 달의 단검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
