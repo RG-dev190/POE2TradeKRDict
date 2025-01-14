@@ -6658,16 +6658,16 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
+        "type": "Corroded Longsword",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 부식된 장검",
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6684,6 +6684,14 @@
       {
         "type": "Crone Knife",
         "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6714,8 +6722,8 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
+        "type": "Skinning Knife",
+        "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
