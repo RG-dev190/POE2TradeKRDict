@@ -6694,14 +6694,6 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Broadsword",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
@@ -6720,14 +6712,6 @@
       {
         "type": "Arched Greataxe",
         "text": "미완성 아치형 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Rippled Greatsword",
-        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6758,8 +6742,24 @@
         }
       },
       {
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Bearded Axe",
         "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Rippled Greatsword",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
