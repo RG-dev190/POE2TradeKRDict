@@ -6646,16 +6646,16 @@
         }
       },
       {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
+        "type": "Ironhead Spear",
+        "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Ironhead Spear",
-        "text": "미완성 철창날 창",
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6727,14 +6727,6 @@
       },
       {
         "type": "Arched Greataxe",
-        "text": "미완성 아치형 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Rippled Greatsword",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -6742,7 +6734,7 @@
         }
       },
       {
-        "type": "Simple Dagger",
+        "type": "Rippled Greatsword",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -6750,7 +6742,7 @@
         }
       },
       {
-        "type": "Skinning Knife",
+        "type": "Simple Dagger",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -6758,7 +6750,7 @@
         }
       },
       {
-        "type": "Hook Axe",
+        "type": "Skinning Knife",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -6766,8 +6758,16 @@
         }
       },
       {
-        "type": "Bearded Axe",
+        "type": "Hook Axe",
         "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Bearded Axe",
+        "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
