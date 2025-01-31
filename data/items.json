@@ -6647,14 +6647,6 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Ironhead Spear",
         "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -6662,8 +6654,8 @@
         }
       },
       {
-        "type": "Executioner Greataxe",
-        "text": "미완성 사형 집행자 대도끼",
+        "type": "Ironhead Spear",
+        "text": "미완성 무딘 손도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6678,8 +6670,8 @@
         }
       },
       {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
+        "type": "Executioner Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6704,6 +6696,14 @@
       {
         "type": "Splitting Greataxe",
         "text": "미완성 분할의 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
