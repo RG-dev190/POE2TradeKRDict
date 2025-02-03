@@ -6662,14 +6662,6 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 부식된 장검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Broadsword",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
@@ -6678,8 +6670,32 @@
         }
       },
       {
+        "type": "Corroded Longsword",
+        "text": "미완성 부식된 장검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Executioner Greataxe",
         "text": "미완성 사형 집행자 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
+        "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6720,22 +6736,6 @@
       {
         "type": "Rippled Greatsword",
         "text": "미완성 파문 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
