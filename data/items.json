@@ -6646,16 +6646,16 @@
         }
       },
       {
-        "type": "Dull Hatchet",
-        "text": "미완성 무딘 손도끼",
+        "type": "Ironhead Spear",
+        "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Ironhead Spear",
-        "text": "미완성 철창날 창",
+        "type": "Dull Hatchet",
+        "text": "미완성 무딘 손도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6679,14 +6679,6 @@
       },
       {
         "type": "Crone Knife",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -6694,7 +6686,7 @@
         }
       },
       {
-        "type": "Holy Flail",
+        "type": "Chain Flail",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -6702,7 +6694,7 @@
         }
       },
       {
-        "type": "Charred Shortsword",
+        "type": "Holy Flail",
         "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -6710,7 +6702,7 @@
         }
       },
       {
-        "type": "Arched Greataxe",
+        "type": "Charred Shortsword",
         "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -6718,8 +6710,16 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
+        "type": "Arched Greataxe",
         "text": "미완성 파문 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Rippled Greatsword",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6758,6 +6758,14 @@
         }
       },
       {
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Bearded Axe",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
@@ -6768,14 +6776,6 @@
       {
         "type": "Splitting Greataxe",
         "text": "미완성 분할의 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
