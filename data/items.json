@@ -6686,14 +6686,6 @@
         }
       },
       {
-        "type": "Simple Dagger",
-        "text": "미완성 단순한 단검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Chain Flail",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
@@ -6720,6 +6712,14 @@
       {
         "type": "Crone Knife",
         "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Simple Dagger",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
