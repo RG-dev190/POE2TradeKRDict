@@ -149,13 +149,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1754445556",
-        "text": "공격 시 번개 피해 #~# 추가",
+        "id": "explicit.stat_3489782002",
+        "text": "에너지 보호막 최대치 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3489782002",
-        "text": "에너지 보호막 최대치 #",
+        "id": "explicit.stat_1754445556",
+        "text": "공격 시 번개 피해 #~# 추가",
         "type": "explicit"
       },
       {
@@ -169,23 +169,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2106365538",
-        "text": "회피 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1263695895",
         "text": "시야 반경 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2144192055",
-        "text": "회피 #",
+        "id": "explicit.stat_2106365538",
+        "text": "회피 #% 증가",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_124859000",
         "text": "회피 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2144192055",
+        "text": "회피 #",
         "type": "explicit"
       },
       {
@@ -249,13 +249,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_736967255",
+        "text": "카오스 피해 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3556824919",
         "text": "치명타 피해 보너스 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_736967255",
-        "text": "카오스 피해 #% 증가",
+        "id": "explicit.stat_2451402625",
+        "text": "방어도 및 회피 #% 증가",
         "type": "explicit"
       },
       {
@@ -266,11 +271,6 @@
       {
         "id": "explicit.stat_2306002879",
         "text": "이 지역에서 발견하는 아이템 희귀도 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2451402625",
-        "text": "방어도 및 회피 #% 증가",
         "type": "explicit"
       },
       {
@@ -379,6 +379,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3759663284",
+        "text": "투사체 속도 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_124131830",
         "text": "모든 주문 스킬 레벨 #",
         "type": "explicit"
@@ -386,11 +391,6 @@
       {
         "id": "explicit.stat_2017682521",
         "text": "무리 규모 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3759663284",
-        "text": "투사체 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -449,6 +449,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3015669065",
+        "text": "피해의 #%를 추가 화염 피해로 획득",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_770672621",
         "text": "소환수의 최대 생명력 #% 증가",
         "type": "explicit"
@@ -461,11 +466,6 @@
       {
         "id": "explicit.stat_293638271",
         "text": "감전 확률 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3015669065",
-        "text": "피해의 #%를 추가 화염 피해로 획득",
         "type": "explicit"
       },
       {
@@ -504,6 +504,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1545858329",
+        "text": "모든 번개 주문 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_51994685",
         "text": "플라스크로 얻는 생명력 회복 속도 #% 증가",
         "type": "explicit"
@@ -519,11 +524,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1545858329",
-        "text": "모든 번개 주문 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_473429811",
         "text": "동결 축적 #% 증가",
         "type": "explicit"
@@ -534,13 +534,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_748522257",
-        "text": "기절 지속시간 #% 증가",
+        "id": "explicit.stat_44972811",
+        "text": "생명력 재생 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1412217137",
-        "text": "플라스크로 얻는 마나 회복 속도 #% 증가",
+        "id": "explicit.stat_748522257",
+        "text": "기절 지속시간 #% 증가",
         "type": "explicit"
       },
       {
@@ -549,8 +549,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_44972811",
-        "text": "생명력 재생 속도 #% 증가",
+        "id": "explicit.stat_1412217137",
+        "text": "플라스크로 얻는 마나 회복 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -589,13 +589,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_818778753",
-        "text": "피해가 번개 저항 #% 관통",
+        "id": "explicit.stat_1002362373",
+        "text": "근접 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1002362373",
-        "text": "근접 피해 #% 증가",
+        "id": "explicit.stat_818778753",
+        "text": "피해가 번개 저항 #% 관통",
         "type": "explicit"
       },
       {
@@ -679,6 +679,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1692879867",
+        "text": "플레이어에게 적용되는 출혈 지속시간 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3091578504",
         "text": "소환수의 공격 및 시전 속도 #% 증가",
         "type": "explicit"
@@ -694,23 +699,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1692879867",
-        "text": "플레이어에게 적용되는 출혈 지속시간 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1423639565",
         "text": "소환수의 모든 원소 저항 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4101943684",
-        "text": "몬스터의 기절 한계치 #% 증가",
+        "id": "explicit.stat_1994551050",
+        "text": "몬스터의 상태 이상 한계치 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1994551050",
-        "text": "몬스터의 상태 이상 한계치 #% 증가",
+        "id": "explicit.stat_4101943684",
+        "text": "몬스터의 기절 한계치 #% 증가",
         "type": "explicit"
       },
       {
@@ -869,13 +869,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3377888098",
-        "text": "스킬 효과 지속시간 #% 증가",
+        "id": "explicit.stat_4159248054",
+        "text": "함성 재사용 대기시간 회복 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4159248054",
-        "text": "함성 재사용 대기시간 회복 속도 #% 증가",
+        "id": "explicit.stat_3377888098",
+        "text": "스킬 효과 지속시간 #% 증가",
         "type": "explicit"
       },
       {
@@ -889,13 +889,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1798257884",
-        "text": "접근해 있는 동료가 주는 피해 #% 증가",
+        "id": "explicit.stat_1181419800",
+        "text": "철퇴나 셉터 사용 시 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1181419800",
-        "text": "철퇴나 셉터 사용 시 피해 #% 증가",
+        "id": "explicit.stat_1798257884",
+        "text": "접근해 있는 동료가 주는 피해 #% 증가",
         "type": "explicit"
       },
       {
@@ -909,11 +909,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2506820610",
-        "text": "몬스터가 명중 시 #%의 확률로 출혈 유발",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4010677958",
         "text": "접근해 있는 동료들이 1초마다 생명력 # 재생",
         "type": "explicit"
@@ -924,23 +919,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2653955271",
-        "text": "피해가 화염 저항 #% 관통",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2160282525",
-        "text": "플레이어에게 적용되는 동결 지속시간 #% 감소",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2321178454",
         "text": "#%의 확률로 적 관통",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1874553720",
-        "text": "플레이어에게 적용되는 냉각 지속시간 #% 감소",
+        "id": "explicit.stat_2653955271",
+        "text": "피해가 화염 저항 #% 관통",
         "type": "explicit"
       },
       {
@@ -949,13 +934,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_99927264",
-        "text": "플레이어에게 적용되는 감전 지속시간 #% 감소",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_440490623",
-        "text": "플레이어가 치명타 명중으로 유발하는 피해를 주는 상태 이상의 강도 #% 증가",
+        "id": "explicit.stat_2160282525",
+        "text": "플레이어에게 적용되는 동결 지속시간 #% 감소",
         "type": "explicit"
       },
       {
@@ -964,18 +944,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4181072906",
-        "text": "플레이어의 생명력 및 에너지 보호막 회복 속도 #% 감폭",
+        "id": "explicit.stat_1874553720",
+        "text": "플레이어에게 적용되는 냉각 지속시간 #% 감소",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3233599707",
-        "text": "무기 교체 속도 #% 증가",
+        "id": "explicit.stat_99927264",
+        "text": "플레이어에게 적용되는 감전 지속시간 #% 감소",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_1416292992",
         "text": "호신부 슬롯 #개",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_440490623",
+        "text": "플레이어가 치명타 명중으로 유발하는 피해를 주는 상태 이상의 강도 #% 증가",
         "type": "explicit"
       },
       {
@@ -986,6 +971,16 @@
       {
         "id": "explicit.stat_3741323227",
         "text": "플라스크 효과 지속시간 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4181072906",
+        "text": "플레이어의 생명력 및 에너지 보호막 회복 속도 #% 감폭",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3233599707",
+        "text": "무기 교체 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -1004,23 +999,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1898978455",
-        "text": "몬스터 피해가 #%의 원소 저항 관통",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_21071013",
         "text": "전령 스킬로 주는 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3166958180",
-        "text": "플레이어가 유발하는 출혈의 강도 #% 증가",
+        "id": "explicit.stat_1898978455",
+        "text": "몬스터 피해가 #%의 원소 저항 관통",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_153777645",
-        "text": "저주의 효과 범위 #% 증가",
+        "id": "explicit.stat_1852872083",
+        "text": "희귀 및 고유 적 명중 시 피해 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3166958180",
+        "text": "플레이어가 유발하는 출혈의 강도 #% 증가",
         "type": "explicit"
       },
       {
@@ -1031,6 +1026,16 @@
       {
         "id": "explicit.stat_1303248024",
         "text": "플레이어가 유발하는 상태 이상의 강도 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_153777645",
+        "text": "저주의 효과 범위 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2527686725",
+        "text": "플레이어가 유발하는 감전의 강도 #% 증가",
         "type": "explicit"
       },
       {
@@ -1054,18 +1059,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1852872083",
-        "text": "희귀 및 고유 적 명중 시 피해 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1570770415",
         "text": "호신부 충전 소모량 #% 감소",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2527686725",
-        "text": "플레이어가 유발하는 감전의 강도 #% 증가",
         "type": "explicit"
       },
       {
@@ -1099,8 +1094,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2506820610",
+        "text": "몬스터가 명중 시 #%의 확률로 출혈 유발",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2768835289",
         "text": "주문 물리 피해 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3787460122",
+        "text": "공물의 최대 생명력 #% 증가",
         "type": "explicit"
       },
       {
@@ -1111,11 +1116,6 @@
       {
         "id": "explicit.stat_700317374",
         "text": "회복량 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3787460122",
-        "text": "공물의 최대 생명력 #% 증가",
         "type": "explicit"
       },
       {
@@ -1199,13 +1199,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2388936716",
-        "text": "Area has #% chance to contain a Strongbox",
+        "id": "explicit.stat_3780644166",
+        "text": "동결 한계치 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3780644166",
-        "text": "동결 한계치 #% 증가",
+        "id": "explicit.stat_2388936716",
+        "text": "Area has #% chance to contain a Strongbox",
         "type": "explicit"
       },
       {
@@ -1249,6 +1249,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_656461285",
+        "text": "지능 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_734614379",
         "text": "힘 #% 증가",
         "type": "explicit"
@@ -1256,11 +1261,6 @@
       {
         "id": "explicit.stat_3222482040",
         "text": "몬스터가 명중 시 #%의 확률로 권능, 격분, 인내 충전 강탈",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_656461285",
-        "text": "지능 #% 증가",
         "type": "explicit"
       },
       {
@@ -1279,6 +1279,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2594634307",
+        "text": "징표 스킬의 스킬 효과 지속시간 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1238227257",
         "text": "플레이어에게 적용되는 디버프가 #% 더 빠르게 만료됨",
         "type": "explicit"
@@ -1289,13 +1294,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2594634307",
-        "text": "징표 스킬의 스킬 효과 지속시간 #% 증가",
+        "id": "explicit.stat_1062710370",
+        "text": "적에게 적용되는 점화, 감전, 냉각의 지속시간 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1062710370",
-        "text": "적에게 적용되는 점화, 감전, 냉각의 지속시간 #% 증가",
+        "id": "explicit.stat_4189061307",
+        "text": "징표 스킬의 시전 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -1314,8 +1319,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4189061307",
-        "text": "징표 스킬의 시전 속도 #% 증가",
+        "id": "explicit.stat_1594812856",
+        "text": "함성 사용 시 피해 #% 증가",
         "type": "explicit"
       },
       {
@@ -1364,23 +1369,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1594812856",
-        "text": "함성 사용 시 피해 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1949833742",
         "text": "혼미 축적 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_941368244",
-        "text": "플레이어의 재사용 대기시간 회복 속도 #% 증폭",
+        "id": "explicit.stat_3850614073",
+        "text": "접근해 있는 동료들의 모든 원소 저항 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3850614073",
-        "text": "접근해 있는 동료들의 모든 원소 저항 #%",
+        "id": "explicit.stat_941368244",
+        "text": "플레이어의 재사용 대기시간 회복 속도 #% 증폭",
         "type": "explicit"
       },
       {
@@ -1414,13 +1414,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1708461270",
-        "text": "몬스터의 효과 범위 #% 증가",
+        "id": "explicit.stat_1776411443",
+        "text": "파괴되는 방어구 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1776411443",
-        "text": "파괴되는 방어구 #% 증가",
+        "id": "explicit.stat_1708461270",
+        "text": "몬스터의 효과 범위 #% 증가",
         "type": "explicit"
       },
       {
@@ -1434,13 +1434,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2082207021",
-        "text": "지능 5당 공격의 효과 범위 #% 증가",
+        "id": "explicit.stat_3356155703",
+        "text": "민첩 5당 공격 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3356155703",
-        "text": "민첩 5당 공격 속도 #% 증가",
+        "id": "explicit.stat_2082207021",
+        "text": "지능 5당 공격의 효과 범위 #% 증가",
         "type": "explicit"
       },
       {
@@ -1599,6 +1599,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3891355829",
+        "text": "반경이 중형으로 업그레이드",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2214228141",
         "text": "투사체가 모든 화상 상태의 적 관통",
         "type": "explicit"
@@ -1606,11 +1611,6 @@
       {
         "id": "explicit.stat_1049080093",
         "text": "공격이 피해의 #%를 추가 화염 피해로 획득",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3891355829",
-        "text": "반경이 중형으로 업그레이드",
         "type": "explicit"
       },
       {
@@ -1704,18 +1704,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3837707023",
-        "text": "소환수의 카오스 저항 #%",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_315791320",
         "text": "플레이어의 오라 스킬의 오라 효과 #% 증가",
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3837707023",
+        "text": "소환수의 카오스 저항 #%",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2118708619",
         "text": "최근 4초 이내 시신을 소모한 경우 피해 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_704919631",
+        "text": "Trigger Greater Lightning Bolt Skill on Critical Hit",
         "type": "explicit"
       },
       {
@@ -1731,11 +1736,6 @@
       {
         "id": "explicit.stat_1261982764",
         "text": "생명력 회복 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_704919631",
-        "text": "Trigger Greater Lightning Bolt Skill on Critical Hit",
         "type": "explicit"
       },
       {
@@ -1849,8 +1849,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2041668411",
+        "text": "물리 피해가 고정 유발",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_4036087867",
         "text": "걸음을 디디면 부패 스킬 발동",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3428124128",
+        "text": "Delirious Monsters Killed in Area provide #% increased Reward Progress",
         "type": "explicit"
       },
       {
@@ -1859,18 +1869,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1181501418",
-        "text": "격노 최대치 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2041668411",
-        "text": "물리 피해가 고정 유발",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1104825894",
         "text": "저주 활성화 속도 #% 가속",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1181501418",
+        "text": "격노 최대치 #",
         "type": "explicit"
       },
       {
@@ -1904,23 +1909,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3428124128",
-        "text": "Delirious Monsters Killed in Area provide #% increased Reward Progress",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1653625239",
         "text": "Breaches in Area spawn an additional Rare Monster",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_610276769",
-        "text": "상태 이상의 영향을 받는 동안 이동 속도 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_4081947835",
-        "text": "투사체가 #%의 확률로 지형으로 인해 1회 추가 연쇄",
         "type": "explicit"
       },
       {
@@ -1934,8 +1924,23 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_610276769",
+        "text": "상태 이상의 영향을 받는 동안 이동 속도 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4081947835",
+        "text": "투사체가 #%의 확률로 지형으로 인해 1회 추가 연쇄",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2895144208",
         "text": "치명타 명중 시 힘줄 절단 유발",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2440265466",
+        "text": "Areas which contain Breaches have #% chance to contain three additional Breaches",
         "type": "explicit"
       },
       {
@@ -1959,11 +1964,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2440265466",
-        "text": "Areas which contain Breaches have #% chance to contain three additional Breaches",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1993950627",
         "text": "#~# 화염 가시 피해",
         "type": "explicit"
@@ -1974,13 +1974,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4287671144",
-        "text": "플레이어의 기본 생명력 재생의 #%가 접근해 있는 동료들에게 부여됨",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_943702197",
-        "text": "소환수가 자신의 최대 생명력의 #%를 추가 에너지 보호막 최대치로 획득",
+        "id": "explicit.stat_842299438",
+        "text": "최근 4초 이내 재장전한 경우 #%의 확률로 볼트를 소모하지 않음",
         "type": "explicit"
       },
       {
@@ -1989,8 +1984,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_842299438",
-        "text": "최근 4초 이내 재장전한 경우 #%의 확률로 볼트를 소모하지 않음",
+        "id": "explicit.stat_4287671144",
+        "text": "플레이어의 기본 생명력 재생의 #%가 접근해 있는 동료들에게 부여됨",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_943702197",
+        "text": "소환수가 자신의 최대 생명력의 #%를 추가 에너지 보호막 최대치로 획득",
         "type": "explicit"
       },
       {
@@ -2039,13 +2039,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3119172063",
-        "text": "#% increased Quantity of Items dropped by Map Bosses",
+        "id": "explicit.stat_796381300",
+        "text": "명중당하면 다시 명중당할 때까지 이동 속도가 무작위로 최대 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_796381300",
-        "text": "명중당하면 다시 명중당할 때까지 이동 속도가 무작위로 최대 #% 증가",
+        "id": "explicit.stat_3119172063",
+        "text": "#% increased Quantity of Items dropped by Map Bosses",
         "type": "explicit"
       },
       {
@@ -2064,6 +2064,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2230687504",
+        "text": "힘이 근접 무기와 근접 스킬의 다른 능력치 요구사항을 충족할 수 있음",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_886931978",
         "text": "낮은 생명력 상태일 때 사용 시 회복 #% 증폭",
         "type": "explicit"
@@ -2071,11 +2076,6 @@
       {
         "id": "explicit.stat_423304126",
         "text": "마나 최대치의 #% 이상일 때 최대 마나 상태로 간주",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2230687504",
-        "text": "힘이 근접 무기와 근접 스킬의 다른 능력치 요구사항을 충족할 수 있음",
         "type": "explicit"
       },
       {
@@ -2099,6 +2099,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2241560081",
+        "text": "민첩 25당 공격 속도 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_769129523",
         "text": "기절 축적 2배 유발",
         "type": "explicit"
@@ -2109,8 +2114,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2241560081",
-        "text": "민첩 25당 공격 속도 #% 증가",
+        "id": "explicit.stat_2416869319",
+        "text": "소환수의 생명력 회복 #%",
         "type": "explicit"
       },
       {
@@ -2121,11 +2126,6 @@
       {
         "id": "explicit.stat_3612407781",
         "text": "투사체 공격으로 받는 물리 피해 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2416869319",
-        "text": "소환수의 생명력 회복 #%",
         "type": "explicit"
       },
       {
@@ -2179,6 +2179,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2592455368",
+        "text": "정지 상태일 때 주위에 연막이 피어오름",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2214130968",
         "text": "강력 기절 상태의 적에게 항상 치명타 명중",
         "type": "explicit"
@@ -2186,11 +2191,6 @@
       {
         "id": "explicit.stat_3439162551",
         "text": "적 방어구를 완전히 파괴할 때 화염 노출 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2592455368",
-        "text": "정지 상태일 때 주위에 연막이 피어오름",
         "type": "explicit"
       },
       {
@@ -2234,6 +2234,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3393547195",
+        "text": "생명력이 최대일 때 이동 속도 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_4009879772",
         "text": "생명력 플라스크 충전량 #% 증가",
         "type": "explicit"
@@ -2246,11 +2251,6 @@
       {
         "id": "explicit.stat_4077035099",
         "text": "반경 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3393547195",
-        "text": "생명력이 최대일 때 이동 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -2294,6 +2294,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2715190555",
+        "text": "가시 치명타 명중 확률 #%",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_215346464",
         "text": "감전된 후 #초 동안 감전 면역",
         "type": "explicit"
@@ -2309,23 +2314,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2715190555",
-        "text": "가시 치명타 명중 확률 #%",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1092987622",
         "text": "받은 근접 물리 피해의 #%를 공격자에게 반사",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3423694372",
-        "text": "명중당하면 #%의 확률로 플레이어에게 출혈 유발",
+        "id": "explicit.stat_3308030688",
+        "text": "정지 상태일 때 마나 재생 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3308030688",
-        "text": "정지 상태일 때 마나 재생 속도 #% 증가",
+        "id": "explicit.stat_3423694372",
+        "text": "명중당하면 #%의 확률로 플레이어에게 출혈 유발",
         "type": "explicit"
       },
       {
@@ -2336,6 +2336,11 @@
       {
         "id": "explicit.stat_3811191316",
         "text": "소환수의 효과 범위 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1419390131",
+        "text": "에너지 보호막 재충전을 최근 4초 이내 시작했을 경우 피해를 받아도 중단되지 않음",
         "type": "explicit"
       },
       {
@@ -2351,6 +2356,11 @@
       {
         "id": "explicit.stat_38301299",
         "text": "낮은 생명력 상태일 때 화염 저항 #%",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_62849030",
+        "text": "치명타 시 적 중독",
         "type": "explicit"
       },
       {
@@ -2379,28 +2389,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_62849030",
-        "text": "치명타 시 적 중독",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1419390131",
-        "text": "에너지 보호막 재충전을 최근 4초 이내 시작했을 경우 피해를 받아도 중단되지 않음",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4258409981",
         "text": "희귀 및 고유 적이 접근해 있던 시간 1초당 해당 적에게 주는 명중 피해 #% 증가, 최대 200% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1453197917",
-        "text": "명중 시 #%의 확률로 권능 충전 획득",
+        "id": "explicit.stat_2135899247",
+        "text": "최대 권능 충전에 도달 시 모든 권능 충전을 상실",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2135899247",
-        "text": "최대 권능 충전에 도달 시 모든 권능 충전을 상실",
+        "id": "explicit.stat_1060572482",
+        "text": "반경 내 소형 패시브 스킬 효과 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1453197917",
+        "text": "명중 시 #%의 확률로 권능 충전 획득",
         "type": "explicit"
       },
       {
@@ -2429,13 +2434,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1060572482",
-        "text": "반경 내 소형 패시브 스킬 효과 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1073310669",
-        "text": "최근 4초 이내 명중당한 경우 회피 #% 증가",
+        "id": "explicit.stat_67637087",
+        "text": "최근 4초 이내 명중당하지 않은 경우 받는 피해 #% 감폭",
         "type": "explicit"
       },
       {
@@ -2444,18 +2444,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_67637087",
-        "text": "최근 4초 이내 명중당하지 않은 경우 받는 피해 #% 감폭",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1269971728",
-        "text": "플레이어에게 적용되는 점화의 효과 #% 감소",
+        "id": "explicit.stat_1073310669",
+        "text": "최근 4초 이내 명중당한 경우 회피 #% 증가",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_3801067695",
         "text": "플레이어에게 적용되는 감전 효과 #% 감소",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1269971728",
+        "text": "플레이어에게 적용되는 점화의 효과 #% 감소",
         "type": "explicit"
       },
       {
@@ -2469,13 +2469,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1478653032",
-        "text": "플레이어에게 적용되는 냉각 효과 #% 감소",
+        "id": "explicit.stat_311641062",
+        "text": "#%의 확률로 자신의 플라스크 충전을 소모하지 않음",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_311641062",
-        "text": "#%의 확률로 자신의 플라스크 충전을 소모하지 않음",
+        "id": "explicit.stat_1478653032",
+        "text": "플레이어에게 적용되는 냉각 효과 #% 감소",
         "type": "explicit"
       },
       {
@@ -2494,6 +2494,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2438634449",
+        "text": "공격 치명타 명중 시 #%의 확률로 대상의 출혈 가중",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1170174456",
         "text": "인내 충전 지속시간 #% 증가",
         "type": "explicit"
@@ -2504,8 +2509,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2438634449",
-        "text": "공격 치명타 명중 시 #%의 확률로 대상의 출혈 가중",
+        "id": "explicit.stat_3222402650",
+        "text": "반경 내 소형 패시브 스킬이 원소 피해 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -2529,18 +2534,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_352044736",
-        "text": "격노마다 기절 한계치 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_841429130",
         "text": "플레이어가 유발하는 출혈이 가중됨",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3222402650",
-        "text": "반경 내 소형 패시브 스킬이 원소 피해 #% 증가도 부여",
+        "id": "explicit.stat_352044736",
+        "text": "격노마다 기절 한계치 #% 증가",
         "type": "explicit"
       },
       {
@@ -2569,6 +2569,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_4163415912",
+        "text": "장착한 룬 또는 영혼 핵 하나당 정신력 +#",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1484500028",
         "text": "공격이 피해의 #%를 추가 냉기 피해로 획득",
         "type": "explicit"
@@ -2589,13 +2594,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4163415912",
-        "text": "장착한 룬 또는 영혼 핵 하나당 정신력 +#",
+        "id": "explicit.stat_674553446",
+        "text": "공격 시 카오스 피해 #~# 추가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_674553446",
-        "text": "공격 시 카오스 피해 #~# 추가",
+        "id": "explicit.stat_1158842087",
+        "text": "Gain #% of Elemental Damage as Extra Cold Damage",
         "type": "explicit"
       },
       {
@@ -2624,18 +2629,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1158842087",
-        "text": "Gain #% of Elemental Damage as Extra Cold Damage",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1174954559",
         "text": "Delirium Fog in Area lasts # additional seconds before dissipating",
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3350944114",
+        "text": "Delirium Fog in Area dissipates #% faster",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1769611692",
         "text": "Delirium in Area increases #% faster with distance from the mirror",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4058681894",
+        "text": "치명타가 추가 피해를 주지 않음",
         "type": "explicit"
       },
       {
@@ -2649,18 +2659,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4058681894",
-        "text": "치명타가 추가 피해를 주지 않음",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_551040294",
         "text": "Delirium Fog in Area spawns #% increased Fracturing Mirrors",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2504358770",
-        "text": "균열이 #% 더 빠르게 열리고 닫힘",
         "type": "explicit"
       },
       {
@@ -2669,18 +2669,23 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2504358770",
+        "text": "균열이 #% 더 빠르게 열리고 닫힘",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2513318031",
         "text": "장착한 룬 또는 영혼 핵 하나당 능력치 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_632761194",
-        "text": "생명력 재생이 에너지 보호막에 대신 적용",
+        "id": "explicit.stat_1225174187",
+        "text": "장착한 룬 또는 영혼 핵 하나당 일반 방어력 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1225174187",
-        "text": "장착한 룬 또는 영혼 핵 하나당 일반 방어력 #% 증가",
+        "id": "explicit.stat_632761194",
+        "text": "생명력 재생이 에너지 보호막에 대신 적용",
         "type": "explicit"
       },
       {
@@ -2699,8 +2704,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3350944114",
-        "text": "Delirium Fog in Area dissipates #% faster",
+        "id": "explicit.stat_1457411584",
+        "text": "4초마다 재생으로 인한 초당 생명력 회복 #당 생명력 1 회복",
         "type": "explicit"
       },
       {
@@ -2724,13 +2729,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1457411584",
-        "text": "4초마다 재생으로 인한 초당 생명력 회복 #당 생명력 1 회복",
+        "id": "explicit.stat_2442527254",
+        "text": "반경 내 소형 패시브 스킬이 냉기 피해 #% 증가도 부여",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_3314057862",
         "text": "플레이어가 유발한 점화가 2초 후 1.5미터 내의 다른 적에게 확산",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1040569494",
+        "text": "최근 4초 이내 회피 구르기를 한 경우 회피 #% 증가",
         "type": "explicit"
       },
       {
@@ -2751,16 +2761,6 @@
       {
         "id": "explicit.stat_3855016469",
         "text": "플레이어에 대한 명중의 치명타 피해 보너스 #% 감소",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2442527254",
-        "text": "반경 내 소형 패시브 스킬이 냉기 피해 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1040569494",
-        "text": "최근 4초 이내 회피 구르기를 한 경우 회피 #% 증가",
         "type": "explicit"
       },
       {
@@ -2794,8 +2794,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3276271783",
-        "text": "최대 에너지 보호막 1당 1초마다 생명력 # 재생",
+        "id": "explicit.stat_1978899297",
+        "text": "모든 원소 저항 최대치 #%",
         "type": "explicit"
       },
       {
@@ -2804,8 +2804,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1978899297",
-        "text": "모든 원소 저항 최대치 #%",
+        "id": "explicit.stat_3276271783",
+        "text": "최대 에너지 보호막 1당 1초마다 생명력 # 재생",
         "type": "explicit"
       },
       {
@@ -2814,13 +2814,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3666476747",
-        "text": "반경 내 소형 패시브 스킬이 생명력 흡수량 #% 증가도 부여",
+        "id": "explicit.stat_3256879910",
+        "text": "반경 내 소형 패시브 스킬이 마나 재생 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_1185341308",
         "text": "반경 내 주요 패시브 스킬이 생명력 재생 속도 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3666476747",
+        "text": "반경 내 소형 패시브 스킬이 생명력 흡수량 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -2844,11 +2849,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3256879910",
-        "text": "반경 내 소형 패시브 스킬이 마나 재생 속도 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_484792219",
         "text": "반경 내 소형 패시브 스킬이 기절 한계치 #% 증가도 부여",
         "type": "explicit"
@@ -2859,6 +2859,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2369960685",
+        "text": "호신부가 사용하년 충전의 #%가 생명력 플라스크에 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1658498488",
         "text": "타락한 피가 플레이어에게 유발될 수 없음",
         "type": "explicit"
@@ -2866,11 +2871,6 @@
       {
         "id": "explicit.stat_1426522529",
         "text": "반경 내 소형 패시브 스킬이 공격 피해 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2369960685",
-        "text": "호신부가 사용하년 충전의 #%가 생명력 플라스크에 부여",
         "type": "explicit"
       },
       {
@@ -2894,6 +2894,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_412462523",
+        "text": "공격 피해 #% 증폭",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_588512487",
         "text": "지도에 무작위 속성 부여 #개 추가",
         "type": "explicit"
@@ -2901,11 +2906,6 @@
       {
         "id": "explicit.stat_1207554355",
         "text": "화살 속도 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_412462523",
-        "text": "공격 피해 #% 증폭",
         "type": "explicit"
       },
       {
@@ -2939,6 +2939,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2704905000",
+        "text": "반경 내 주요 패시브 스킬이 주문 치명타 명중 확률 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1539368271",
         "text": "폭발물 설치 범위 #% 증가",
         "type": "explicit"
@@ -2946,11 +2951,6 @@
       {
         "id": "explicit.stat_4219583418",
         "text": "몬스터가 떨어뜨리는 유물의 수량 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2704905000",
-        "text": "반경 내 주요 패시브 스킬이 주문 치명타 명중 확률 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -2976,6 +2976,11 @@
       {
         "id": "explicit.stat_3289828378",
         "text": "폭발 반경 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1488650448",
+        "text": "# to Ailment Threshold",
         "type": "explicit"
       },
       {
@@ -3014,11 +3019,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1488650448",
-        "text": "# to Ailment Threshold",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_868556494",
         "text": "반경 내 소형 패시브 스킬이 피해가 번개 저항 #% 관통도 부여",
         "type": "explicit"
@@ -3029,18 +3029,23 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3753748365",
+        "text": "낮은 생명력 상태일 때 적에게 명중당해 받는 피해에 불운 적용",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2077117738",
         "text": "반경 내 주요 패시브 스킬이 일반 치명타 확률 #% 증가도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2359002191",
-        "text": "반경 내 주요 패시브 스킬이 치명타 피해 보너스 #% 증가도 부여",
+        "id": "explicit.stat_474452755",
+        "text": "적 공격을 회피할 수 없음",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_474452755",
-        "text": "적 공격을 회피할 수 없음",
+        "id": "explicit.stat_2359002191",
+        "text": "반경 내 주요 패시브 스킬이 치명타 피해 보너스 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3051,6 +3056,11 @@
       {
         "id": "explicit.stat_3858398337",
         "text": "반경 내 소형 패시브 스킬이 방어도 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_253641217",
+        "text": "반경 내 주요 패시브 스킬이 플레이어가 유발하는 점화의 강도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3066,11 +3076,6 @@
       {
         "id": "explicit.stat_1309799717",
         "text": "반경 내 소형 패시브 스킬이 카오스 피해 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3753748365",
-        "text": "낮은 생명력 상태일 때 적에게 명중당해 받는 피해에 불운 적용",
         "type": "explicit"
       },
       {
@@ -3099,13 +3104,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_793801176",
-        "text": "에너지 생성량 2배",
+        "id": "explicit.stat_227523295",
+        "text": "권능 충전 최대치 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_227523295",
-        "text": "권능 충전 최대치 #",
+        "id": "explicit.stat_793801176",
+        "text": "에너지 생성량 2배",
         "type": "explicit"
       },
       {
@@ -3144,8 +3149,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_253641217",
-        "text": "반경 내 주요 패시브 스킬이 플레이어가 유발하는 점화의 강도 #% 증가도 부여",
+        "id": "explicit.stat_3641543553",
+        "text": "반경 내 주요 패시브 스킬이 활 사용 시 공격 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3161,11 +3166,6 @@
       {
         "id": "explicit.stat_1653682082",
         "text": "반경 내 소형 패시브 스킬이 최대 에너지 보호막의 #%를 추가 기절 한계치로 획득도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3641543553",
-        "text": "반경 내 주요 패시브 스킬이 활 사용 시 공격 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3259,13 +3259,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1602294220",
-        "text": "반경 내 소형 패시브 스킬이 함성 속도 #% 증가도 부여",
+        "id": "explicit.stat_2056107438",
+        "text": "반경 내 주요 패시브 스킬이 함성 재사용 대기시간 회복 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2056107438",
-        "text": "반경 내 주요 패시브 스킬이 함성 재사용 대기시간 회복 속도 #% 증가도 부여",
+        "id": "explicit.stat_1602294220",
+        "text": "반경 내 소형 패시브 스킬이 함성 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3279,6 +3279,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3491722585",
+        "text": "접근해 있는 적들이 위협에 걸림",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1145481685",
         "text": "반경 내 소형 패시브 스킬이 토템 설치 속도 #% 증가도 부여",
         "type": "explicit"
@@ -3289,8 +3294,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3491722585",
-        "text": "접근해 있는 적들이 위협에 걸림",
+        "id": "explicit.stat_2392824305",
+        "text": "반경 내 주요 패시브 스킬이 철퇴의 기절 축적 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2976476845",
+        "text": "반경 내 주요 패시브 스킬이 밀어내기 거리 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3324,13 +3334,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2976476845",
-        "text": "반경 내 주요 패시브 스킬이 밀어내기 거리 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2392824305",
-        "text": "반경 내 주요 패시브 스킬이 철퇴의 기절 축적 #% 증가도 부여",
+        "id": "explicit.stat_111835965",
+        "text": "반경 내 주요 패시브 스킬이 육척봉 사용 시 공격 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3364,18 +3369,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1852184471",
-        "text": "반경 내 소형 패시브 스킬이 철퇴나 셉터 사용 시 피해 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3362812763",
         "text": "방어도의 #%가 원소 피해에 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_111835965",
-        "text": "반경 내 주요 패시브 스킬이 육척봉 사용 시 공격 속도 #% 증가도 부여",
+        "id": "explicit.stat_1852184471",
+        "text": "반경 내 소형 패시브 스킬이 철퇴나 셉터 사용 시 피해 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3399,13 +3399,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3088348485",
-        "text": "반경 내 소형 패시브 스킬이 호신부 효과 지속시간 #% 증가도 부여",
+        "id": "explicit.stat_1035111817",
+        "text": "반경 내 주요 패시브 스킬이 장착한 방패로 얻는 방어력 #% 증가도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1035111817",
-        "text": "반경 내 주요 패시브 스킬이 장착한 방패로 얻는 방어력 #% 증가도 부여",
+        "id": "explicit.stat_3088348485",
+        "text": "반경 내 소형 패시브 스킬이 호신부 효과 지속시간 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3464,23 +3464,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2714890129",
-        "text": "생명력 흡수가 최대 생명력을 초과하여 넘칠 수 있음",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_944643028",
         "text": "반경 내 소형 패시브 스킬이 명중 시 #%의 확률로 출혈 유발도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3113764475",
-        "text": "반경 내 주요 패시브 스킬이 스킬 효과 지속시간 #% 증가도 부여",
+        "id": "explicit.stat_473917671",
+        "text": "반경 내 소형 패시브 스킬이 발동형 주문으로 주는 주문 피해 #% 증가도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_473917671",
-        "text": "반경 내 소형 패시브 스킬이 발동형 주문으로 주는 주문 피해 #% 증가도 부여",
+        "id": "explicit.stat_2714890129",
+        "text": "생명력 흡수가 최대 생명력을 초과하여 넘칠 수 있음",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3113764475",
+        "text": "반경 내 주요 패시브 스킬이 스킬 효과 지속시간 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3544,6 +3544,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3419203492",
+        "text": "반경 내 주요 패시브 스킬이 장착한 집중구로 얻는 에너지 보호막 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1166140625",
         "text": "반경 내 주요 패시브 스킬이 플레이어가 유발하는 감전의 강도 #% 증가도 부여",
         "type": "explicit"
@@ -3554,8 +3559,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3419203492",
-        "text": "반경 내 주요 패시브 스킬이 장착한 집중구로 얻는 에너지 보호막 #% 증가도 부여",
+        "id": "explicit.stat_1298316550",
+        "text": "회피 구르기가 적들을 통과함",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3814876985",
+        "text": "치명타 명중 시 #%의 확률로 권능 충전 획득",
         "type": "explicit"
       },
       {
@@ -3569,13 +3579,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3814876985",
-        "text": "치명타 명중 시 #%의 확률로 권능 충전 획득",
+        "id": "explicit.stat_3826125995",
+        "text": "주문의 투사체 관통 불가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1298316550",
-        "text": "회피 구르기가 적들을 통과함",
+        "id": "explicit.stat_1777421941",
+        "text": "반경 내 주요 패시브 스킬이 투사체 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3594,18 +3604,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1777421941",
-        "text": "반경 내 주요 패시브 스킬이 투사체 속도 #% 증가도 부여",
+        "id": "explicit.stat_525523040",
+        "text": "반경 내 주요 패시브 스킬이 처치 시 마나의 #% 회복도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2437476305",
-        "text": "왼쪽 반지 슬롯: 주문의 투사체가 갈라짐",
+        "id": "explicit.stat_3835551335",
+        "text": "중독될 수 없음",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_3902042119",
         "text": "모든 명중의 피해를 막을 수 있음",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2437476305",
+        "text": "왼쪽 반지 슬롯: 주문의 투사체가 갈라짐",
         "type": "explicit"
       },
       {
@@ -3619,18 +3634,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3835551335",
-        "text": "중독될 수 없음",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2161347476",
         "text": "정확도 2배",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_525523040",
-        "text": "반경 내 주요 패시브 스킬이 처치 시 마나의 #% 회복도 부여",
         "type": "explicit"
       },
       {
@@ -3654,11 +3659,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_147764878",
-        "text": "반경 내 소형 패시브 스킬이 희귀 및 고유 적 명중 시 피해 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3859848445",
         "text": "반경 내 주요 패시브 스킬이 저주의 효과 범위 #% 증가도 부여",
         "type": "explicit"
@@ -3669,13 +3669,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_147764878",
+        "text": "반경 내 소형 패시브 스킬이 희귀 및 고유 적 명중 시 피해 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_999436592",
         "text": "흡수로 인한 과잉 생명력 회복이 에너지 보호막에 적용됨",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1630111277",
-        "text": "적 명중 시 6초 동안 적의 위세와 동일한 최대 추가 번개 피해 획득, 최대 총 #",
+        "id": "explicit.stat_2107703111",
+        "text": "반경 내 소형 패시브 스킬이 공물의 최대 생명력 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3684,8 +3689,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3826125995",
-        "text": "주문의 투사체 관통 불가",
+        "id": "explicit.stat_793875384",
+        "text": "반경 내 소형 패시브 스킬이 소환수 정확도 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1630111277",
+        "text": "적 명중 시 6초 동안 적의 위세와 동일한 최대 추가 번개 피해 획득, 최대 총 #",
         "type": "explicit"
       },
       {
@@ -3701,11 +3711,6 @@
       {
         "id": "explicit.stat_1031644647",
         "text": "Revived Monsters from Ritual Altars in Area have #% increased chance to be Magic",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2107703111",
-        "text": "반경 내 소형 패시브 스킬이 공물의 최대 생명력 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3734,8 +3739,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_599749213",
-        "text": "모든 화염 스킬 레벨 #",
+        "id": "explicit.stat_3156445245",
+        "text": "최근 20초 이내 사용한 회피 구르기 1회당 이동 및 스킬 속도 #% 감폭",
         "type": "explicit"
       },
       {
@@ -3744,18 +3749,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_793875384",
-        "text": "반경 내 소형 패시브 스킬이 소환수 정확도 #% 증가도 부여",
+        "id": "explicit.stat_599749213",
+        "text": "모든 화염 스킬 레벨 #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_1147690586",
         "text": "모든 번개 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3156445245",
-        "text": "최근 20초 이내 사용한 회피 구르기 1회당 이동 및 스킬 속도 #% 감폭",
         "type": "explicit"
       },
       {
@@ -3794,6 +3794,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1087108135",
+        "text": "반경 내 소형 패시브 스킬이 저주 지속시간 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_30642521",
         "text": "추가 저주 #개 적용 가능",
         "type": "explicit"
@@ -3804,13 +3809,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1087108135",
-        "text": "반경 내 소형 패시브 스킬이 저주 지속시간 #% 증가도 부여",
+        "id": "explicit.stat_61644361",
+        "text": "반경 내 주요 패시브 스킬이 적에게 적용되는 냉각 지속시간 #% 증가도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_61644361",
-        "text": "반경 내 주요 패시브 스킬이 적에게 적용되는 냉각 지속시간 #% 증가도 부여",
+        "id": "explicit.stat_3924187855",
+        "text": "제한 초과 번개 저항에 따라 회피 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3377256514",
+        "text": "제한 초과 냉기 저항에 따라 에너지 보호막 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1352561456",
+        "text": "반경 내 주요 패시브 스킬이 공격 피해의 치명타 피해 배율 #%도 부여",
         "type": "explicit"
       },
       {
@@ -3821,11 +3836,6 @@
       {
         "id": "explicit.stat_1640965354",
         "text": "지역에 룬 몬스터 표시물 수량 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3924187855",
-        "text": "제한 초과 번개 저항에 따라 회피 증가",
         "type": "explicit"
       },
       {
@@ -3854,11 +3864,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3377256514",
-        "text": "제한 초과 냉기 저항에 따라 에너지 보호막 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2942704390",
         "text": "스킬의 제한 +#",
         "type": "explicit"
@@ -3874,18 +3879,28 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1083387327",
-        "text": "룬 몬스터가 떨어뜨리는 탐험 일지의 수량 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2256120736",
         "text": "반경 내 주요 패시브 스킬이 플레이어에게 적용되는 디버프가 #% 더 빠르게 만료됨도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1352561456",
-        "text": "반경 내 주요 패시브 스킬이 공격 피해의 치명타 피해 배율 #%도 부여",
+        "id": "explicit.stat_1083387327",
+        "text": "룬 몬스터가 떨어뜨리는 탐험 일지의 수량 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_127081978",
+        "text": "반경 내 주요 패시브 스킬이 육척봉 사용 시 동결 축적 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3856744003",
+        "text": "반경 내 주요 패시브 스킬이 쇠뇌 재장전 속도 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1087531620",
+        "text": "반경 내 주요 패시브 스킬이 동결 축적 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3899,11 +3914,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_127081978",
-        "text": "반경 내 주요 패시브 스킬이 육척봉 사용 시 동결 축적 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2786852525",
         "text": "플레이어에게 접근해 있는 적들이 가장 낮은 저항에 기반하여 원소 피해에 저항",
         "type": "explicit"
@@ -3914,18 +3924,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3856744003",
-        "text": "반경 내 주요 패시브 스킬이 쇠뇌 재장전 속도 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1323216174",
         "text": "반경 내 주요 패시브 스킬이 적에게 적용되는 점화, 감전, 냉각의 지속시간 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1087531620",
-        "text": "반경 내 주요 패시브 스킬이 동결 축적 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -3999,23 +3999,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3642528642|7",
-        "text": "아주 넓은 반경의 패시브 스킬에만 영향을 미침",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1613322341",
-        "text": "플레이어가 이동 불가 상태로 만든 적이 받는 피해 #% 감폭",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3642528642|4",
         "text": "중간 반경의 패시브 스킬에만 영향을 미침",
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3642528642|7",
+        "text": "아주 넓은 반경의 패시브 스킬에만 영향을 미침",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_4238331303",
         "text": "100% 대신 #% 축적 시 적의 이동 불가 유발",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1613322341",
+        "text": "플레이어가 이동 불가 상태로 만든 적이 받는 피해 #% 감폭",
         "type": "explicit"
       },
       {
@@ -4039,6 +4039,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1564929017",
+        "text": "지도 보스가 있는 지역에 금고 1개 추가 등장",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2913235441",
         "text": "희귀 몬스터를 처치 시 20초 동안 해당 몬스터의 속성 획득",
         "type": "explicit"
@@ -4049,8 +4054,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1564929017",
-        "text": "지도 보스가 있는 지역에 금고 1개 추가 등장",
+        "id": "explicit.stat_1326574452",
+        "text": "지도 보스가 있는 지역에 에센스 1개 추가 등장",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1002973905",
+        "text": "사용 시 마나 모두 회복",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3969608626",
+        "text": "점유되지 않은 마나가 찼을 때 효과가 제거되지 않음",
         "type": "explicit"
       },
       {
@@ -4064,18 +4079,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3969608626",
-        "text": "점유되지 않은 마나가 찼을 때 효과가 제거되지 않음",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1326574452",
-        "text": "지도 보스가 있는 지역에 에센스 1개 추가 등장",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3078574625",
         "text": "#% increased Effect of Remnants in Area",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2906384323",
+        "text": "최대 격노 도달 시 무작위 충전 # 획득",
         "type": "explicit"
       },
       {
@@ -4094,11 +4104,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2906384323",
-        "text": "최대 격노 도달 시 무작위 충전 # 획득",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3642528642|6",
         "text": "넓은 반경의 패시브 스킬에만 영향을 미침",
         "type": "explicit"
@@ -4114,18 +4119,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_40618390",
-        "text": "반경 내 주요 패시브 스킬이 지능 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3994876825",
         "text": "반경 내 소형 패시브 스킬이 번개 저항 #%도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2884937919",
-        "text": "반경 내 소형 패시브 스킬이 냉기 저항 #%도 부여",
         "type": "explicit"
       },
       {
@@ -4134,8 +4129,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1002973905",
-        "text": "사용 시 마나 모두 회복",
+        "id": "explicit.stat_40618390",
+        "text": "반경 내 주요 패시브 스킬이 지능 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2884937919",
+        "text": "반경 내 소형 패시브 스킬이 냉기 저항 #%도 부여",
         "type": "explicit"
       },
       {
@@ -4159,13 +4159,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1862508014",
-        "text": "반경 내 주요 패시브 스킬이 냉기 저항 최대치 #%도 부여",
+        "id": "explicit.stat_2580617872",
+        "text": "반경 내 주요 패시브 스킬이 디버프의 감속 효력 #% 증가도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2580617872",
-        "text": "반경 내 주요 패시브 스킬이 디버프의 감속 효력 #% 증가도 부여",
+        "id": "explicit.stat_1862508014",
+        "text": "반경 내 주요 패시브 스킬이 냉기 저항 최대치 #%도 부여",
         "type": "explicit"
       },
       {
@@ -4194,6 +4194,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1247628870",
+        "text": "반경 내 소형 패시브 스킬이 최대 마나 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3029185248",
         "text": "최대 물리 공격 피해 #% 증폭",
         "type": "explicit"
@@ -4204,13 +4209,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3872034802",
-        "text": "대량 학살 타격",
+        "id": "explicit.stat_852470634",
+        "text": "반경 내 주요 패시브 스킬이 피해의 #%를 추가 번개 피해로 획득도 부여",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_852470634",
-        "text": "반경 내 주요 패시브 스킬이 피해의 #%를 추가 번개 피해로 획득도 부여",
+        "id": "explicit.stat_3872034802",
+        "text": "대량 학살 타격",
         "type": "explicit"
       },
       {
@@ -4226,11 +4231,6 @@
       {
         "id": "explicit.stat_2620375641",
         "text": "호신부가 충전을 사용하지 않음",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1247628870",
-        "text": "반경 내 소형 패시브 스킬이 최대 마나 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -4334,6 +4334,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_844449513",
+        "text": "반경 내 주요 패시브 스킬이 이동 속도 #% 증가도 부여",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3666934677",
         "text": "경험치 획득 #% 증가",
         "type": "explicit"
@@ -4346,11 +4351,6 @@
       {
         "id": "explicit.stat_2374711847",
         "text": "반경 내 주요 패시브 스킬이 공물 스킬의 지속시간 #% 증가도 부여",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_844449513",
-        "text": "반경 내 주요 패시브 스킬이 이동 속도 #% 증가도 부여",
         "type": "explicit"
       },
       {
@@ -4499,6 +4499,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_120737942",
+        "text": "지역 내 의식 제단이 헌정품 무작위 변경 추가 1회 허용",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3119282240",
         "text": "플레이어들의 최대 생명력 및 에너지 보호막 #% 증폭",
         "type": "explicit"
@@ -4506,11 +4511,6 @@
       {
         "id": "explicit.stat_1138708335",
         "text": "몬스터 피해가 냉기 저항 #% 관통",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_120737942",
-        "text": "지역 내 의식 제단이 헌정품 무작위 변경 추가 1회 허용",
         "type": "explicit"
       },
       {
@@ -4549,6 +4549,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2422708892|33979",
+        "text": "반경 도관 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3991877392",
         "text": "반경 내 주요 패시브 스킬이 정신력 #도 부여",
         "type": "explicit"
@@ -4574,13 +4579,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2422708892|56605",
+        "text": "반경 방벽 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2422708892|51749",
         "text": "반경 혈마법 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2422708892|56605",
-        "text": "반경 방벽 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
+        "id": "explicit.stat_2422708892|14540",
+        "text": "반경 변함없는 자세 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -4599,18 +4609,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2422708892|14540",
-        "text": "반경 변함없는 자세 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2422708892|33369",
         "text": "반경 바알의 계약 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2422708892|33979",
-        "text": "반경 도관 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -4649,8 +4649,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3076483222|32821",
-        "text": "최대 대장장이의 숫돌 20개까지 소모하여 시련 완료 시 2배 획득",
+        "id": "explicit.stat_2422708892|44017",
+        "text": "반경 확고한 기술 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -4659,8 +4659,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3787436548",
-        "text": "역사적인 순간",
+        "id": "explicit.stat_3076483222|32821",
+        "text": "최대 대장장이의 숫돌 20개까지 소모하여 시련 완료 시 2배 획득",
         "type": "explicit"
       },
       {
@@ -4669,8 +4669,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2422708892|44017",
-        "text": "반경 확고한 기술 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
+        "id": "explicit.stat_3787436548",
+        "text": "역사적인 순간",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2422708892|52",
+        "text": "반경 맹신자의 서약 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -4686,6 +4691,11 @@
       {
         "id": "explicit.stat_448592698|9",
         "text": "모든 수확자의 기원 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|44",
+        "text": "모든 회오리 사격 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4724,18 +4734,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|44",
-        "text": "모든 회오리 사격 스킬 레벨 #",
+        "id": "explicit.stat_448592698|42",
+        "text": "모든 감전연쇄 화살 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|124",
+        "text": "모든 혼의 춤 스킬 레벨 #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_448592698|105",
         "text": "모든 고통의 공물 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2422708892|52",
-        "text": "반경 맹신자의 서약 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -4749,6 +4759,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|7",
+        "text": "모든 충전 주입 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|31",
         "text": "모든 뼈 공물 스킬 레벨 #",
         "type": "explicit"
@@ -4759,13 +4774,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|7",
-        "text": "모든 충전 주입 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|112",
-        "text": "모든 완벽한 타격 스킬 레벨 #",
+        "id": "explicit.stat_448592698|171",
+        "text": "모든 독 폭발 화살 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4779,18 +4789,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|171",
-        "text": "모든 독 폭발 화살 스킬 레벨 #",
+        "id": "explicit.stat_448592698|112",
+        "text": "모든 완벽한 타격 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|42",
-        "text": "모든 감전연쇄 화살 스킬 레벨 #",
+        "id": "explicit.stat_448592698|22",
+        "text": "모든 영혼 공물 스킬 레벨 #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_448592698|30",
         "text": "모든 구형 번개 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|146",
+        "text": "모든 폭풍 소환사 화살 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4819,13 +4834,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|147",
-        "text": "모든 저격 스킬 레벨 #",
+        "id": "explicit.stat_448592698|142",
+        "text": "모든 섬광 유탄 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|142",
-        "text": "모든 섬광 유탄 스킬 레벨 #",
+        "id": "explicit.stat_448592698|147",
+        "text": "모든 저격 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4836,6 +4851,16 @@
       {
         "id": "explicit.stat_448592698|64",
         "text": "모든 감전 시 시전 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|174",
+        "text": "모든 방어구 관통 탄환 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|33",
+        "text": "모든 지진 함성 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4851,21 +4876,6 @@
       {
         "id": "explicit.stat_448592698|102",
         "text": "모든 바람 폭발 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|124",
-        "text": "모든 혼의 춤 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|146",
-        "text": "모든 폭풍 소환사 화살 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|22",
-        "text": "모든 영혼 공물 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4894,6 +4904,16 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|36",
+        "text": "모든 초과 충전 강타 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|83",
+        "text": "모든 취약성 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|100",
         "text": "모든 연발 사격 스킬 레벨 #",
         "type": "explicit"
@@ -4904,8 +4924,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|88",
-        "text": "모든 착취 타격 스킬 레벨 #",
+        "id": "explicit.stat_448592698|77",
+        "text": "모든 도약 강타 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4919,6 +4939,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|88",
+        "text": "모든 착취 타격 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|128",
         "text": "모든 바람의 무희 스킬 레벨 #",
         "type": "explicit"
@@ -4929,8 +4954,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|10",
-        "text": "모든 희생 스킬 레벨 #",
+        "id": "explicit.stat_448592698|46",
+        "text": "모든 절망 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4939,13 +4964,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|131",
-        "text": "모든 전쟁 깃발 스킬 레벨 #",
+        "id": "explicit.stat_448592698|10",
+        "text": "모든 희생 스킬 레벨 #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_448592698|73",
         "text": "모든 파편 청소부 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|131",
+        "text": "모든 전쟁 깃발 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -4964,11 +4994,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|83",
-        "text": "모든 취약성 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|63",
         "text": "모든 신성 모독 스킬 레벨 #",
         "type": "explicit"
@@ -4979,23 +5004,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|33",
-        "text": "모든 지진 함성 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|77",
-        "text": "모든 도약 강타 스킬 레벨 #",
+        "id": "explicit.stat_448592698|35",
+        "text": "모든 선회 공격 스킬 레벨 #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_448592698|43",
         "text": "모든 비상 재장전 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|35",
-        "text": "모든 선회 공격 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5009,11 +5024,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|46",
-        "text": "모든 절망 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|68",
         "text": "모든 지속되는 환상 스킬 레벨 #",
         "type": "explicit"
@@ -5024,8 +5034,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|81",
+        "text": "모든 체온저하 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|75",
         "text": "모든 역병의 전령 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|125",
+        "text": "모든 마나 잔류물 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5034,13 +5054,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|1",
-        "text": "모든 치명타 시 시전 스킬 레벨 #",
+        "id": "explicit.stat_448592698|4",
+        "text": "모든 공포의 깃발 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|4",
-        "text": "모든 공포의 깃발 스킬 레벨 #",
+        "id": "explicit.stat_448592698|1",
+        "text": "모든 치명타 시 시전 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5064,11 +5084,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|81",
-        "text": "모든 체온저하 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|108",
         "text": "모든 맹독성 종양 스킬 레벨 #",
         "type": "explicit"
@@ -5079,8 +5094,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|36",
-        "text": "모든 초과 충전 강타 스킬 레벨 #",
+        "id": "explicit.stat_448592698|76",
+        "text": "모든 전투 격분 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5089,8 +5104,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|14",
-        "text": "모든 시간의 사슬 스킬 레벨 #",
+        "id": "explicit.stat_448592698|118",
+        "text": "모든 얼어붙는 포화 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|8",
+        "text": "모든 연금술사의 은혜 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5099,23 +5119,13 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|14",
+        "text": "모든 시간의 사슬 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|18",
         "text": "모든 겨울의 눈 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|118",
-        "text": "모든 얼어붙는 포화 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|76",
-        "text": "모든 전투 격분 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|104",
-        "text": "모든 가스 유탄 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5124,8 +5134,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|175",
-        "text": "모든 영구 결빙 볼트 스킬 레벨 #",
+        "id": "explicit.stat_448592698|104",
+        "text": "모든 가스 유탄 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|113",
+        "text": "모든 공명하는 방패 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5134,8 +5149,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|174",
-        "text": "모든 방어구 관통 탄환 스킬 레벨 #",
+        "id": "explicit.stat_448592698|175",
+        "text": "모든 영구 결빙 볼트 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5184,23 +5199,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|125",
-        "text": "모든 마나 잔류물 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|162",
-        "text": "모든 화염 벽 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|90",
         "text": "모든 부정한 의식 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|113",
-        "text": "모든 공명하는 방패 스킬 레벨 #",
+        "id": "explicit.stat_448592698|162",
+        "text": "모든 화염 벽 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5214,6 +5219,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|17",
+        "text": "모든 해골 성직자 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|87",
         "text": "모든 전도성 유탄 스킬 레벨 #",
         "type": "explicit"
@@ -5221,6 +5231,16 @@
       {
         "id": "explicit.stat_448592698|135",
         "text": "모든 방어구 파괴자 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|99",
+        "text": "모든 소각 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|152",
+        "text": "모든 뜀틀 충격 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5234,13 +5254,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|8",
-        "text": "모든 연금술사의 은혜 스킬 레벨 #",
+        "id": "explicit.stat_448592698|61",
+        "text": "모든 얼음 화살 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|61",
-        "text": "모든 얼음 화살 스킬 레벨 #",
+        "id": "explicit.stat_448592698|164",
+        "text": "모든 몰려오는 강타 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5259,43 +5279,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|119",
-        "text": "모든 한기의 방어구 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|17",
-        "text": "모든 해골 성직자 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|13",
-        "text": "모든 점멸 타격 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|114",
-        "text": "모든 녹아내린 폭발 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|121",
         "text": "모든 얼음의 전령 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|170",
-        "text": "모든 발굴 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|164",
-        "text": "모든 몰려오는 강타 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|134",
-        "text": "모든 쇠약화 스킬 레벨 #",
+        "id": "explicit.stat_448592698|119",
+        "text": "모든 한기의 방어구 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5304,8 +5294,28 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|114",
+        "text": "모든 녹아내린 폭발 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|13",
+        "text": "모든 점멸 타격 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|170",
+        "text": "모든 발굴 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|65",
         "text": "모든 동결 시 시전 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|134",
+        "text": "모든 쇠약화 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5316,11 +5326,6 @@
       {
         "id": "explicit.stat_448592698|95",
         "text": "모든 동결의 징표 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|99",
-        "text": "모든 소각 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5339,8 +5344,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|152",
-        "text": "모든 뜀틀 충격 스킬 레벨 #",
+        "id": "explicit.stat_448592698|55",
+        "text": "모든 충전 지팡이 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|158",
+        "text": "모든 지진 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5354,13 +5364,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|15",
+        "text": "모든 화염파 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|41",
         "text": "모든 감전 파열 탄환 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|158",
-        "text": "모든 지진 스킬 레벨 #",
+        "id": "explicit.stat_448592698|89",
+        "text": "모든 가스 화살 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5374,18 +5389,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|15",
-        "text": "모든 화염파 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|129",
         "text": "모든 으스스한 연회 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|89",
-        "text": "모든 가스 화살 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5399,6 +5404,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|172",
+        "text": "모든 피뢰침 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|98",
         "text": "모든 연쇄 번개 스킬 레벨 #",
         "type": "explicit"
@@ -5409,18 +5419,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|172",
-        "text": "모든 피뢰침 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_448592698|156",
         "text": "모든 번개 화살 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|55",
-        "text": "모든 충전 지팡이 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5434,13 +5434,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_448592698|107",
+        "text": "모든 뼈 폭풍 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_448592698|38",
         "text": "모든 격파 장법 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|11",
-        "text": "모든 대마법사 스킬 레벨 #",
+        "id": "explicit.stat_448592698|25",
+        "text": "모든 플라스마 폭발 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5449,13 +5454,18 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|107",
-        "text": "모든 뼈 폭풍 스킬 레벨 #",
+        "id": "explicit.stat_448592698|11",
+        "text": "모든 대마법사 스킬 레벨 #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_3418580811|21",
         "text": "보라나의 핏줄이 행한 노래로 남을 공적 #개 추모\n반경 내 패시브 스킬이 칼구르의 지배를 받음",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|103",
+        "text": "모든 얼음 타격 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5466,11 +5476,6 @@
       {
         "id": "explicit.stat_448592698|23",
         "text": "모든 신들의 망치 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_448592698|103",
-        "text": "모든 얼음 타격 스킬 레벨 #",
         "type": "explicit"
       },
       {
@@ -5489,11 +5494,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|25",
-        "text": "모든 플라스마 폭발 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_636464211",
         "text": "#초 동안 과잉 생명력 회복이 수호로 추가",
         "type": "explicit"
@@ -5509,13 +5509,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3076483222|38303",
-        "text": "최대 신비학자의 식각기 20개까지 소모하여 시련 완료 시 2배 획득",
+        "id": "explicit.stat_448592698|34",
+        "text": "모든 사술 폭발 스킬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|34",
-        "text": "모든 사술 폭발 스킬 레벨 #",
+        "id": "explicit.stat_3076483222|38303",
+        "text": "최대 신비학자의 식각기 20개까지 소모하여 시련 완료 시 2배 획득",
         "type": "explicit"
       },
       {
@@ -5534,11 +5534,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_448592698|19",
-        "text": "모든 번개 도관 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3076483222|19854",
         "text": "최대 소멸의 오브 3개까지 소모하여 시련 완료 시 2배 획득",
         "type": "explicit"
@@ -5546,6 +5541,16 @@
       {
         "id": "explicit.stat_448592698|21",
         "text": "모든 선대의 전사 토템 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_448592698|19",
+        "text": "모든 번개 도관 스킬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2422708892|47759",
+        "text": "반경 멸망의 속삭임 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -5561,11 +5566,6 @@
       {
         "id": "explicit.stat_448592698|136",
         "text": "모든 충격파 토템 스킬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2422708892|47759",
-        "text": "반경 멸망의 속삭임 내 패시브 스킬이 트리와 연결되지 않아도 할당 가능",
         "type": "explicit"
       },
       {
@@ -5659,18 +5659,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_548198834",
-        "text": "범위 #% 증가",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_3885634897",
         "text": "명중 시 #%의 확률로 중독 유발",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1414945937",
-        "text": "광란 종료 시 출현한 춤추는 수도승 사망",
+        "id": "explicit.stat_548198834",
+        "text": "범위 #% 증가",
         "type": "explicit"
       },
       {
@@ -5679,18 +5674,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2889807051",
-        "text": "근접 명중을 광란 처치로 간주\n광란",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4007938693",
         "text": "광란 시 #레벨 춤추는 수도승 출현 발동",
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2889807051",
+        "text": "근접 명중을 광란 처치로 간주\n광란",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2462683918",
         "text": "낮은 마나 상태가 아닐 때 공격 피해 #% 증가",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1414945937",
+        "text": "광란 종료 시 출현한 춤추는 수도승 사망",
         "type": "explicit"
       }
     ]
@@ -6020,13 +6020,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1978899297",
-        "text": "모든 원소 저항 최대치 #%",
+        "id": "implicit.stat_1412682799",
+        "text": "플레이어 중독 시 사용",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1412682799",
-        "text": "플레이어 중독 시 사용",
+        "id": "implicit.stat_1978899297",
+        "text": "모든 원소 저항 최대치 #%",
         "type": "implicit"
       },
       {
@@ -6105,6 +6105,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2991413918",
+        "text": "지역 내 유적 수 #% 증가",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_1640965354",
         "text": "지역에 룬 몬스터 표시물 수량 #% 증가",
         "type": "implicit"
@@ -6117,11 +6122,6 @@
       {
         "id": "implicit.stat_3051490307",
         "text": "폭발물 개수 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2991413918",
-        "text": "지역 내 유적 수 #% 증가",
         "type": "implicit"
       },
       {
@@ -6251,13 +6251,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3732878551",
-        "text": "희귀 몬스터가 #% 확률로 속성 1개를 추가로 보유",
+        "id": "enchant.stat_3371085671",
+        "text": "고유 몬스터가 속성 #개 추가 보유",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3371085671",
-        "text": "고유 몬스터가 속성 #개 추가 보유",
+        "id": "enchant.stat_3732878551",
+        "text": "희귀 몬스터가 #% 확률로 속성 1개를 추가로 보유",
         "type": "enchant"
       },
       {
@@ -6311,18 +6311,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3336890334",
-        "text": "번개 피해 #~# 추가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1658498488",
-        "text": "타락한 피가 플레이어에게 유발될 수 없음",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_721014846",
-        "text": "이동 방해 면역",
+        "id": "enchant.stat_2694482655",
+        "text": "치명타 피해 보너스 #%",
         "type": "enchant"
       },
       {
@@ -6331,13 +6321,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2694482655",
-        "text": "치명타 피해 보너스 #%",
+        "id": "enchant.stat_1658498488",
+        "text": "타락한 피가 플레이어에게 유발될 수 없음",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_472520716",
-        "text": "받은 피해의 #%를 마나로 회생",
+        "id": "enchant.stat_3336890334",
+        "text": "번개 피해 #~# 추가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_721014846",
+        "text": "이동 방해 면역",
         "type": "enchant"
       },
       {
@@ -6346,13 +6341,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1436284579",
-        "text": "실명될 수 없음",
+        "id": "enchant.stat_472520716",
+        "text": "받은 피해의 #%를 마나로 회생",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_210067635",
         "text": "공격 속도 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1436284579",
+        "text": "실명될 수 없음",
         "type": "enchant"
       },
       {
@@ -6436,13 +6436,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3417711605",
-        "text": "피해가 냉기 저항 #% 관통",
+        "id": "enchant.stat_1999113824",
+        "text": "회피 및 에너지 보호막 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1999113824",
-        "text": "회피 및 에너지 보호막 #% 증가",
+        "id": "enchant.stat_3417711605",
+        "text": "피해가 냉기 저항 #% 관통",
         "type": "enchant"
       },
       {
@@ -6561,13 +6561,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_707457662",
+        "text": "물리 공격 피해의 #%를 마나로 흡수",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2557965901",
         "text": "물리 공격 피해의 #%를 생명력으로 흡수",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_707457662",
-        "text": "물리 공격 피해의 #%를 마나로 흡수",
+        "id": "enchant.stat_2482852589",
+        "text": "에너지 보호막 최대치 #% 증가",
         "type": "enchant"
       },
       {
@@ -6591,18 +6596,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|50609",
-        "text": "할당 처치 곤란",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2250533757",
         "text": "이동 속도 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2482852589",
-        "text": "에너지 보호막 최대치 #% 증가",
+        "id": "enchant.stat_2954116742|50609",
+        "text": "할당 처치 곤란",
         "type": "enchant"
       },
       {
@@ -6623,6 +6623,11 @@
       {
         "id": "enchant.stat_2954116742|34300",
         "text": "할당 보수적인 시전",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|34473",
+        "text": "할당 국수 효과",
         "type": "enchant"
       },
       {
@@ -6648,11 +6653,6 @@
       {
         "id": "enchant.stat_2866361420",
         "text": "방어도 #% 증가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|34473",
-        "text": "할당 국수 효과",
         "type": "enchant"
       },
       {
@@ -6756,13 +6756,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|33099",
-        "text": "할당 사냥꾼의 부적",
+        "id": "enchant.stat_2954116742|5777",
+        "text": "할당 치명적인 무리",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|5777",
-        "text": "할당 치명적인 무리",
+        "id": "enchant.stat_2954116742|33099",
+        "text": "할당 사냥꾼의 부적",
         "type": "enchant"
       },
       {
@@ -6781,13 +6781,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|32683",
-        "text": "할당 산의 정수",
+        "id": "enchant.stat_2954116742|35987",
+        "text": "할당 흐릿함",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|35987",
-        "text": "할당 흐릿함",
+        "id": "enchant.stat_2954116742|32683",
+        "text": "할당 산의 정수",
         "type": "enchant"
       },
       {
@@ -6816,23 +6816,23 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3885405204",
-        "text": "활 공격 시 화살 #개 추가 발사",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_1600707273",
         "text": "모든 물리 주문 스킬 레벨 #",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_591105508",
-        "text": "모든 화염 주문 스킬 레벨 #",
+        "id": "enchant.stat_3885405204",
+        "text": "활 공격 시 화살 #개 추가 발사",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_4226189338",
         "text": "모든 카오스 주문 스킬 레벨 #",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_591105508",
+        "text": "모든 화염 주문 스킬 레벨 #",
         "type": "enchant"
       },
       {
@@ -6876,6 +6876,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_280731498",
+        "text": "효과 범위 #% 증가",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_3398787959",
         "text": "피해의 #%를 추가 카오스 피해로 획득",
         "type": "enchant"
@@ -6886,18 +6891,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|5728",
-        "text": "할당 고대의 비호",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|59636",
         "text": "할당 열린 마음",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_280731498",
-        "text": "효과 범위 #% 증가",
+        "id": "enchant.stat_2954116742|5728",
+        "text": "할당 고대의 비호",
         "type": "enchant"
       },
       {
@@ -6996,13 +6996,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|21380",
-        "text": "할당 선제적 타격",
+        "id": "enchant.stat_2954116742|43082",
+        "text": "할당 가속",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|43082",
-        "text": "할당 가속",
+        "id": "enchant.stat_2954116742|21380",
+        "text": "할당 선제적 타격",
         "type": "enchant"
       },
       {
@@ -7036,13 +7036,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|45612",
-        "text": "할당 방어 반사신경",
+        "id": "enchant.stat_2954116742|42077",
+        "text": "할당 에센스 주입",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|42077",
-        "text": "할당 에센스 주입",
+        "id": "enchant.stat_2954116742|45612",
+        "text": "할당 방어 반사신경",
         "type": "enchant"
       },
       {
@@ -7061,13 +7061,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|56910",
-        "text": "할당 전투 단련",
+        "id": "enchant.stat_2954116742|15374",
+        "text": "할당 정정한 심장",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|15374",
-        "text": "할당 정정한 심장",
+        "id": "enchant.stat_2954116742|56910",
+        "text": "할당 전투 단련",
         "type": "enchant"
       },
       {
@@ -7081,13 +7081,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|62230",
-        "text": "할당 참을성 있는 방어막",
+        "id": "enchant.stat_2954116742|4295",
+        "text": "할당 부정적인 성장",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|4295",
-        "text": "할당 부정적인 성장",
+        "id": "enchant.stat_2954116742|62230",
+        "text": "할당 참을성 있는 방어막",
         "type": "enchant"
       },
       {
@@ -7098,6 +7098,11 @@
       {
         "id": "enchant.stat_2954116742|51606",
         "text": "할당 이동의 자유",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|32071",
+        "text": "할당 원시적 성장",
         "type": "enchant"
       },
       {
@@ -7126,11 +7131,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|32071",
-        "text": "할당 원시적 성장",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|58016",
         "text": "할당 자연 그 자체",
         "type": "enchant"
@@ -7156,13 +7156,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|19044",
-        "text": "할당 비전 격렬함",
+        "id": "enchant.stat_2954116742|17955",
+        "text": "할당 조심스러운 고려",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|17955",
-        "text": "할당 조심스러운 고려",
+        "id": "enchant.stat_2954116742|19044",
+        "text": "할당 비전 격렬함",
         "type": "enchant"
       },
       {
@@ -7191,13 +7191,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|50687",
+        "text": "할당 세차게 흐르는 에너지",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|38537",
         "text": "할당 심정지",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|18496",
-        "text": "할당 지속되는 외상",
+        "id": "enchant.stat_2954116742|8531",
+        "text": "할당 달려드는 기습",
         "type": "enchant"
       },
       {
@@ -7206,13 +7211,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|50687",
-        "text": "할당 세차게 흐르는 에너지",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|8531",
-        "text": "할당 달려드는 기습",
+        "id": "enchant.stat_2954116742|18496",
+        "text": "할당 지속되는 외상",
         "type": "enchant"
       },
       {
@@ -7246,6 +7246,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|46060",
+        "text": "할당 탐욕",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|50062",
         "text": "할당 보강된 방벽",
         "type": "enchant"
@@ -7253,11 +7258,6 @@
       {
         "id": "enchant.stat_2954116742|65265",
         "text": "할당 매끄러운 버클러",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|46060",
-        "text": "할당 탐욕",
         "type": "enchant"
       },
       {
@@ -7271,13 +7271,23 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|55060",
+        "text": "할당 파편",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|25482",
         "text": "할당 근력",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|55060",
-        "text": "할당 파편",
+        "id": "enchant.stat_2954116742|9908",
+        "text": "할당 자유의 대가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|4716",
+        "text": "할당 잔상",
         "type": "enchant"
       },
       {
@@ -7296,43 +7306,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|4716",
-        "text": "할당 잔상",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|63585",
         "text": "할당 벼락 직격",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|3215",
-        "text": "할당 융합",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|57110",
-        "text": "할당 주입된 육체",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|9908",
-        "text": "할당 자유의 대가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|42302",
-        "text": "할당 분할 사격",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|65193",
-        "text": "할당 포악함",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|48565",
-        "text": "할당 질서의 인도자",
         "type": "enchant"
       },
       {
@@ -7341,13 +7316,23 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|3215",
+        "text": "할당 융합",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|37543",
         "text": "할당 완전 회복",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|34340",
-        "text": "할당 대규모 회춘",
+        "id": "enchant.stat_2954116742|57110",
+        "text": "할당 주입된 육체",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|42302",
+        "text": "할당 분할 사격",
         "type": "enchant"
       },
       {
@@ -7356,8 +7341,28 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|65193",
+        "text": "할당 포악함",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|34340",
+        "text": "할당 대규모 회춘",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|48565",
+        "text": "할당 질서의 인도자",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|57047",
         "text": "할당 박식",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|37806",
+        "text": "할당 가지를 뻗는 번갯불",
         "type": "enchant"
       },
       {
@@ -7368,11 +7373,6 @@
       {
         "id": "enchant.stat_2954116742|15617",
         "text": "할당 술고래",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|37806",
-        "text": "할당 가지를 뻗는 번갯불",
         "type": "enchant"
       },
       {
@@ -7421,13 +7421,28 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|58397",
+        "text": "할당 숙달",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|19125",
         "text": "할당 위력적인 주문",
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|64327",
+        "text": "할당 방어자의 투지",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|28329",
         "text": "할당 급소",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|59596",
+        "text": "할당 엄폐하는 결계",
         "type": "enchant"
       },
       {
@@ -7446,18 +7461,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|59596",
-        "text": "할당 엄폐하는 결계",
+        "id": "enchant.stat_2954116742|4673",
+        "text": "할당 육중한 타격",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|58397",
-        "text": "할당 숙달",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|20916",
-        "text": "할당 실명의 타격",
+        "id": "enchant.stat_2954116742|38972",
+        "text": "할당 쉬지 못하는 망자",
         "type": "enchant"
       },
       {
@@ -7466,8 +7476,33 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|20916",
+        "text": "할당 실명의 타격",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|60269",
+        "text": "할당 휘젓기",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|17600",
+        "text": "할당 꾀바른 동료",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|19104",
         "text": "할당 독수리의 눈",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|38479",
+        "text": "할당 좁은 영역",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|1546",
+        "text": "할당 우울로의 추락",
         "type": "enchant"
       },
       {
@@ -7488,16 +7523,6 @@
       {
         "id": "enchant.stat_2954116742|8827",
         "text": "할당 빠른 신진대사",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|1546",
-        "text": "할당 우울로의 추락",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|38479",
-        "text": "할당 좁은 영역",
         "type": "enchant"
       },
       {
@@ -7531,13 +7556,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|38972",
-        "text": "할당 쉬지 못하는 망자",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|62984",
-        "text": "할당 열린 사고의 마음가짐",
+        "id": "enchant.stat_2954116742|4931",
+        "text": "할당 든든한 결계",
         "type": "enchant"
       },
       {
@@ -7546,18 +7566,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|62984",
+        "text": "할당 열린 사고의 마음가짐",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|6304",
+        "text": "할당 위치 사수",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|25513",
         "text": "할당 압도",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|30341",
-        "text": "할당 화살 장인",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|64327",
-        "text": "할당 방어자의 투지",
         "type": "enchant"
       },
       {
@@ -7566,8 +7586,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|17600",
-        "text": "할당 꾀바른 동료",
+        "id": "enchant.stat_2954116742|30341",
+        "text": "할당 화살 장인",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|53823",
+        "text": "할당 치솟는 방패",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|34233",
+        "text": "할당 몰입 상태",
         "type": "enchant"
       },
       {
@@ -7576,8 +7606,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|6304",
-        "text": "할당 위치 사수",
+        "id": "enchant.stat_2954116742|25620",
+        "text": "할당 고기 재활용",
         "type": "enchant"
       },
       {
@@ -7601,6 +7631,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|20032",
+        "text": "할당 일탈",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|37742",
         "text": "할당 다중 기법",
         "type": "enchant"
@@ -7611,18 +7646,48 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|4931",
-        "text": "할당 든든한 결계",
+        "id": "enchant.stat_2954116742|44605",
+        "text": "할당 무정",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|50389",
+        "text": "할당 이중 밧줄",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|29762",
+        "text": "할당 으르렁거리는 포효",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|26339",
+        "text": "할당 선대의 책략",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|8791",
+        "text": "할당 튼튼한 동료",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|18397",
+        "text": "할당 피 음미",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|52392",
+        "text": "할당 단일 목적",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|47363",
+        "text": "할당 초대형 무기",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|10053",
         "text": "할당 전투 연금술",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|34233",
-        "text": "할당 몰입 상태",
         "type": "enchant"
       },
       {
@@ -7636,18 +7701,28 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|26339",
-        "text": "할당 선대의 책략",
+        "id": "enchant.stat_2954116742|51602",
+        "text": "할당 불견",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|42781",
-        "text": "할당 깔끔한 사격",
+        "id": "enchant.stat_2954116742|43711",
+        "text": "할당 가시 가죽",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|6229",
+        "text": "할당 우위 점령",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|49088",
         "text": "할당 죽음의 공포",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|42781",
+        "text": "할당 깔끔한 사격",
         "type": "enchant"
       },
       {
@@ -7661,18 +7736,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|18397",
-        "text": "할당 피 음미",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|39083",
         "text": "할당 솟구치는 피",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|31326",
-        "text": "할당 느린 연소",
         "type": "enchant"
       },
       {
@@ -7681,8 +7746,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|50389",
-        "text": "할당 이중 밧줄",
+        "id": "enchant.stat_2954116742|31326",
+        "text": "할당 느린 연소",
         "type": "enchant"
       },
       {
@@ -7701,8 +7766,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|53823",
-        "text": "할당 치솟는 방패",
+        "id": "enchant.stat_2954116742|52348",
+        "text": "할당 조각된 대지",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|49370",
+        "text": "할당 모닝스타",
         "type": "enchant"
       },
       {
@@ -7711,18 +7781,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|20032",
-        "text": "할당 일탈",
+        "id": "enchant.stat_2954116742|17260",
+        "text": "할당 거친 발톱",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|37244",
         "text": "할당 방패 전문 지식",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|17260",
-        "text": "할당 거친 발톱",
         "type": "enchant"
       },
       {
@@ -7736,16 +7801,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|60269",
-        "text": "할당 휘젓기",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|43383",
-        "text": "할당 노출된 상처",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|34324",
         "text": "할당 영체 수호",
         "type": "enchant"
@@ -7756,8 +7811,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|29762",
-        "text": "할당 으르렁거리는 포효",
+        "id": "enchant.stat_2954116742|43383",
+        "text": "할당 노출된 상처",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|7651",
+        "text": "할당 심장 관통",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|20416",
+        "text": "할당 근성",
         "type": "enchant"
       },
       {
@@ -7766,23 +7831,23 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|4673",
-        "text": "할당 육중한 타격",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|57097",
         "text": "할당 정신 결속",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|43711",
-        "text": "할당 가시 가죽",
+        "id": "enchant.stat_2954116742|61026",
+        "text": "할당 결정 육체",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|2999",
         "text": "할당 최후의 연발 사격",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|51820",
+        "text": "할당 선대의 도관",
         "type": "enchant"
       },
       {
@@ -7796,8 +7861,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|52348",
-        "text": "할당 조각된 대지",
+        "id": "enchant.stat_2954116742|46197",
+        "text": "할당 신중한 암살자",
         "type": "enchant"
       },
       {
@@ -7811,8 +7876,33 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|18419",
+        "text": "할당 선대의 치유",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|55568",
+        "text": "할당 박두",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|38628",
         "text": "할당 격화되는 독소",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|35564",
+        "text": "할당 시간 역행",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|21537",
+        "text": "할당 열정",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|55149",
+        "text": "할당 순수한 혼돈",
         "type": "enchant"
       },
       {
@@ -7836,6 +7926,26 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|33887",
+        "text": "할당 전탄발사",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|51446",
+        "text": "할당 가죽으로 묶은 건틀릿",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|19722",
+        "text": "할당 얇은 얼음",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|46696",
+        "text": "할당 손상",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|54998",
         "text": "할당 연장",
         "type": "enchant"
@@ -7846,68 +7956,23 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|57805",
-        "text": "할당 공간 확보",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|48774",
         "text": "할당 팽팽한 육체",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|55149",
-        "text": "할당 순수한 혼돈",
+        "id": "enchant.stat_2954116742|7302",
+        "text": "할당 메아리치는 파동",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|21537",
-        "text": "할당 열정",
+        "id": "enchant.stat_2954116742|57805",
+        "text": "할당 공간 확보",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|44330",
-        "text": "할당 독을 바른 무기",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|43396",
-        "text": "할당 선대의 능력",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|8904",
-        "text": "할당 멀리서 찾아온 죽음",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|49550",
-        "text": "할당 지속되는 광분",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|59263",
-        "text": "할당 찢는 칼날",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|31373",
-        "text": "할당 격려의 목소리",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|51446",
-        "text": "할당 가죽으로 묶은 건틀릿",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|45013",
-        "text": "할당 마무리 일격",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|20416",
-        "text": "할당 근성",
+        "id": "enchant.stat_2954116742|49661",
+        "text": "할당 완벽한 칼침",
         "type": "enchant"
       },
       {
@@ -7916,13 +7981,68 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|29514",
-        "text": "할당 집속 폭탄",
+        "id": "enchant.stat_2954116742|44330",
+        "text": "할당 독을 바른 무기",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|8904",
+        "text": "할당 멀리서 찾아온 죽음",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|61493",
+        "text": "할당 긴축 정책",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|43396",
+        "text": "할당 선대의 능력",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|59263",
+        "text": "할당 찢는 칼날",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|49550",
+        "text": "할당 지속되는 광분",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|31373",
+        "text": "할당 격려의 목소리",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|5580",
+        "text": "할당 감시 포탑",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|45013",
+        "text": "할당 마무리 일격",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|44373",
+        "text": "할당 고사",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|2394",
         "text": "할당 질풍의 칼날",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|29514",
+        "text": "할당 집속 폭탄",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|13542",
+        "text": "할당 헐거운 육체",
         "type": "enchant"
       },
       {
@@ -7936,33 +8056,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|61026",
-        "text": "할당 결정 육체",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|43939",
         "text": "할당 내화성",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|52392",
-        "text": "할당 단일 목적",
+        "id": "enchant.stat_2954116742|43677",
+        "text": "할당 망가뜨리는 독소",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|47363",
-        "text": "할당 초대형 무기",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|44605",
-        "text": "할당 무정",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|25620",
-        "text": "할당 고기 재활용",
+        "id": "enchant.stat_2954116742|59767",
+        "text": "할당 반향하는 충격",
         "type": "enchant"
       },
       {
@@ -7971,18 +8076,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|18419",
-        "text": "할당 선대의 치유",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|7651",
-        "text": "할당 심장 관통",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|51335",
         "text": "할당 화염의 길",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|10602",
+        "text": "할당 빼앗기",
         "type": "enchant"
       },
       {
@@ -7991,8 +8091,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|46197",
-        "text": "할당 신중한 암살자",
+        "id": "enchant.stat_2954116742|3188",
+        "text": "할당 복수",
         "type": "enchant"
       },
       {
@@ -8001,8 +8101,28 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|3188",
-        "text": "할당 복수",
+        "id": "enchant.stat_2954116742|11526",
+        "text": "할당 저격수",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|51184",
+        "text": "할당 미가공된 힘",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|1352",
+        "text": "할당 굽히지 않음",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|40325",
+        "text": "할당 해상도",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|29372",
+        "text": "할당 갑작스러운 분노",
         "type": "enchant"
       },
       {
@@ -8016,8 +8136,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|1352",
-        "text": "할당 굽히지 않음",
+        "id": "enchant.stat_2954116742|64046",
+        "text": "할당 폭풍의 길",
         "type": "enchant"
       },
       {
@@ -8026,28 +8146,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|55568",
-        "text": "할당 박두",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|64046",
-        "text": "할당 폭풍의 길",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|14324",
-        "text": "할당 비전 만개",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|33887",
-        "text": "할당 전탄발사",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|61404",
-        "text": "할당 평형",
+        "id": "enchant.stat_2954116742|3698",
+        "text": "할당 가시 구덩이",
         "type": "enchant"
       },
       {
@@ -8056,8 +8156,23 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|14324",
+        "text": "할당 비전 만개",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|61404",
+        "text": "할당 평형",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|11376",
         "text": "할당 괴사의 손길",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|42390",
+        "text": "할당 과열의 일격",
         "type": "enchant"
       },
       {
@@ -8071,18 +8186,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|42390",
-        "text": "할당 과열의 일격",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|31364",
-        "text": "할당 원시적 보호",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|6133",
         "text": "할당 수호자의 요추",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|4423",
+        "text": "할당 독 바른 칼",
         "type": "enchant"
       },
       {
@@ -8091,8 +8201,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|4423",
-        "text": "할당 독 바른 칼",
+        "id": "enchant.stat_2954116742|31364",
+        "text": "할당 원시적 보호",
         "type": "enchant"
       },
       {
@@ -8111,18 +8221,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|44373",
-        "text": "할당 고사",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|8791",
-        "text": "할당 튼튼한 동료",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|34308",
-        "text": "할당 개인적인 손길",
+        "id": "enchant.stat_2954116742|56997",
+        "text": "할당 묵직한 접촉",
         "type": "enchant"
       },
       {
@@ -8131,18 +8231,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|46696",
-        "text": "할당 손상",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|56997",
-        "text": "할당 묵직한 접촉",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|10265",
-        "text": "할당 투창",
+        "id": "enchant.stat_2954116742|34308",
+        "text": "할당 개인적인 손길",
         "type": "enchant"
       },
       {
@@ -8156,18 +8246,28 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|10265",
+        "text": "할당 투창",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|39347",
         "text": "할당 파괴하는 일격",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|49370",
-        "text": "할당 모닝스타",
+        "id": "enchant.stat_2954116742|61741",
+        "text": "할당 지속되는 독소",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|27417",
         "text": "할당 파괴적인 기구",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|17029",
+        "text": "할당 칼날 포획자",
         "type": "enchant"
       },
       {
@@ -8196,18 +8296,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|51602",
-        "text": "할당 불견",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|61741",
-        "text": "할당 지속되는 독소",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|12611",
-        "text": "할당 원소 조종",
+        "id": "enchant.stat_2954116742|12750",
+        "text": "할당 계곡 대피소",
         "type": "enchant"
       },
       {
@@ -8216,8 +8306,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|6229",
-        "text": "할당 우위 점령",
+        "id": "enchant.stat_2954116742|12611",
+        "text": "할당 원소 조종",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|62609",
+        "text": "할당 선대의 단결",
         "type": "enchant"
       },
       {
@@ -8226,23 +8321,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|49661",
-        "text": "할당 완벽한 칼침",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|23362",
         "text": "할당 미끄러운 얼음",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|29372",
-        "text": "할당 갑작스러운 분노",
+        "id": "enchant.stat_2954116742|63659",
+        "text": "할당 교묘한 구조물",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|58714",
-        "text": "할당 척탄병",
+        "id": "enchant.stat_2954116742|62310",
+        "text": "할당 소이",
         "type": "enchant"
       },
       {
@@ -8251,13 +8341,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|5580",
-        "text": "할당 감시 포탑",
+        "id": "enchant.stat_2954116742|48014",
+        "text": "할당 무명예",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|48014",
-        "text": "할당 무명예",
+        "id": "enchant.stat_2954116742|58714",
+        "text": "할당 척탄병",
         "type": "enchant"
       },
       {
@@ -8266,8 +8356,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|11526",
-        "text": "할당 저격수",
+        "id": "enchant.stat_2954116742|62803",
+        "text": "할당 밀림의 위상",
         "type": "enchant"
       },
       {
@@ -8281,8 +8371,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|62001",
-        "text": "할당 암습",
+        "id": "enchant.stat_2954116742|54911",
+        "text": "할당 부싯돌",
         "type": "enchant"
       },
       {
@@ -8291,13 +8381,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|51820",
-        "text": "할당 선대의 도관",
+        "id": "enchant.stat_2954116742|62001",
+        "text": "할당 암습",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|39990",
-        "text": "할당 시간술",
+        "id": "enchant.stat_2954116742|36976",
+        "text": "할당 죽음의 징표",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|21453",
+        "text": "할당 파손",
         "type": "enchant"
       },
       {
@@ -8306,8 +8401,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|64443",
-        "text": "할당 충격 힘",
+        "id": "enchant.stat_2954116742|39990",
+        "text": "할당 시간술",
         "type": "enchant"
       },
       {
@@ -8316,13 +8411,23 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|13457",
-        "text": "할당 그림자의 춤",
+        "id": "enchant.stat_2954116742|64443",
+        "text": "할당 충격 힘",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|56776",
+        "text": "할당 조리 완료",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|30523",
         "text": "할당 망자의 춤",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|13457",
+        "text": "할당 그림자의 춤",
         "type": "enchant"
       },
       {
@@ -8336,23 +8441,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|18505",
-        "text": "할당 타쇄하는 평결",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|3698",
-        "text": "할당 가시 구덩이",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|35809",
         "text": "할당 재활",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|40325",
-        "text": "할당 해상도",
+        "id": "enchant.stat_2954116742|18505",
+        "text": "할당 타쇄하는 평결",
         "type": "enchant"
       },
       {
@@ -8376,13 +8471,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|13724",
+        "text": "할당 치명적인 힘",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|47782",
         "text": "할당 빠른 변경술",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|56366",
-        "text": "할당 소리 없는 비수",
+        "id": "enchant.stat_2954116742|36623",
+        "text": "할당 요양",
         "type": "enchant"
       },
       {
@@ -8396,13 +8496,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|63451",
-        "text": "할당 두개골 충격",
+        "id": "enchant.stat_2954116742|56366",
+        "text": "할당 소리 없는 비수",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|12750",
-        "text": "할당 계곡 대피소",
+        "id": "enchant.stat_2954116742|63451",
+        "text": "할당 두개골 충격",
         "type": "enchant"
       },
       {
@@ -8411,23 +8511,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|13542",
-        "text": "할당 헐거운 육체",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|51184",
-        "text": "할당 미가공된 힘",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|56999",
         "text": "할당 목표 고정",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|36976",
-        "text": "할당 죽음의 징표",
         "type": "enchant"
       },
       {
@@ -8446,11 +8531,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|56776",
-        "text": "할당 조리 완료",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|59589",
         "text": "할당 묵직한 방어구",
         "type": "enchant"
@@ -8461,6 +8541,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|41905",
+        "text": "할당 무덤 파는 자",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|25971",
         "text": "할당 10배 공격",
         "type": "enchant"
@@ -8468,11 +8553,6 @@
       {
         "id": "enchant.stat_2954116742|2863",
         "text": "할당 영속적인 동결",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|62310",
-        "text": "할당 소이",
         "type": "enchant"
       },
       {
@@ -8501,18 +8581,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|13724",
-        "text": "할당 치명적인 힘",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|10602",
-        "text": "할당 빼앗기",
+        "id": "enchant.stat_2954116742|38895",
+        "text": "할당 수정 영액",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|11838",
         "text": "할당 꿈포획자",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|60138",
+        "text": "할당 양식 왜곡",
         "type": "enchant"
       },
       {
@@ -8526,6 +8606,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|14343",
+        "text": "할당 악화",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|55835",
         "text": "할당 우주 노출",
         "type": "enchant"
@@ -8536,8 +8621,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|47418",
+        "text": "할당 수호하는 물약",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|40345",
         "text": "할당 사술의 대가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|24655",
+        "text": "할당 화염의 숨결",
         "type": "enchant"
       },
       {
@@ -8546,13 +8641,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|37872",
-        "text": "할당 접근한 존재감",
+        "id": "enchant.stat_2954116742|33978",
+        "text": "할당 무적의 방벽",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|19722",
-        "text": "할당 얇은 얼음",
+        "id": "enchant.stat_2954116742|37872",
+        "text": "할당 접근한 존재감",
         "type": "enchant"
       },
       {
@@ -8563,11 +8658,6 @@
       {
         "id": "enchant.stat_2954116742|62439",
         "text": "할당 격앙된 강탈자",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|21453",
-        "text": "할당 파손",
         "type": "enchant"
       },
       {
@@ -8596,13 +8686,23 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|48658",
-        "text": "할당 산산조각의",
+        "id": "enchant.stat_2954116742|46296",
+        "text": "할당 단거리 사격",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|36623",
-        "text": "할당 요양",
+        "id": "enchant.stat_2954116742|19442",
+        "text": "할당 지속되는 맹공",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|9187",
+        "text": "할당 증대자",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|48658",
+        "text": "할당 산산조각의",
         "type": "enchant"
       },
       {
@@ -8611,8 +8711,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|24655",
-        "text": "할당 화염의 숨결",
+        "id": "enchant.stat_2954116742|5802",
+        "text": "할당 위치 사수 사격",
         "type": "enchant"
       },
       {
@@ -8621,8 +8721,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|60138",
-        "text": "할당 양식 왜곡",
+        "id": "enchant.stat_2954116742|27290",
+        "text": "할당 묵직한 검",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|30720",
+        "text": "할당 엔트로피의 화신",
         "type": "enchant"
       },
       {
@@ -8631,8 +8736,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|27290",
-        "text": "할당 묵직한 검",
+        "id": "enchant.stat_2954116742|35324",
+        "text": "할당 전소",
         "type": "enchant"
       },
       {
@@ -8641,13 +8746,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|35324",
-        "text": "할당 전소",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|7341",
-        "text": "할당 고통 무시",
+        "id": "enchant.stat_2954116742|934",
+        "text": "할당 타고난 면역",
         "type": "enchant"
       },
       {
@@ -8656,8 +8756,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|53921",
-        "text": "할당 부서지지 않음",
+        "id": "enchant.stat_2954116742|7341",
+        "text": "할당 고통 무시",
         "type": "enchant"
       },
       {
@@ -8666,13 +8766,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|19644",
-        "text": "할당 어둠의 왼팔",
+        "id": "enchant.stat_2954116742|53921",
+        "text": "할당 부서지지 않음",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|44952",
         "text": "할당 긴 수명",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|19644",
+        "text": "할당 어둠의 왼팔",
         "type": "enchant"
       },
       {
@@ -8686,23 +8791,33 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|9968",
-        "text": "할당 대지 느끼기",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|61493",
-        "text": "할당 긴축 정책",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|51213",
-        "text": "할당 소모성",
+        "id": "enchant.stat_2954116742|12998",
+        "text": "할당 심장 가열",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|43090",
         "text": "할당 전기 요법",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|9968",
+        "text": "할당 대지 느끼기",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|17330",
+        "text": "할당 천공",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|35028",
+        "text": "할당 한복판",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|51213",
+        "text": "할당 소모성",
         "type": "enchant"
       },
       {
@@ -8713,16 +8828,6 @@
       {
         "id": "enchant.stat_2954116742|46384",
         "text": "할당 넓은 방벽",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|17330",
-        "text": "할당 천공",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|934",
-        "text": "할당 타고난 면역",
         "type": "enchant"
       },
       {
@@ -8741,18 +8846,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|54911",
-        "text": "할당 부싯돌",
+        "id": "enchant.stat_2954116742|28267",
+        "text": "할당 감각 둔화",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|59541",
         "text": "할당 괴사된 육체",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|28267",
-        "text": "할당 감각 둔화",
         "type": "enchant"
       },
       {
@@ -8766,8 +8866,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|46296",
-        "text": "할당 단거리 사격",
+        "id": "enchant.stat_2954116742|9421",
+        "text": "할당 설원을 가로지르는 자",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|58183",
+        "text": "할당 피눈물",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|23939",
+        "text": "할당 윤기 나는 육체",
         "type": "enchant"
       },
       {
@@ -8781,8 +8891,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|17254",
-        "text": "할당 주문 가속",
+        "id": "enchant.stat_2954116742|35739",
+        "text": "할당 타쇄하는 심판",
         "type": "enchant"
       },
       {
@@ -8796,18 +8906,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|17254",
+        "text": "할당 주문 가속",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|16499",
+        "text": "할당 지속되는 속삭임",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|10029",
         "text": "할당 반발",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|42036",
-        "text": "할당 굴절",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|17762",
-        "text": "할당 복수",
         "type": "enchant"
       },
       {
@@ -8816,18 +8926,33 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|17762",
+        "text": "할당 복수",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|42036",
+        "text": "할당 굴절",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|14777",
         "text": "할당 허세",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|62803",
-        "text": "할당 밀림의 위상",
+        "id": "enchant.stat_2954116742|19715",
+        "text": "할당 시체 소각",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|33978",
-        "text": "할당 무적의 방벽",
+        "id": "enchant.stat_2954116742|33240",
+        "text": "할당 공포의 군주",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|38969",
+        "text": "할당 수완",
         "type": "enchant"
       },
       {
@@ -8841,18 +8966,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|14343",
-        "text": "할당 악화",
+        "id": "enchant.stat_2954116742|56063",
+        "text": "할당 지속되는 공포",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|41905",
-        "text": "할당 무덤 파는 자",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|9187",
-        "text": "할당 증대자",
+        "id": "enchant.stat_2954116742|37276",
+        "text": "할당 전투의 무아지경",
         "type": "enchant"
       },
       {
@@ -8861,28 +8981,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|42981",
-        "text": "할당 잔혹한 수법",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|5802",
-        "text": "할당 위치 사수 사격",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|20677",
         "text": "할당 경정맥 노리기",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|43677",
-        "text": "할당 망가뜨리는 독소",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|62609",
-        "text": "할당 선대의 단결",
+        "id": "enchant.stat_2954116742|42981",
+        "text": "할당 잔혹한 수법",
         "type": "enchant"
       },
       {
@@ -8901,13 +9006,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|37458",
-        "text": "할당 강한 고리",
+        "id": "enchant.stat_2954116742|13407",
+        "text": "할당 심장 분쇄",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|2021",
-        "text": "할당 원천",
+        "id": "enchant.stat_2954116742|8554",
+        "text": "할당 불타는 천성",
         "type": "enchant"
       },
       {
@@ -8916,8 +9021,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|37458",
+        "text": "할당 강한 고리",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|2486",
         "text": "할당 일직선을 이룬 별",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|2021",
+        "text": "할당 원천",
         "type": "enchant"
       },
       {
@@ -8946,23 +9061,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|33240",
-        "text": "할당 공포의 군주",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|4238",
         "text": "할당 다용도 병기",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|15986",
-        "text": "할당 축적되는 독소",
+        "id": "enchant.stat_2954116742|4627",
+        "text": "할당 기후 변화",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|4627",
-        "text": "할당 기후 변화",
+        "id": "enchant.stat_2954116742|15986",
+        "text": "할당 축적되는 독소",
         "type": "enchant"
       },
       {
@@ -8976,18 +9086,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|16499",
-        "text": "할당 지속되는 속삭임",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|35564",
-        "text": "할당 시간 역행",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|64299",
-        "text": "할당 발전하는 존재",
+        "id": "enchant.stat_2954116742|17854",
+        "text": "할당 탈출 속도",
         "type": "enchant"
       },
       {
@@ -8996,8 +9096,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|19715",
-        "text": "할당 시체 소각",
+        "id": "enchant.stat_2954116742|64299",
+        "text": "할당 발전하는 존재",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|43423",
+        "text": "할당 대담해진 화신",
         "type": "enchant"
       },
       {
@@ -9016,6 +9121,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|5257",
+        "text": "할당 메아리 서리",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|53527",
         "text": "할당 격파의 일격",
         "type": "enchant"
@@ -9026,18 +9136,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|13407",
-        "text": "할당 심장 분쇄",
+        "id": "enchant.stat_2954116742|18086",
+        "text": "할당 얼음의 숨결",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|54148",
         "text": "할당 연기 흡입",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|37276",
-        "text": "할당 전투의 무아지경",
         "type": "enchant"
       },
       {
@@ -9051,23 +9156,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|38969",
-        "text": "할당 수완",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|63759",
-        "text": "할당 중첩되는 독소",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|34531",
         "text": "할당 거룩함",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|30720",
-        "text": "할당 엔트로피의 화신",
+        "id": "enchant.stat_2954116742|63759",
+        "text": "할당 중첩되는 독소",
         "type": "enchant"
       },
       {
@@ -9081,16 +9176,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|56063",
-        "text": "할당 지속되는 공포",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|12998",
-        "text": "할당 심장 가열",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|27009",
         "text": "할당 번제의 욕망",
         "type": "enchant"
@@ -9098,21 +9183,6 @@
       {
         "id": "enchant.stat_2954116742|35966",
         "text": "할당 심장 조직",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|35028",
-        "text": "할당 한복판",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|47418",
-        "text": "할당 수호하는 물약",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|17854",
-        "text": "할당 탈출 속도",
         "type": "enchant"
       },
       {
@@ -9126,11 +9196,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|7302",
-        "text": "할당 메아리치는 파동",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|7163",
         "text": "할당 자극제",
         "type": "enchant"
@@ -9141,23 +9206,23 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|64119",
-        "text": "할당 즉각적 재장전",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|3823",
         "text": "할당 겨울의 길",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|5257",
-        "text": "할당 메아리 서리",
+        "id": "enchant.stat_2954116742|64119",
+        "text": "할당 즉각적 재장전",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|45713",
-        "text": "할당 풍미",
+        "id": "enchant.stat_2954116742|8957",
+        "text": "할당 어둠의 오른팔",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|44765",
+        "text": "할당 시선을 빼앗는 존재감",
         "type": "enchant"
       },
       {
@@ -9166,13 +9231,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|9421",
-        "text": "할당 설원을 가로지르는 자",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|8957",
-        "text": "할당 어둠의 오른팔",
+        "id": "enchant.stat_2954116742|45713",
+        "text": "할당 풍미",
         "type": "enchant"
       },
       {
@@ -9206,13 +9266,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|18086",
-        "text": "할당 얼음의 숨결",
+        "id": "enchant.stat_2954116742|52199",
+        "text": "할당 과노출",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|8483",
         "text": "할당 파탄",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|40990",
+        "text": "할당 폭풍 노출",
         "type": "enchant"
       },
       {
@@ -9226,18 +9291,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|59767",
-        "text": "할당 반향하는 충격",
+        "id": "enchant.stat_2954116742|13895",
+        "text": "할당 정확한 지점",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|27491",
         "text": "할당 묵직한 완충",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|13895",
-        "text": "할당 정확한 지점",
         "type": "enchant"
       },
       {
@@ -9256,8 +9316,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|58183",
-        "text": "할당 피눈물",
+        "id": "enchant.stat_2954116742|24630",
+        "text": "할당 노호",
         "type": "enchant"
       },
       {
@@ -9266,23 +9326,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|28044",
+        "text": "할당 다가오는 대재난",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|24062",
         "text": "할당 불멸의 악명",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|35739",
-        "text": "할당 타쇄하는 심판",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|32353",
         "text": "할당 빠른 발톱",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|28044",
-        "text": "할당 다가오는 대재난",
         "type": "enchant"
       },
       {
@@ -9301,13 +9356,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|36341",
-        "text": "할당 무리 솎기",
+        "id": "enchant.stat_2954116742|8831",
+        "text": "할당 조절된 마음",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|65468",
-        "text": "할당 반복되는 폭발물",
+        "id": "enchant.stat_2954116742|36341",
+        "text": "할당 무리 솎기",
         "type": "enchant"
       },
       {
@@ -9316,13 +9371,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|43423",
-        "text": "할당 대담해진 화신",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|52199",
-        "text": "할당 과노출",
+        "id": "enchant.stat_2954116742|65468",
+        "text": "할당 반복되는 폭발물",
         "type": "enchant"
       },
       {
@@ -9331,18 +9381,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|8554",
-        "text": "할당 불타는 천성",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|54990",
-        "text": "할당 출혈 과다",
+        "id": "enchant.stat_2954116742|12337",
+        "text": "할당 섬광 폭풍",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|4447",
         "text": "할당 속박",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|54990",
+        "text": "할당 출혈 과다",
         "type": "enchant"
       },
       {
@@ -9361,13 +9411,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|60404",
+        "text": "할당 절호의 기회",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|8273",
         "text": "할당 끝없는 회로",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|15051",
-        "text": "할당 집중 분쇄",
+        "id": "enchant.stat_2954116742|12661",
+        "text": "할당 고행",
         "type": "enchant"
       },
       {
@@ -9376,8 +9431,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|17029",
-        "text": "할당 칼날 포획자",
+        "id": "enchant.stat_2954116742|15051",
+        "text": "할당 집중 분쇄",
         "type": "enchant"
       },
       {
@@ -9401,13 +9456,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|60404",
-        "text": "할당 절호의 기회",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|47635",
-        "text": "할당 과부하",
+        "id": "enchant.stat_2954116742|59214",
+        "text": "할당 예견된 최후",
         "type": "enchant"
       },
       {
@@ -9421,6 +9471,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|47635",
+        "text": "할당 과부하",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|36364",
         "text": "할당 전기 처형",
         "type": "enchant"
@@ -9431,18 +9486,28 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|51707",
-        "text": "할당 강화 반사신경",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|17150",
         "text": "할당 장군의 군장",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|19442",
-        "text": "할당 지속되는 맹공",
+        "id": "enchant.stat_2954116742|51707",
+        "text": "할당 강화 반사신경",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|21935",
+        "text": "할당 보정",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|27875",
+        "text": "할당 전기 장군",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|61921",
+        "text": "할당 폭풍 쇄도",
         "type": "enchant"
       },
       {
@@ -9456,6 +9521,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|11366",
+        "text": "할당 화산의 피부",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|3985",
         "text": "할당 자연의 힘",
         "type": "enchant"
@@ -9466,18 +9536,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|23939",
-        "text": "할당 윤기 나는 육체",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|27875",
-        "text": "할당 전기 장군",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|45244",
         "text": "할당 보충",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|51934",
+        "text": "할당 기원 효율",
         "type": "enchant"
       },
       {
@@ -9496,8 +9561,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|51934",
-        "text": "할당 기원 효율",
+        "id": "enchant.stat_2954116742|3894",
+        "text": "할당 섬뜩한 의지",
         "type": "enchant"
       },
       {
@@ -9506,18 +9571,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|63659",
-        "text": "할당 교묘한 구조물",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|30562",
         "text": "할당 내면의 믿음",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|38895",
-        "text": "할당 수정 영액",
         "type": "enchant"
       },
       {
@@ -9531,16 +9586,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|11366",
-        "text": "할당 화산의 피부",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|61921",
-        "text": "할당 폭풍 쇄도",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|41580",
         "text": "할당 힘줄 절단의 타격",
         "type": "enchant"
@@ -9551,18 +9596,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|44765",
-        "text": "할당 시선을 빼앗는 존재감",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|20397",
         "text": "할당 권위",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|13738",
-        "text": "할당 번개 신속",
         "type": "enchant"
       },
       {
@@ -9576,23 +9611,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|59214",
-        "text": "할당 예견된 최후",
+        "id": "enchant.stat_2954116742|13738",
+        "text": "할당 번개 신속",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_2954116742|39881",
         "text": "할당 충격 장법",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|12337",
-        "text": "할당 섬광 폭풍",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|3894",
-        "text": "할당 섬뜩한 의지",
         "type": "enchant"
       },
       {
@@ -9611,23 +9636,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|24630",
-        "text": "할당 노호",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|21935",
-        "text": "할당 보정",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|21748",
         "text": "할당 임박한 멸망",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|12661",
-        "text": "할당 고행",
         "type": "enchant"
       },
       {
@@ -9641,13 +9651,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|8831",
-        "text": "할당 조절된 마음",
+        "id": "enchant.stat_2954116742|9444",
+        "text": "할당 폭풍과 하나",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|9444",
-        "text": "할당 폭풍과 하나",
+        "id": "enchant.stat_2954116742|15083",
+        "text": "할당 힘 전도",
         "type": "enchant"
       },
       {
@@ -9661,8 +9671,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|40073",
+        "text": "할당 흠뻑 젖음",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|52191",
         "text": "할당 사건의 지평선",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|38111",
+        "text": "할당 순응적인 육체",
         "type": "enchant"
       },
       {
@@ -9673,6 +9693,11 @@
       {
         "id": "enchant.stat_2954116742|6655",
         "text": "할당 가중",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2954116742|34316",
+        "text": "할당 강에 선 사람",
         "type": "enchant"
       },
       {
@@ -9688,21 +9713,6 @@
       {
         "id": "enchant.stat_2954116742|62034",
         "text": "할당 분광의 수호병",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|38111",
-        "text": "할당 순응적인 육체",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|15083",
-        "text": "할당 힘 전도",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|40073",
-        "text": "할당 흠뻑 젖음",
         "type": "enchant"
       },
       {
@@ -9741,6 +9751,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2954116742|55708",
+        "text": "할당 전기 증폭",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2954116742|3688",
         "text": "할당 패기",
         "type": "enchant"
@@ -9751,23 +9766,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|55708",
-        "text": "할당 전기 증폭",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|34316",
-        "text": "할당 강에 선 사람",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2954116742|43139",
         "text": "할당 폭풍파괴자",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2954116742|40990",
-        "text": "할당 폭풍 노출",
+        "id": "enchant.stat_2954116742|51169",
+        "text": "할당 영혼 꽃",
         "type": "enchant"
       },
       {
@@ -9788,11 +9793,6 @@
       {
         "id": "enchant.stat_2954116742|4547",
         "text": "할당 초자연적인 회복력",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2954116742|51169",
-        "text": "할당 영혼 꽃",
         "type": "enchant"
       },
       {
