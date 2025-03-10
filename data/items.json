@@ -6654,16 +6654,16 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 부식된 장검",
+        "type": "Ironhead Spear",
+        "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Ironhead Spear",
-        "text": "미완성 철창날 창",
+        "type": "Corroded Longsword",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -6702,14 +6702,6 @@
         }
       },
       {
-        "type": "Charred Shortsword",
-        "text": "미완성 까맣게 탄 절단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Rippled Greatsword",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
@@ -6736,6 +6728,14 @@
       {
         "type": "Broadsword",
         "text": "미완성 넓적검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Charred Shortsword",
+        "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
