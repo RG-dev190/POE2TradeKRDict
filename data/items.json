@@ -6718,14 +6718,6 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Broadsword",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
@@ -6760,6 +6752,14 @@
       {
         "type": "Simple Dagger",
         "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
