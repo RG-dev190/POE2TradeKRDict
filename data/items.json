@@ -1618,6 +1618,10 @@
         "text": "전문 금주물 수갑"
       },
       {
+        "type": "Golden Visage",
+        "text": "황금 얼굴"
+      },
+      {
         "type": "Shabby Hood",
         "text": "허름한 두건"
       },
@@ -2565,6 +2569,14 @@
         "type": "Elite Greathelm",
         "text": "죽음의 종 정예병 대헬름",
         "name": "Deidbell",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Golden Visage",
+        "text": "반신의 미덕 황금 얼굴",
+        "name": "Demigod's Virtue",
         "flags": {
           "unique": true
         }
