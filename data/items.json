@@ -8675,7 +8675,7 @@
       },
       {
         "type": "Crone Knife",
-        "text": "미완성 수염 도끼",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -8683,6 +8683,14 @@
       },
       {
         "type": "Simple Dagger",
+        "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -8723,14 +8731,6 @@
       },
       {
         "type": "Moon Dagger",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Holy Flail",
         "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -8738,7 +8738,7 @@
         }
       },
       {
-        "type": "Hook Axe",
+        "type": "Holy Flail",
         "text": "미완성 전쟁 창",
         "name": "INCOMPLETE",
         "flags": {
