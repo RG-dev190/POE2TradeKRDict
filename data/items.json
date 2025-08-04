@@ -1951,6 +1951,10 @@
       },
       {
         "type": "Solid Mask",
+        "text": "죽음 가면"
+      },
+      {
+        "type": "Death Mask",
         "text": "잔가지 관"
       },
       {
@@ -2763,7 +2767,7 @@
       },
       {
         "type": "Horned Crown",
-        "text": "칼기라의 원호 화려한 버클러",
+        "text": "카디로의 책략 준비된 화살통",
         "name": "Bronzebeard",
         "flags": {
           "unique": true
@@ -2771,8 +2775,16 @@
       },
       {
         "type": "Lizardscale Boots",
-        "text": "양초 제작자 암울한 장갑",
+        "text": "칼기라의 원호 화려한 버클러",
         "name": "Bushwhack",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Primed Quiver",
+        "text": "양초 제작자 암울한 장갑",
+        "name": "Cadiro's Gambit",
         "flags": {
           "unique": true
         }
@@ -2819,7 +2831,7 @@
       },
       {
         "type": "Silk Robe",
-        "text": "코르나타움 무거운 왕관",
+        "text": "목 죄이는 명령 독사 모자",
         "name": "Cloak of Flame",
         "flags": {
           "unique": true
@@ -2827,8 +2839,16 @@
       },
       {
         "type": "Chain Mail",
-        "text": "붉은 태양의 광환 전사 대헬름",
+        "text": "코르나타움 무거운 왕관",
         "name": "Coat of Red",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Viper Cap",
+        "text": "붉은 태양의 광환 전사 대헬름",
+        "name": "Constricting Command",
         "flags": {
           "unique": true
         }
@@ -3419,7 +3439,7 @@
       },
       {
         "type": "Feathered Tiara",
-        "text": "모리오르 인빅투스 우수한 예복",
+        "text": "의회의 정신 죽음 가면",
         "name": "Mask of the Stitched Demon",
         "flags": {
           "unique": true
@@ -3427,16 +3447,32 @@
       },
       {
         "type": "Pelage Targe",
-        "text": "미리스 욱소르 은밀한 두건",
+        "text": "모리오르 인빅투스 우수한 예복",
         "name": "Merit of Service",
         "flags": {
           "unique": true
         }
       },
       {
+        "type": "Death Mask",
+        "text": "진창 수갱 맹독성 화살통",
+        "name": "Mind of the Council",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Grand Regalia",
-        "text": "강령외투 뼈 의복",
+        "text": "미리스 욱소르 은밀한 두건",
         "name": "Morior Invictus",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Toxic Quiver",
+        "text": "강령외투 뼈 의복",
+        "name": "Murkshaft",
         "flags": {
           "unique": true
         }
@@ -4641,7 +4677,11 @@
       },
       {
         "type": "Zarokh's Reliquary Key: Against the Darkness",
-        "text": "자로크의 성유물 보관실 열쇠: 어둠에의 저항"
+        "text": "자로크의 성유물 보관실 열쇠: 어둠 저항"
+      },
+      {
+        "type": "Zarokh's Reliquary Key: Temporalis",
+        "text": "자로크의 성유물 보관실 열쇠: 템포랄리스"
       },
       {
         "type": "The Trialmaster's Reliquary Key",
@@ -4788,8 +4828,72 @@
         "text": "통솔의 상위 룬"
       },
       {
+        "type": "Craiceann's Rune of Warding",
+        "text": "크라칸의 수호의 룬"
+      },
+      {
+        "type": "Saqawal's Rune of Memory",
+        "text": "사카왈의 기억의 룬"
+      },
+      {
+        "type": "Saqawal's Rune of Erosion",
+        "text": "사카왈의 침식의 룬"
+      },
+      {
+        "type": "Farrul's Rune of the Hunt",
+        "text": "페룰의 사냥의 룬"
+      },
+      {
+        "type": "Craiceann's Rune of Recovery",
+        "text": "크라칸의 회복의 룬"
+      },
+      {
+        "type": "Courtesan Mannan's Rune of Cruelty",
+        "text": "매춘부 마난의 잔혹의 룬"
+      },
+      {
+        "type": "Thane Grannell's Rune of Mastery",
+        "text": "테인 그라넬의 숙련의 룬"
+      },
+      {
+        "type": "Fenumus' Rune of Spinning",
+        "text": "페누무스의 회전의 룬"
+      },
+      {
+        "type": "Countess Seske's Rune of Archery",
+        "text": "세스케 백작 부인의 궁술의 룬"
+      },
+      {
+        "type": "Thane Girt's Rune of Wildness",
+        "text": "테인 거트의 야생의 룬"
+      },
+      {
         "type": "Greater Rune of Tithing",
         "text": "십일조의 상위 룬"
+      },
+      {
+        "type": "Fenumus' Rune of Draining",
+        "text": "페누무스의 고갈의 룬"
+      },
+      {
+        "type": "Thane Myrk's Rune of Summer",
+        "text": "테인 머크의 여름의 룬"
+      },
+      {
+        "type": "Lady Hestra's Rune of Winter",
+        "text": "헤스트라 부인의 겨울의 룬"
+      },
+      {
+        "type": "Thane Leld's Rune of Spring",
+        "text": "테인 렐드의 봄의 룬"
+      },
+      {
+        "type": "The Greatwolf's Rune of Claws",
+        "text": "위대한 늑대의 발톱의 룬"
+      },
+      {
+        "type": "The Greatwolf's Rune of Willpower",
+        "text": "위대한 늑대의 의지의 룬"
       },
       {
         "type": "Greater Rune of Alacrity",
@@ -4798,6 +4902,26 @@
       {
         "type": "Greater Rune of Nobility",
         "text": "고결성의 상위 룬"
+      },
+      {
+        "type": "Hedgewitch Assandra's Rune of Wisdom",
+        "text": "산울마녀 아산드라의 지혜의 룬"
+      },
+      {
+        "type": "Saqawal's Rune of the Sky",
+        "text": "사카왈의 하늘의 룬"
+      },
+      {
+        "type": "Fenumus' Rune of Agony",
+        "text": "페누무스의 괴로움의 룬"
+      },
+      {
+        "type": "Farrul's Rune of Grace",
+        "text": "페룰의 은총의 룬"
+      },
+      {
+        "type": "Farrul's Rune of the Chase",
+        "text": "페룰의 추격의 룬"
       },
       {
         "type": "Robust Rune",
@@ -4876,6 +5000,66 @@
         "text": "조펙의 영혼 핵"
       },
       {
+        "type": "Hayoxi's Soul Core of Heatproofing",
+        "text": "하욕시의 내열의 영혼 핵"
+      },
+      {
+        "type": "Xopec's Soul Core of Power",
+        "text": "조펙의 힘의 영혼 핵"
+      },
+      {
+        "type": "Estazunti's Soul Core of Convalescence",
+        "text": "에스타준티의 요양의 영혼 핵"
+      },
+      {
+        "type": "Tacati's Soul Core of Affliction",
+        "text": "타카티의 수난의 영혼 핵"
+      },
+      {
+        "type": "Cholotl's Soul Core of War",
+        "text": "촐로틀의 전쟁의 영혼 핵"
+      },
+      {
+        "type": "Citaqualotl's Soul Core of Foulness",
+        "text": "시타콰로틀의 부정의 영혼 핵"
+      },
+      {
+        "type": "Xipocado's Soul Core of Dominion",
+        "text": "지포카도의 지배의 영혼 핵"
+      },
+      {
+        "type": "Zalatl's Soul Core of Insulation",
+        "text": "잘라틀의 절연의 영혼 핵"
+      },
+      {
+        "type": "Topotante's Soul Core of Dampening",
+        "text": "토포탄테의 완화의 영혼 핵"
+      },
+      {
+        "type": "Atmohua's Soul Core of Retreat",
+        "text": "앗모후아의 후퇴의 영혼 핵"
+      },
+      {
+        "type": "Quipolatl's Soul Core of Flow",
+        "text": "퀴폴라틀의 흐름의 영혼 핵"
+      },
+      {
+        "type": "Tzamoto's Soul Core of Ferocity",
+        "text": "자모토의 흉포함의 영혼 핵"
+      },
+      {
+        "type": "Uromoti's Soul Core of Attenuation",
+        "text": "우로모티의 감쇠의 영혼 핵"
+      },
+      {
+        "type": "Opiloti's Soul Core of Assault",
+        "text": "오필로티의 맹공의 영혼 핵"
+      },
+      {
+        "type": "Guatelitzi's Soul Core of Endurance",
+        "text": "과텔리치의 인내의 영혼 핵"
+      },
+      {
         "type": "Soul Core of Quipolatl",
         "text": "퀴폴라틀의 영혼 핵"
       },
@@ -4918,6 +5102,34 @@
       {
         "type": "Serpent Talisman",
         "text": "독사 부적"
+      },
+      {
+        "type": "Talisman of Sirrius",
+        "text": "시리우스의 부적"
+      },
+      {
+        "type": "Talisman of Thruldana",
+        "text": "스룰다나의 부적"
+      },
+      {
+        "type": "Talisman of Grold",
+        "text": "그롤드의 부적"
+      },
+      {
+        "type": "Talisman of Eeshta",
+        "text": "이쉬타의 부적"
+      },
+      {
+        "type": "Talisman of Egrin",
+        "text": "에그린의 부적"
+      },
+      {
+        "type": "Talisman of Maxarius",
+        "text": "막사리우스의 부적"
+      },
+      {
+        "type": "Talisman of Ralakesh",
+        "text": "랄라케쉬의 부적"
       },
       {
         "type": "Stag Talisman",
@@ -5305,7 +5517,7 @@
       },
       {
         "type": "Frozen Locus",
-        "text": "얼어붙은 메뚜기"
+        "text": "얼어붙은 궤적"
       },
       {
         "type": "Galvanic Shards",
@@ -7275,7 +7487,7 @@
       },
       {
         "type": "Time-Lost Diamond",
-        "text": "어둠에의 저항 오래된 다이아몬드",
+        "text": "어둠 저항 오래된 다이아몬드",
         "name": "Against the Darkness",
         "flags": {
           "unique": true
@@ -8019,6 +8231,10 @@
       },
       {
         "type": "Crude Bow",
+        "text": "무거운 활"
+      },
+      {
+        "type": "Heavy Bow",
         "text": "단궁"
       },
       {
@@ -8275,10 +8491,14 @@
       },
       {
         "type": "Pyrophyte Staff",
-        "text": "분할의 대도끼"
+        "text": "만년설 지팡이"
       },
       {
         "type": "Chiming Staff",
+        "text": "분할의 대도끼"
+      },
+      {
+        "type": "Permafrost Staff",
         "text": "잉걸불 대도끼"
       },
       {
@@ -8467,11 +8687,19 @@
       },
       {
         "type": "Obsidian Greatsword",
-        "text": "절단도"
+        "text": "착취 마법봉"
       },
       {
         "type": "Keen Greatsword",
-        "text": "징 박힌 대곤봉"
+        "text": "절단도"
+      },
+      {
+        "type": "Siphoning Wand",
+        "text": "요동치는 두뇌 징 박힌 대곤봉",
+        "name": "Adonia's Ego",
+        "flags": {
+          "unique": true
+        }
       },
       {
         "type": "Shortsword",
@@ -8587,7 +8815,7 @@
       },
       {
         "type": "Slim Mace",
-        "text": "돼지사냥 쓰러진 대곤봉",
+        "text": "눈의 인도하는 손바닥 성소 셉터",
         "name": "Frostbreath",
         "flags": {
           "unique": true
@@ -8595,8 +8823,32 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "흐림노르의 찬가 참나무 대망치",
+        "text": "심장의 인도하는 손바닥 성소 셉터",
         "name": "Guiding Palm",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Shrine Sceptre",
+        "text": "정신의 인도하는 손바닥 성소 셉터",
+        "name": "Guiding Palm of the Eye",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Shrine Sceptre",
+        "text": "돼지사냥 쓰러진 대곤봉",
+        "name": "Guiding Palm of the Heart",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Shrine Sceptre",
+        "text": "흐림노르의 찬가 참나무 대망치",
+        "name": "Guiding Palm of the Mind",
         "flags": {
           "unique": true
         }
@@ -8643,7 +8895,7 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 아치형 대도끼",
+        "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -8651,6 +8903,14 @@
       },
       {
         "type": "Chain Flail",
+        "text": "미완성 아치형 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Executioner Greataxe",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -8667,7 +8927,7 @@
       },
       {
         "type": "Rippled Greatsword",
-        "text": "미완성 철 대검",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -8675,6 +8935,14 @@
       },
       {
         "type": "Skinning Knife",
+        "text": "미완성 철 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -8691,14 +8959,6 @@
       },
       {
         "type": "Crone Knife",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Simple Dagger",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -8706,7 +8966,7 @@
         }
       },
       {
-        "type": "Hook Axe",
+        "type": "Simple Dagger",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -8723,14 +8983,6 @@
       },
       {
         "type": "Broadsword",
-        "text": "미완성 사형 집행자 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Splitting Greataxe",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -8738,7 +8990,7 @@
         }
       },
       {
-        "type": "Executioner Greataxe",
+        "type": "Splitting Greataxe",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -8827,7 +9079,7 @@
       },
       {
         "type": "Extended Cleaver",
-        "text": "마챠 초승달 육척봉",
+        "text": "라이온아이의 섬광 무거운 활",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -8835,8 +9087,16 @@
       },
       {
         "type": "Attuned Wand",
-        "text": "연무의 속삭임 임시 석궁",
+        "text": "마챠 초승달 육척봉",
         "name": "Lifesprig",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Heavy Bow",
+        "text": "연무의 속삭임 임시 석궁",
+        "name": "Lioneye's Glare",
         "flags": {
           "unique": true
         }
@@ -8875,7 +9135,7 @@
       },
       {
         "type": "Execratus Hammer",
-        "text": "갇힌 신의 기둥 긴 육척봉",
+        "text": "몽상가의 손바닥 성소 셉터",
         "name": "Nebuloch",
         "flags": {
           "unique": true
@@ -8883,8 +9143,16 @@
       },
       {
         "type": "Torment Club",
-        "text": "퀘촐리 허물어지는 대형 망치",
+        "text": "갇힌 신의 기둥 긴 육척봉",
         "name": "Olrovasara",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Shrine Sceptre",
+        "text": "퀘촐리 허물어지는 대형 망치",
+        "name": "Palm of the Dreamer",
         "flags": {
           "unique": true
         }
@@ -9075,7 +9343,7 @@
       },
       {
         "type": "Cultist Greathammer",
-        "text": "이글거리는 손길 불저항 지팡이",
+        "text": "최후의 한탄 황량한 석궁",
         "name": "The Empty Roar",
         "flags": {
           "unique": true
@@ -9083,15 +9351,23 @@
       },
       {
         "type": "Giant Maul",
-        "text": "보초 고딕 육척봉",
+        "text": "이글거리는 손길 불저항 지팡이",
         "name": "The Hammer of Faith",
         "flags": {
           "unique": true
         }
       },
       {
+        "type": "Desolate Crossbow",
+        "text": "보초 고딕 육척봉",
+        "name": "The Last Lament",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Pyrophyte Staff",
-        "text": "부도덕한 깃펜 말라버린 마법봉",
+        "text": "속삭이는 얼음 만년설 지팡이",
         "name": "The Searing Touch",
         "flags": {
           "unique": true
@@ -9099,8 +9375,16 @@
       },
       {
         "type": "Gothic Quarterstaff",
-        "text": "물결 분쇄기 뾰족한 대형 망치",
+        "text": "부도덕한 깃펜 말라버린 마법봉",
         "name": "The Sentry",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Permafrost Staff",
+        "text": "물결 분쇄기 뾰족한 대형 망치",
+        "name": "The Whispering Ice",
         "flags": {
           "unique": true
         }

@@ -345,6 +345,12 @@
         "minMax": true
       },
       {
+        "id": "reload_time",
+        "text": "재장전 시간",
+        "minMax": true,
+        "halfSpan": true
+      },
+      {
         "id": "ar",
         "text": "방어도",
         "tip": "기본 수치, 특정 속성 부여, 최대 퀄리티를 포함합니다.",
@@ -410,7 +416,7 @@
   },
   {
     "id": "map_filters",
-    "title": "경로석 필터",
+    "title": "엔드게임 필터",
     "hidden": true,
     "filters": [
       {
@@ -422,6 +428,30 @@
         "id": "map_bonus",
         "text": "경로석 출현 확률",
         "minMax": true
+      },
+      {
+        "id": "ultimatum_hint",
+        "text": "결전 시련 힌트",
+        "option": {
+          "options": [
+            {
+              "id": null,
+              "text": "모두"
+            },
+            {
+              "id": "Victorious",
+              "text": "승리"
+            },
+            {
+              "id": "Cowardly",
+              "text": "겁쟁이"
+            },
+            {
+              "id": "Deadly",
+              "text": "치명적"
+            }
+          ]
+        }
       }
     ]
   },
