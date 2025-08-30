@@ -300,6 +300,14 @@
         }
       },
       {
+        "type": "Fine Belt",
+        "text": "어둠에 대한 경외 섬세한 허리띠",
+        "name": "Darkness Enthroned",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Emerald Ring",
         "text": "죽음의 재촉 에메랄드 반지",
         "name": "Death Rush",
@@ -870,6 +878,10 @@
         "text": "은자 의복"
       },
       {
+        "type": "Assassin Garb",
+        "text": "암살자 의복"
+      },
+      {
         "type": "Ascetic Garb",
         "text": "고행자 의복"
       },
@@ -1183,6 +1195,10 @@
       },
       {
         "type": "Ancestral Mail",
+        "text": "테인 사슬옷"
+      },
+      {
+        "type": "Thane Mail",
         "text": "라멜라 사슬옷"
       },
       {
@@ -1267,6 +1283,10 @@
       },
       {
         "type": "Tideseer Mantle",
+        "text": "바다폭풍 외투"
+      },
+      {
+        "type": "Seastorm Mantle",
         "text": "도금된 법의"
       },
       {
@@ -1483,6 +1503,10 @@
       },
       {
         "type": "Reefsteel Greaves",
+        "text": "타살리오의 각반"
+      },
+      {
+        "type": "Tasalian Greaves",
         "text": "사슬 발 덮개"
       },
       {
@@ -1523,6 +1547,10 @@
       },
       {
         "type": "Covered Sabatons",
+        "text": "검은강철 발 덮개"
+      },
+      {
+        "type": "Blacksteel Sabatons",
         "text": "우수한 허벅지 방어구"
       },
       {
@@ -1567,6 +1595,10 @@
       },
       {
         "type": "Weaver Leggings",
+        "text": "난해한 레깅스"
+      },
+      {
+        "type": "Cryptic Leggings",
         "text": "잔가지 집중구"
       },
       {
@@ -1695,10 +1727,14 @@
       },
       {
         "type": "Barbed Bracers",
-        "text": "거즈 싸개"
+        "text": "광택 나는 팔보호구"
       },
       {
         "type": "Fine Bracers",
+        "text": "거즈 싸개"
+      },
+      {
+        "type": "Polished Bracers",
         "text": "붕대 싸개"
       },
       {
@@ -1735,14 +1771,22 @@
       },
       {
         "type": "Vaal Wraps",
-        "text": "은밀한 싸개"
+        "text": "고정된 싸개"
       },
       {
         "type": "Buckled Wraps",
-        "text": "찢긴 장갑"
+        "text": "은밀한 싸개"
+      },
+      {
+        "type": "Secured Wraps",
+        "text": "특수 싸개"
       },
       {
         "type": "Furtive Wraps",
+        "text": "찢긴 장갑"
+      },
+      {
+        "type": "Utility Wraps",
         "text": "암울한 장갑"
       },
       {
@@ -1791,10 +1835,14 @@
       },
       {
         "type": "Vaal Gloves",
-        "text": "수놓은 장갑"
+        "text": "사이렌비늘 장갑"
       },
       {
         "type": "Pauascale Gloves",
+        "text": "수놓은 장갑"
+      },
+      {
+        "type": "Sirenscale Gloves",
         "text": "다부진 미트"
       },
       {
@@ -1847,10 +1895,14 @@
       },
       {
         "type": "Vaal Mitts",
-        "text": "거신 미트"
+        "text": "거대한 미트"
       },
       {
         "type": "Detailed Mitts",
+        "text": "거신 미트"
+      },
+      {
+        "type": "Massive Mitts",
         "text": "고리 갑옷 건틀릿"
       },
       {
@@ -1891,10 +1943,14 @@
       },
       {
         "type": "Cultist Gauntlets",
-        "text": "윤이 나는 건틀릿"
+        "text": "검은강철 건틀릿"
       },
       {
         "type": "Plate Gauntlets",
+        "text": "윤이 나는 건틀릿"
+      },
+      {
+        "type": "Blacksteel Gauntlets",
         "text": "화려한 건틀릿"
       },
       {
@@ -1943,10 +1999,14 @@
       },
       {
         "type": "Gleaming Cuffs",
-        "text": "황금 얼굴"
+        "text": "지지자 수갑"
       },
       {
         "type": "Verisium Cuffs",
+        "text": "황금 얼굴"
+      },
+      {
+        "type": "Adherent Cuffs",
         "text": "허름한 두건"
       },
       {
@@ -2083,10 +2143,14 @@
       },
       {
         "type": "Soaring Mask",
-        "text": "죽음 가면"
+        "text": "웃는 가면"
       },
       {
         "type": "Solid Mask",
+        "text": "죽음 가면"
+      },
+      {
+        "type": "Grinning Mask",
         "text": "잔가지 관"
       },
       {
@@ -2290,60 +2354,64 @@
         "text": "우수한 얼굴"
       },
       {
-        "type": "Decorated Helm",
+        "type": "Gladiatorial Helm",
         "text": "철 왕관"
       },
       {
-        "type": "Grand Visage",
+        "type": "Decorated Helm",
         "text": "사슬 왕관"
       },
       {
-        "type": "Iron Crown",
+        "type": "Grand Visage",
         "text": "뿔 달린 왕관"
       },
       {
-        "type": "Mailed Crown",
+        "type": "Iron Crown",
         "text": "숲 왕관"
       },
       {
-        "type": "Horned Crown",
+        "type": "Mailed Crown",
         "text": "드루이드 왕관"
       },
       {
-        "type": "Forest Crown",
+        "type": "Horned Crown",
         "text": "광신자 왕관"
       },
       {
-        "type": "Druidic Crown",
+        "type": "Forest Crown",
         "text": "맹신자 왕관"
       },
       {
-        "type": "Cultist Crown",
+        "type": "Druidic Crown",
         "text": "순교자 왕관"
       },
       {
-        "type": "Zealot Crown",
+        "type": "Cultist Crown",
         "text": "거룩한 왕관"
       },
       {
-        "type": "Martyr Crown",
+        "type": "Zealot Crown",
         "text": "성인 왕관"
       },
       {
-        "type": "Hallowed Crown",
+        "type": "Martyr Crown",
         "text": "무거운 왕관"
       },
       {
-        "type": "Saintly Crown",
+        "type": "Hallowed Crown",
         "text": "이단심문관 왕관"
       },
       {
-        "type": "Heavy Crown",
+        "type": "Saintly Crown",
         "text": "신성한 왕관"
       },
       {
-        "type": "Inquisitor Crown",
+        "type": "Heavy Crown",
         "text": "혼백뼈 왕관"
+      },
+      {
+        "type": "Inquisitor Crown",
+        "text": "난해한 왕관"
       },
       {
         "type": "Divine Crown",
@@ -2354,76 +2422,80 @@
         "text": "진주 버클러"
       },
       {
-        "type": "Leather Buckler",
+        "type": "Cryptic Crown",
         "text": "화려한 버클러"
       },
       {
-        "type": "Pearl Buckler",
+        "type": "Leather Buckler",
         "text": "배열 버클러"
       },
       {
-        "type": "Ornate Buckler",
+        "type": "Pearl Buckler",
         "text": "목재 버클러"
       },
       {
-        "type": "Array Buckler",
+        "type": "Ornate Buckler",
         "text": "참나무 버클러"
       },
       {
-        "type": "Wooden Buckler",
+        "type": "Array Buckler",
         "text": "판금 버클러"
       },
       {
-        "type": "Oak Buckler",
+        "type": "Wooden Buckler",
         "text": "도색된 버클러"
       },
       {
-        "type": "Plated Buckler",
+        "type": "Oak Buckler",
         "text": "철 버클러"
       },
       {
-        "type": "Painted Buckler",
+        "type": "Plated Buckler",
         "text": "이랑 버클러"
       },
       {
-        "type": "Iron Buckler",
+        "type": "Painted Buckler",
         "text": "똬리 버클러"
       },
       {
-        "type": "Ridged Buckler",
+        "type": "Iron Buckler",
         "text": "가시 버클러"
       },
       {
-        "type": "Coiled Buckler",
+        "type": "Ridged Buckler",
         "text": "가시수호 버클러"
       },
       {
-        "type": "Spiked Buckler",
+        "type": "Coiled Buckler",
         "text": "복부가시 버클러"
       },
       {
-        "type": "Spikeward Buckler",
+        "type": "Spiked Buckler",
         "text": "고리 버클러"
       },
       {
-        "type": "Gutspike Buckler",
+        "type": "Spikeward Buckler",
         "text": "방울 버클러"
       },
       {
-        "type": "Ringed Buckler",
+        "type": "Gutspike Buckler",
         "text": "칼날 버클러"
       },
       {
-        "type": "Jingling Buckler",
+        "type": "Ringed Buckler",
         "text": "칼날보호대 버클러"
       },
       {
-        "type": "Edged Buckler",
+        "type": "Jingling Buckler",
         "text": "고대의 버클러"
       },
       {
-        "type": "Bladeguard Buckler",
+        "type": "Edged Buckler",
         "text": "합판 버클러"
+      },
+      {
+        "type": "Bladeguard Buckler",
+        "text": "사막 버클러"
       },
       {
         "type": "Ancient Buckler",
@@ -2434,6 +2506,10 @@
         "text": "선조 거대 방패"
       },
       {
+        "type": "Desert Buckler",
+        "text": "타호아의 거대 방패"
+      },
+      {
         "type": "Splintered Tower Shield",
         "text": "검은강철 거대 방패"
       },
@@ -2442,200 +2518,204 @@
         "text": "도색된 거대 방패"
       },
       {
-        "type": "Blacksteel Tower Shield",
+        "type": "Tawhoan Tower Shield",
         "text": "오래된 거대 방패"
       },
       {
-        "type": "Painted Tower Shield",
+        "type": "Blacksteel Tower Shield",
         "text": "죔쇠 거대 방패"
       },
       {
-        "type": "Aged Tower Shield",
+        "type": "Painted Tower Shield",
         "text": "금속가공 거대 방패"
       },
       {
-        "type": "Braced Tower Shield",
+        "type": "Aged Tower Shield",
         "text": "왕실 거대 방패"
       },
       {
-        "type": "Metalworked Tower Shield",
+        "type": "Braced Tower Shield",
         "text": "방벽 거대 방패"
       },
       {
-        "type": "Royal Tower Shield",
+        "type": "Metalworked Tower Shield",
         "text": "제웅 거대 방패"
       },
       {
-        "type": "Barricade Tower Shield",
+        "type": "Royal Tower Shield",
         "text": "광신자 거대 방패"
       },
       {
-        "type": "Effigial Tower Shield",
+        "type": "Barricade Tower Shield",
         "text": "성벽 거대 방패"
       },
       {
-        "type": "Cultist Tower Shield",
+        "type": "Effigial Tower Shield",
         "text": "요새 거대 방패"
       },
       {
-        "type": "Rampart Tower Shield",
+        "type": "Cultist Tower Shield",
         "text": "전령 거대 방패"
       },
       {
-        "type": "Bulwark Tower Shield",
+        "type": "Rampart Tower Shield",
         "text": "귀족 거대 방패"
       },
       {
-        "type": "Fortress Tower Shield",
+        "type": "Bulwark Tower Shield",
         "text": "돌 거대 방패"
       },
       {
-        "type": "Heraldric Tower Shield",
+        "type": "Fortress Tower Shield",
         "text": "금가공 거대 방패"
       },
       {
-        "type": "Noble Tower Shield",
+        "type": "Heraldric Tower Shield",
         "text": "바알 거대 방패"
       },
       {
-        "type": "Stone Tower Shield",
+        "type": "Noble Tower Shield",
         "text": "도가니 거대 방패"
       },
       {
-        "type": "Goldworked Tower Shield",
+        "type": "Stone Tower Shield",
         "text": "견목 타지"
       },
       {
-        "type": "Vaal Tower Shield",
+        "type": "Goldworked Tower Shield",
         "text": "금색 타지"
       },
       {
-        "type": "Crucible Tower Shield",
+        "type": "Vaal Tower Shield",
         "text": "철목 타지"
       },
       {
-        "type": "Hardwood Targe",
+        "type": "Crucible Tower Shield",
         "text": "털가죽 타지"
       },
       {
-        "type": "Golden Targe",
+        "type": "Hardwood Targe",
         "text": "모피 안감 타지"
       },
       {
-        "type": "Ironwood Targe",
+        "type": "Golden Targe",
         "text": "매머드 타지"
       },
       {
-        "type": "Pelage Targe",
+        "type": "Ironwood Targe",
         "text": "징 박힌 타지"
       },
       {
-        "type": "Fur-lined Targe",
+        "type": "Pelage Targe",
         "text": "용병 타지"
       },
       {
-        "type": "Mammoth Targe",
+        "type": "Fur-lined Targe",
         "text": "초승달 타지"
       },
       {
-        "type": "Studded Targe",
+        "type": "Mammoth Targe",
         "text": "고급 초승달 타지"
       },
       {
-        "type": "Mercenary Targe",
+        "type": "Studded Targe",
         "text": "바로크 타지"
       },
       {
-        "type": "Crescent Targe",
+        "type": "Mercenary Targe",
         "text": "깎아놓은 타지"
       },
       {
-        "type": "Polished Targe",
+        "type": "Crescent Targe",
         "text": "돌 타지"
       },
       {
-        "type": "Baroque Targe",
+        "type": "Polished Targe",
         "text": "깃털 타지"
       },
       {
-        "type": "Chiseled Targe",
+        "type": "Baroque Targe",
         "text": "새의 타지"
       },
       {
-        "type": "Stone Targe",
+        "type": "Chiseled Targe",
         "text": "솟구치는 타지"
       },
       {
-        "type": "Feathered Targe",
+        "type": "Stone Targe",
         "text": "계층화된 타지"
       },
       {
-        "type": "Avian Targe",
+        "type": "Feathered Targe",
         "text": "조각된 타지"
       },
       {
-        "type": "Soaring Targe",
+        "type": "Avian Targe",
         "text": "문장 문양 방패"
       },
       {
-        "type": "Stratified Targe",
+        "type": "Soaring Targe",
         "text": "도색된 문양 방패"
       },
       {
-        "type": "Carved Targe",
+        "type": "Stratified Targe",
         "text": "부적 문양 방패"
       },
       {
-        "type": "Blazon Crest Shield",
+        "type": "Carved Targe",
         "text": "아로새긴 문양 방패"
       },
       {
-        "type": "Painted Crest Shield",
+        "type": "Blazon Crest Shield",
         "text": "복잡한 문양 방패"
       },
       {
-        "type": "Sigil Crest Shield",
+        "type": "Painted Crest Shield",
         "text": "상징 문양 방패"
       },
       {
-        "type": "Engraved Crest Shield",
+        "type": "Sigil Crest Shield",
         "text": "성표 문양 방패"
       },
       {
-        "type": "Intricate Crest Shield",
+        "type": "Engraved Crest Shield",
         "text": "방울 문양 방패"
       },
       {
-        "type": "Emblem Crest Shield",
+        "type": "Intricate Crest Shield",
         "text": "데카란 문양 방패"
       },
       {
-        "type": "Descry Crest Shield",
+        "type": "Emblem Crest Shield",
         "text": "세케마의 문양 방패"
       },
       {
-        "type": "Jingling Crest Shield",
+        "type": "Descry Crest Shield",
         "text": "종파 문양 방패"
       },
       {
-        "type": "Dekharan Crest Shield",
+        "type": "Jingling Crest Shield",
         "text": "쪼개진 문양 방패"
       },
       {
-        "type": "Sekheman Crest Shield",
+        "type": "Dekharan Crest Shield",
         "text": "징조 문양 방패"
       },
       {
-        "type": "Sectarian Crest Shield",
+        "type": "Sekheman Crest Shield",
         "text": "험한 눈빛의 문양 방패"
       },
       {
-        "type": "Quartered Crest Shield",
+        "type": "Sectarian Crest Shield",
         "text": "바알 문양 방패"
       },
       {
-        "type": "Omen Crest Shield",
+        "type": "Quartered Crest Shield",
         "text": "버릇없는 문양 방패"
+      },
+      {
+        "type": "Omen Crest Shield",
+        "text": "검은강철 문양 방패"
       },
       {
         "type": "Glowering Crest Shield",
@@ -3035,7 +3115,7 @@
       },
       {
         "type": "Heavy Crown",
-        "text": "진홍의 예복 도금된 법의",
+        "text": "코스프리의 의지 암살자 의복",
         "name": "Cornathaum",
         "flags": {
           "unique": true
@@ -3043,7 +3123,7 @@
       },
       {
         "type": "Warrior Greathelm",
-        "text": "아르듀라의 문양 방울 문양 방패",
+        "text": "진홍의 예복 도금된 법의",
         "name": "Corona of the Red Sun",
         "flags": {
           "unique": true
@@ -3051,8 +3131,16 @@
       },
       {
         "type": "Iron Greaves",
-        "text": "눈알 왕관 버메일 관",
+        "text": "아르듀라의 문양 방울 문양 방패",
         "name": "Corpsewade",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Assassin Garb",
+        "text": "눈알 왕관 버메일 관",
+        "name": "Cospri's Will",
         "flags": {
           "unique": true
         }
@@ -4243,7 +4331,7 @@
       },
       {
         "type": "Effigial Tower Shield",
-        "text": "우레걸음 강철코 장화",
+        "text": "천둥 주먹 특수 싸개",
         "name": "The Wailing Wall",
         "flags": {
           "unique": true
@@ -4251,7 +4339,7 @@
       },
       {
         "type": "Woven Focus",
-        "text": "거신부패 비늘 갑옷 마라케스 흉갑",
+        "text": "우레걸음 강철코 장화",
         "name": "Threaded Light",
         "flags": {
           "unique": true
@@ -4259,8 +4347,16 @@
       },
       {
         "type": "Spired Greathelm",
-        "text": "짓발가락 다듬은 각반",
+        "text": "거신부패 비늘 갑옷 마라케스 흉갑",
         "name": "Thrillsteel",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Utility Wraps",
+        "text": "짓발가락 다듬은 각반",
+        "name": "Thunderfist",
         "flags": {
           "unique": true
         }
@@ -4440,1208 +4536,1284 @@
     "label": "화폐",
     "entries": [
       {
+        "type": "Preserved Rib",
+        "text": "보존된 갈비뼈"
+      },
+      {
+        "type": "Ancient Rib",
+        "text": "고대 갈비뼈"
+      },
+      {
         "type": "Gnawed Rib",
         "text": "갉힌 갈비뼈"
       },
       {
-        "type": "Gnawed Collarbone",
+        "type": "Preserved Cranium",
+        "text": "보존된 두개골"
+      },
+      {
+        "type": "Preserved Collarbone",
         "text": "보존된 빗장뼈"
       },
       {
-        "type": "Gnawed Jawbone",
+        "type": "Gnawed Collarbone",
         "text": "갉힌 빗장뼈"
       },
       {
-        "type": "Artificer's Orb",
+        "type": "Preserved Vertebrae",
+        "text": "보존된 등골"
+      },
+      {
+        "type": "Preserved Jawbone",
+        "text": "보존된 턱뼈"
+      },
+      {
+        "type": "Ancient Jawbone",
+        "text": "고대 턱뼈"
+      },
+      {
+        "type": "Gnawed Jawbone",
         "text": "갉힌 턱뼈"
       },
       {
-        "type": "Artificer's Shard",
+        "type": "Artificer's Orb",
         "text": "숙련공의 오브"
       },
       {
-        "type": "Orb of Augmentation",
+        "type": "Artificer's Shard",
         "text": "숙련공의 파편"
       },
       {
-        "type": "Greater Orb of Augmentation",
+        "type": "Orb of Augmentation",
         "text": "확장의 오브"
       },
       {
-        "type": "Perfect Orb of Augmentation",
+        "type": "Greater Orb of Augmentation",
         "text": "상위 확장의 오브"
       },
       {
-        "type": "Exalted Orb",
+        "type": "Perfect Orb of Augmentation",
         "text": "완벽한 확장의 오브"
       },
       {
-        "type": "Greater Exalted Orb",
+        "type": "Exalted Orb",
         "text": "엑잘티드 오브"
       },
       {
-        "type": "Lesser Jeweller's Orb",
+        "type": "Greater Exalted Orb",
         "text": "상위 엑잘티드 오브"
       },
       {
-        "type": "Greater Jeweller's Orb",
+        "type": "Perfect Exalted Orb",
+        "text": "완벽한 엑잘티드 오브"
+      },
+      {
+        "type": "Lesser Jeweller's Orb",
         "text": "하위 쥬얼러 오브"
       },
       {
-        "type": "Perfect Jeweller's Orb",
+        "type": "Greater Jeweller's Orb",
         "text": "상위 쥬얼러 오브"
       },
       {
-        "type": "Simulacrum Splinter",
+        "type": "Perfect Jeweller's Orb",
         "text": "완벽한 쥬얼러 오브"
       },
       {
-        "type": "Armourer's Scrap",
+        "type": "Simulacrum Splinter",
         "text": "복제된 영토 파편"
       },
       {
-        "type": "Breach Splinter",
+        "type": "Armourer's Scrap",
         "text": "방어구 장인의 고철"
       },
       {
-        "type": "Vaal Orb",
+        "type": "Breach Splinter",
         "text": "균열 파편"
       },
       {
-        "type": "Essence of the Abyss",
+        "type": "Vaal Orb",
         "text": "바알 오브"
       },
       {
-        "type": "Essence of Delirium",
+        "type": "Essence of the Abyss",
         "text": "심연의 에센스"
       },
       {
-        "type": "Essence of Horror",
+        "type": "Essence of Delirium",
         "text": "섬망의 에센스"
       },
       {
-        "type": "Essence of Hysteria",
+        "type": "Essence of Horror",
         "text": "경악의 에센스"
       },
       {
-        "type": "Essence of Insanity",
+        "type": "Essence of Hysteria",
         "text": "발작의 에센스"
       },
       {
-        "type": "Mirror of Kalandra",
+        "type": "Essence of Insanity",
         "text": "광기의 에센스"
       },
       {
-        "type": "Essence of Command",
+        "type": "Mirror of Kalandra",
         "text": "칼란드라의 거울"
       },
       {
-        "type": "Essence of Battle",
+        "type": "Essence of Command",
         "text": "지휘의 에센스"
       },
       {
-        "type": "Essence of the Infinite",
+        "type": "Essence of Battle",
         "text": "전투의 에센스"
       },
       {
-        "type": "Essence of Sorcery",
+        "type": "Essence of the Infinite",
         "text": "무한의 에센스"
       },
       {
-        "type": "Essence of Ruin",
+        "type": "Essence of Sorcery",
         "text": "마술의 에센스"
       },
       {
-        "type": "Essence of Ice",
+        "type": "Essence of Ruin",
         "text": "폐허의 에센스"
       },
       {
-        "type": "Essence of Thawing",
+        "type": "Essence of Ice",
         "text": "얼음의 에센스"
       },
       {
-        "type": "Essence of Seeking",
+        "type": "Essence of Thawing",
         "text": "해동의 에센스"
       },
       {
-        "type": "Essence of Enhancement",
+        "type": "Essence of Seeking",
         "text": "추구의 에센스"
       },
       {
-        "type": "Essence of Flames",
+        "type": "Essence of Enhancement",
         "text": "강화의 에센스"
       },
       {
-        "type": "Essence of Insulation",
+        "type": "Essence of Flames",
         "text": "화염의 에센스"
       },
       {
-        "type": "Essence of the Body",
+        "type": "Essence of Insulation",
         "text": "절연의 에센스"
       },
       {
-        "type": "Essence of Electricity",
+        "type": "Essence of the Body",
         "text": "육신의 에센스"
       },
       {
-        "type": "Essence of Grounding",
+        "type": "Essence of Electricity",
         "text": "전기의 에센스"
       },
       {
-        "type": "Essence of the Mind",
+        "type": "Essence of Grounding",
         "text": "접지의 에센스"
       },
       {
-        "type": "Essence of Abrasion",
+        "type": "Essence of the Mind",
         "text": "정신의 에센스"
       },
       {
-        "type": "Essence of Haste",
+        "type": "Essence of Abrasion",
         "text": "마모의 에센스"
       },
       {
-        "type": "Essence of Alacrity",
+        "type": "Essence of Opulence",
+        "text": "풍요의 에센스"
+      },
+      {
+        "type": "Essence of Haste",
         "text": "가속의 에센스"
       },
       {
-        "type": "Glassblower's Bauble",
+        "type": "Essence of Alacrity",
         "text": "기민성의 에센스"
       },
       {
-        "type": "Fracturing Orb",
+        "type": "Runic Splinter",
+        "text": "룬 파편"
+      },
+      {
+        "type": "Glassblower's Bauble",
         "text": "유리직공의 방울"
       },
       {
-        "type": "Gemcutter's Prism",
+        "type": "Fracturing Orb",
         "text": "분열의 오브"
       },
       {
-        "type": "Greater Essence of Command",
+        "type": "Gemcutter's Prism",
         "text": "세공사의 프리즘"
       },
       {
-        "type": "Greater Essence of Battle",
+        "type": "Greater Essence of Command",
         "text": "상위 지휘의 에센스"
       },
       {
-        "type": "Greater Essence of the Infinite",
+        "type": "Greater Essence of Battle",
         "text": "상위 전투의 에센스"
       },
       {
-        "type": "Greater Essence of Sorcery",
+        "type": "Greater Essence of the Infinite",
         "text": "상위 무한의 에센스"
       },
       {
-        "type": "Greater Essence of Ruin",
+        "type": "Greater Essence of Sorcery",
         "text": "상위 마술의 에센스"
       },
       {
-        "type": "Greater Essence of Ice",
+        "type": "Greater Essence of Ruin",
         "text": "상위 폐허의 에센스"
       },
       {
-        "type": "Greater Essence of Thawing",
+        "type": "Greater Essence of Ice",
         "text": "상위 얼음의 에센스"
       },
       {
-        "type": "Greater Essence of Seeking",
+        "type": "Greater Essence of Thawing",
         "text": "상위 해동의 에센스"
       },
       {
-        "type": "Greater Essence of Enhancement",
+        "type": "Greater Essence of Seeking",
         "text": "상위 추구의 에센스"
       },
       {
-        "type": "Greater Essence of Flames",
+        "type": "Greater Essence of Enhancement",
         "text": "상위 강화의 에센스"
       },
       {
-        "type": "Greater Essence of Insulation",
+        "type": "Greater Essence of Flames",
         "text": "상위 화염의 에센스"
       },
       {
-        "type": "Greater Essence of the Body",
+        "type": "Greater Essence of Insulation",
         "text": "상위 절연의 에센스"
       },
       {
-        "type": "Greater Essence of Electricity",
+        "type": "Greater Essence of the Body",
         "text": "상위 육신의 에센스"
       },
       {
-        "type": "Greater Essence of Grounding",
+        "type": "Greater Essence of Electricity",
         "text": "상위 전기의 에센스"
       },
       {
-        "type": "Greater Essence of the Mind",
+        "type": "Greater Essence of Grounding",
         "text": "상위 접지의 에센스"
       },
       {
-        "type": "Greater Essence of Abrasion",
+        "type": "Greater Essence of the Mind",
         "text": "상위 정신의 에센스"
       },
       {
-        "type": "Greater Essence of Opulence",
+        "type": "Greater Essence of Abrasion",
         "text": "상위 마모의 에센스"
       },
       {
-        "type": "Greater Essence of Haste",
+        "type": "Greater Essence of Opulence",
         "text": "상위 풍요의 에센스"
       },
       {
-        "type": "Greater Essence of Alacrity",
+        "type": "Greater Essence of Haste",
         "text": "상위 가속의 에센스"
       },
       {
-        "type": "Scroll of Wisdom",
+        "type": "Greater Essence of Alacrity",
         "text": "상위 기민성의 에센스"
       },
       {
-        "type": "Reaver Catalyst",
+        "type": "Scroll of Wisdom",
         "text": "감정 주문서"
       },
       {
-        "type": "Adaptive Catalyst",
+        "type": "Reaver Catalyst",
         "text": "강탈자 기폭제"
       },
       {
-        "type": "Sibilant Catalyst",
+        "type": "Adaptive Catalyst",
         "text": "적응형 기폭제"
       },
       {
-        "type": "Chayula's Catalyst",
+        "type": "Sibilant Catalyst",
         "text": "쇳소리 기폭제"
       },
       {
-        "type": "Tul's Catalyst",
+        "type": "Chayula's Catalyst",
         "text": "차율라의 기폭제"
       },
       {
-        "type": "Carapace Catalyst",
+        "type": "Tul's Catalyst",
         "text": "툴의 기폭제"
       },
       {
-        "type": "Xoph's Catalyst",
+        "type": "Carapace Catalyst",
         "text": "갑각 기폭제"
       },
       {
-        "type": "Flesh Catalyst",
+        "type": "Xoph's Catalyst",
         "text": "조프의 기폭제"
       },
       {
-        "type": "Esh's Catalyst",
+        "type": "Flesh Catalyst",
         "text": "육체 기폭제"
       },
       {
-        "type": "Neural Catalyst",
+        "type": "Esh's Catalyst",
         "text": "에쉬의 기폭제"
       },
       {
-        "type": "Uul-Netol's Catalyst",
+        "type": "Neural Catalyst",
         "text": "신경 기폭제"
       },
       {
-        "type": "Skittering Catalyst",
+        "type": "Uul-Netol's Catalyst",
         "text": "울네톨의 기폭제"
       },
       {
-        "type": "Lesser Essence of Command",
+        "type": "Skittering Catalyst",
         "text": "달리는 기폭제"
       },
       {
-        "type": "Lesser Essence of Battle",
+        "type": "Lesser Essence of Command",
         "text": "하위 지휘의 에센스"
       },
       {
-        "type": "Lesser Essence of the Infinite",
+        "type": "Lesser Essence of Battle",
         "text": "하위 전투의 에센스"
       },
       {
-        "type": "Lesser Essence of Sorcery",
+        "type": "Lesser Essence of the Infinite",
         "text": "하위 무한의 에센스"
       },
       {
-        "type": "Lesser Essence of Ruin",
+        "type": "Lesser Essence of Sorcery",
         "text": "하위 마술의 에센스"
       },
       {
-        "type": "Lesser Essence of Ice",
+        "type": "Lesser Essence of Ruin",
         "text": "하위 폐허의 에센스"
       },
       {
-        "type": "Lesser Essence of Thawing",
+        "type": "Lesser Essence of Ice",
         "text": "하위 얼음의 에센스"
       },
       {
-        "type": "Lesser Essence of Seeking",
+        "type": "Lesser Essence of Thawing",
         "text": "하위 해동의 에센스"
       },
       {
-        "type": "Lesser Essence of Enhancement",
+        "type": "Lesser Essence of Seeking",
         "text": "하위 추구의 에센스"
       },
       {
-        "type": "Lesser Essence of Flames",
+        "type": "Lesser Essence of Enhancement",
         "text": "하위 강화의 에센스"
       },
       {
-        "type": "Lesser Essence of Insulation",
+        "type": "Lesser Essence of Flames",
         "text": "하위 화염의 에센스"
       },
       {
-        "type": "Lesser Essence of the Body",
+        "type": "Lesser Essence of Insulation",
         "text": "하위 절연의 에센스"
       },
       {
-        "type": "Lesser Essence of Electricity",
+        "type": "Lesser Essence of the Body",
         "text": "하위 육신의 에센스"
       },
       {
-        "type": "Lesser Essence of Grounding",
+        "type": "Lesser Essence of Electricity",
         "text": "하위 전기의 에센스"
       },
       {
-        "type": "Lesser Essence of the Mind",
+        "type": "Lesser Essence of Grounding",
         "text": "하위 접지의 에센스"
       },
       {
-        "type": "Lesser Essence of Abrasion",
+        "type": "Lesser Essence of the Mind",
         "text": "하위 정신의 에센스"
       },
       {
-        "type": "Lesser Essence of Opulence",
+        "type": "Lesser Essence of Abrasion",
         "text": "하위 마모의 에센스"
       },
       {
-        "type": "Lesser Essence of Haste",
+        "type": "Lesser Essence of Opulence",
         "text": "하위 풍요의 에센스"
       },
       {
-        "type": "Lesser Essence of Alacrity",
+        "type": "Lesser Essence of Haste",
         "text": "하위 가속의 에센스"
       },
       {
-        "type": "Arcanist's Etcher",
+        "type": "Lesser Essence of Alacrity",
         "text": "하위 기민성의 에센스"
       },
       {
-        "type": "Divine Orb",
+        "type": "Arcanist's Etcher",
         "text": "신비학자의 식각기"
       },
       {
-        "type": "Perfect Essence of Command",
+        "type": "Divine Orb",
         "text": "신성한 오브"
       },
       {
-        "type": "Perfect Essence of Battle",
+        "type": "Perfect Essence of Command",
         "text": "완벽한 지휘의 에센스"
       },
       {
-        "type": "Perfect Essence of the Infinite",
+        "type": "Perfect Essence of Battle",
         "text": "완벽한 전투의 에센스"
       },
       {
-        "type": "Perfect Essence of Sorcery",
+        "type": "Perfect Essence of the Infinite",
         "text": "완벽한 무한의 에센스"
       },
       {
-        "type": "Perfect Essence of Ice",
+        "type": "Perfect Essence of Sorcery",
         "text": "완벽한 마술의 에센스"
       },
       {
-        "type": "Perfect Essence of Seeking",
+        "type": "Perfect Essence of Ruin",
+        "text": "완벽한 폐허의 에센스"
+      },
+      {
+        "type": "Perfect Essence of Ice",
         "text": "완벽한 얼음의 에센스"
       },
       {
-        "type": "Perfect Essence of Enhancement",
+        "type": "Perfect Essence of Thawing",
+        "text": "완벽한 해동의 에센스"
+      },
+      {
+        "type": "Perfect Essence of Seeking",
         "text": "완벽한 추구의 에센스"
       },
       {
-        "type": "Perfect Essence of Flames",
+        "type": "Perfect Essence of Enhancement",
         "text": "완벽한 강화의 에센스"
       },
       {
-        "type": "Perfect Essence of Insulation",
+        "type": "Perfect Essence of Flames",
         "text": "완벽한 화염의 에센스"
       },
       {
-        "type": "Perfect Essence of the Body",
+        "type": "Perfect Essence of Insulation",
         "text": "완벽한 절연의 에센스"
       },
       {
-        "type": "Perfect Essence of Electricity",
+        "type": "Perfect Essence of the Body",
         "text": "완벽한 육신의 에센스"
       },
       {
-        "type": "Perfect Essence of Grounding",
+        "type": "Perfect Essence of Electricity",
         "text": "완벽한 전기의 에센스"
       },
       {
-        "type": "Perfect Essence of the Mind",
+        "type": "Perfect Essence of Grounding",
         "text": "완벽한 접지의 에센스"
       },
       {
-        "type": "Perfect Essence of Opulence",
+        "type": "Perfect Essence of the Mind",
         "text": "완벽한 정신의 에센스"
       },
       {
-        "type": "Perfect Essence of Haste",
+        "type": "Perfect Essence of Abrasion",
         "text": "완벽한 마모의 에센스"
       },
       {
-        "type": "Perfect Essence of Alacrity",
+        "type": "Perfect Essence of Opulence",
         "text": "완벽한 풍요의 에센스"
       },
       {
-        "type": "Exotic Coinage",
+        "type": "Perfect Essence of Haste",
         "text": "완벽한 가속의 에센스"
       },
       {
-        "type": "Orb of Annulment",
+        "type": "Perfect Essence of Alacrity",
         "text": "완벽한 기민성의 에센스"
       },
       {
-        "type": "Chaos Orb",
+        "type": "Exotic Coinage",
         "text": "특이한 주화"
       },
       {
-        "type": "Perfect Chaos Orb",
+        "type": "Orb of Annulment",
         "text": "소멸의 오브"
       },
       {
-        "type": "Albino Rhoa Feather",
+        "type": "Chaos Orb",
         "text": "카오스 오브"
       },
       {
-        "type": "Petition Splinter",
+        "type": "Greater Chaos Orb",
+        "text": "상위 카오스 오브"
+      },
+      {
+        "type": "Perfect Chaos Orb",
         "text": "완벽한 카오스 오브"
       },
       {
-        "type": "Regal Orb",
+        "type": "Albino Rhoa Feather",
         "text": "흰 로아 깃털"
       },
       {
-        "type": "Greater Regal Orb",
+        "type": "Petition Splinter",
         "text": "탄원 파편"
       },
       {
-        "type": "Regal Shard",
+        "type": "Regal Orb",
         "text": "제왕의 오브"
       },
       {
-        "type": "Orb of Chance",
+        "type": "Greater Regal Orb",
         "text": "상위 제왕의 오브"
       },
       {
-        "type": "Chance Shard",
+        "type": "Perfect Regal Orb",
+        "text": "완벽한 제왕의 오브"
+      },
+      {
+        "type": "Regal Shard",
         "text": "제왕의 파편"
       },
       {
-        "type": "Orb of Transmutation",
+        "type": "Orb of Chance",
         "text": "기회의 오브"
       },
       {
-        "type": "Greater Orb of Transmutation",
+        "type": "Chance Shard",
         "text": "기회의 파편"
       },
       {
-        "type": "Perfect Orb of Transmutation",
+        "type": "Orb of Transmutation",
         "text": "진화의 오브"
       },
       {
-        "type": "Transmutation Shard",
+        "type": "Greater Orb of Transmutation",
         "text": "상위 진화의 오브"
       },
       {
-        "type": "Orb of Alchemy",
+        "type": "Perfect Orb of Transmutation",
         "text": "완벽한 진화의 오브"
       },
       {
-        "type": "Blacksmith's Whetstone",
+        "type": "Transmutation Shard",
         "text": "진화의 파편"
       },
       {
-        "type": "Diluted Liquid Ire",
+        "type": "Orb of Alchemy",
         "text": "연금술의 오브"
       },
       {
-        "type": "Concentrated Liquid Isolation",
+        "type": "Blacksmith's Whetstone",
         "text": "대장장이의 숫돌"
       },
       {
-        "type": "Diluted Liquid Guilt",
+        "type": "Diluted Liquid Ire",
         "text": "희석된 액체 진노"
       },
       {
-        "type": "Diluted Liquid Greed",
+        "type": "Concentrated Liquid Isolation",
         "text": "농축된 액체 고립"
       },
       {
-        "type": "Liquid Paranoia",
+        "type": "Diluted Liquid Guilt",
         "text": "희석된 액체 죄책감"
       },
       {
-        "type": "Liquid Envy",
+        "type": "Diluted Liquid Greed",
         "text": "희석된 액체 탐욕"
       },
       {
-        "type": "Liquid Disgust",
+        "type": "Liquid Paranoia",
         "text": "액체 집착"
       },
       {
-        "type": "Liquid Despair",
+        "type": "Liquid Envy",
         "text": "액체 선망"
       },
       {
-        "type": "Concentrated Liquid Fear",
+        "type": "Liquid Disgust",
         "text": "액체 혐오"
       },
       {
-        "type": "Concentrated Liquid Suffering",
+        "type": "Liquid Despair",
         "text": "액체 절망"
       },
       {
-        "type": "Omen of Gambling",
+        "type": "Concentrated Liquid Fear",
         "text": "농축된 액체 두려움"
       },
       {
-        "type": "Omen of Sinistral Necromancy",
+        "type": "Concentrated Liquid Suffering",
         "text": "농축된 액체 고통"
       },
       {
-        "type": "Omen of Dextral Necromancy",
+        "type": "Omen of Gambling",
         "text": "도박의 징조"
       },
       {
-        "type": "Omen of the Sovereign",
+        "type": "Omen of Sinistral Necromancy",
         "text": "좌측 강령술의 징조"
       },
       {
-        "type": "Omen of the Liege",
+        "type": "Omen of Dextral Necromancy",
         "text": "우측 강령술의 징조"
       },
       {
-        "type": "Omen of the Blackblooded",
+        "type": "Omen of the Sovereign",
         "text": "주권자의 징조"
       },
       {
-        "type": "Omen of Abyssal Echoes",
+        "type": "Omen of the Liege",
         "text": "군왕의 징조"
       },
       {
-        "type": "Omen of Putrefaction",
+        "type": "Omen of the Blackblooded",
         "text": "검은 피의 징조"
       },
       {
-        "type": "Omen of Sinistral Alchemy",
+        "type": "Omen of Abyssal Echoes",
         "text": "심연의 메아리의 징조"
       },
       {
-        "type": "Omen of Dextral Alchemy",
+        "type": "Omen of Putrefaction",
         "text": "부패의 징조"
       },
       {
-        "type": "Omen of Light",
+        "type": "Omen of Sinistral Alchemy",
         "text": "좌측 연금술의 징조"
       },
       {
-        "type": "Omen of Sinistral Annulment",
+        "type": "Omen of Dextral Alchemy",
         "text": "우측 연금술의 징조"
       },
       {
-        "type": "Omen of Dextral Annulment",
+        "type": "Omen of Light",
         "text": "빛의 징조"
       },
       {
-        "type": "Omen of Greater Annulment",
+        "type": "Omen of Sinistral Annulment",
         "text": "좌측 소멸의 징조"
       },
       {
-        "type": "Omen of the Ancients",
+        "type": "Omen of Dextral Annulment",
         "text": "우측 소멸의 징조"
       },
       {
-        "type": "Omen of Whittling",
+        "type": "Omen of Greater Annulment",
         "text": "상위 소멸의 징조"
       },
       {
-        "type": "Omen of Chaotic Monsters",
+        "type": "Omen of the Ancients",
         "text": "고대인의 징조"
       },
       {
-        "type": "Omen of Sinistral Erasure",
+        "type": "Omen of Whittling",
         "text": "절사의 징조"
       },
       {
-        "type": "Omen of Dextral Erasure",
+        "type": "Omen of Chaotic Rarity",
+        "text": "혼란스러운 희귀도의 징조"
+      },
+      {
+        "type": "Omen of Chaotic Monsters",
         "text": "혼란스러운 수량의 징조"
       },
       {
-        "type": "Omen of Amelioration",
+        "type": "Omen of Chaotic Quantity",
+        "text": "혼란스러운 괴물의 징조"
+      },
+      {
+        "type": "Omen of Sinistral Erasure",
         "text": "좌측 말소의 징조"
       },
       {
-        "type": "Omen of Homogenising Exaltation",
+        "type": "Omen of Dextral Erasure",
         "text": "우측 말소의 징조"
       },
       {
-        "type": "Omen of Sinistral Exaltation",
+        "type": "Omen of Amelioration",
         "text": "개량의 징조"
       },
       {
-        "type": "Omen of Dextral Exaltation",
+        "type": "Omen of Homogenising Exaltation",
         "text": "동질화하는 찬미의 징조"
       },
       {
-        "type": "Omen of Greater Exaltation",
+        "type": "Omen of Sinistral Exaltation",
         "text": "좌측 찬미의 징조"
       },
       {
-        "type": "Omen of Resurgence",
+        "type": "Omen of Dextral Exaltation",
         "text": "우측 찬미의 징조"
       },
       {
-        "type": "Omen of Refreshment",
+        "type": "Omen of Greater Exaltation",
         "text": "상위 찬미의 징조"
       },
       {
-        "type": "Omen of Sinistral Crystallisation",
+        "type": "Omen of Catalysing Exaltation",
+        "text": "촉진하는 찬미의 징조"
+      },
+      {
+        "type": "Omen of Resurgence",
         "text": "재기의 징조"
       },
       {
-        "type": "Omen of Homogenising Coronation",
+        "type": "Omen of Refreshment",
         "text": "원기 회복의 징조"
       },
       {
-        "type": "Omen of Sinistral Coronation",
+        "type": "Omen of Sinistral Crystallisation",
         "text": "좌측 결정화의 징조"
       },
       {
-        "type": "Omen of Dextral Coronation",
+        "type": "Omen of Homogenising Coronation",
         "text": "동질화하는 대관식의 징조"
       },
       {
-        "type": "Omen of Corruption",
+        "type": "Omen of Sinistral Coronation",
         "text": "좌측 대관식의 징조"
       },
       {
-        "type": "Omen of Reinforcements",
+        "type": "Omen of Dextral Coronation",
         "text": "우측 대관식의 징조"
       },
       {
-        "type": "Omen of Bartering",
+        "type": "Omen of Corruption",
         "text": "타락의 징조"
       },
       {
-        "type": "Omen of Answered Prayers",
+        "type": "Omen of Recombination",
         "text": "재조합의 징조"
       },
       {
-        "type": "Omen of Secret Compartments",
+        "type": "Omen of Reinforcements",
         "text": "보강의 징조"
       },
       {
-        "type": "Omen of the Hunt",
+        "type": "Omen of Bartering",
         "text": "물물교환의 징조"
       },
       {
-        "type": "Broken Circle Artifact",
+        "type": "Omen of Answered Prayers",
         "text": "응답받은 기도의 징조"
       },
       {
-        "type": "Black Scythe Artifact",
+        "type": "Omen of Secret Compartments",
         "text": "비밀 공간의 징조"
       },
       {
-        "type": "Order Artifact",
+        "type": "Omen of the Hunt",
         "text": "사냥의 징조"
       },
       {
-        "type": "Sun Artifact",
+        "type": "Broken Circle Artifact",
         "text": "끊어진 원 유물"
       },
       {
-        "type": "Xesht's Reliquary Key",
+        "type": "Black Scythe Artifact",
         "text": "검은 낫 유물"
       },
       {
-        "type": "Tangmazu's Reliquary Key",
+        "type": "Order Artifact",
         "text": "성배단 유물"
       },
       {
-        "type": "Olroth's Reliquary Key",
+        "type": "Sun Artifact",
         "text": "태양 유물"
       },
       {
-        "type": "The Arbiter's Reliquary Key",
+        "type": "Xesht's Reliquary Key",
         "text": "제쉬트의 성유물 보관실 열쇠"
       },
       {
-        "type": "Ritualistic Reliquary Key",
+        "type": "Tangmazu's Reliquary Key",
         "text": "탕마주의 성유물 보관실 열쇠"
       },
       {
-        "type": "Zarokh's Reliquary Key: Against the Darkness",
+        "type": "Olroth's Reliquary Key",
         "text": "올로스의 성유물 보관실 열쇠"
       },
       {
-        "type": "Zarokh's Reliquary Key: Temporalis",
+        "type": "The Arbiter's Reliquary Key",
         "text": "중재자의 성유물 보관실 열쇠"
       },
       {
-        "type": "The Trialmaster's Reliquary Key",
+        "type": "Ritualistic Reliquary Key",
         "text": "의식의 성유물 보관실 열쇠"
       },
       {
-        "type": "Twilight Reliquary Key",
+        "type": "Zarokh's Reliquary Key: Against the Darkness",
         "text": "자로크의 성유물 보관실 열쇠: 어둠 저항"
       },
       {
-        "type": "Vision Rune",
+        "type": "Zarokh's Reliquary Key: Temporalis",
         "text": "자로크의 성유물 보관실 열쇠: 템포랄리스"
       },
       {
-        "type": "Greater Vision Rune",
+        "type": "The Trialmaster's Reliquary Key",
         "text": "시련의 대가의 성유물 보관실 열쇠"
       },
       {
-        "type": "Lesser Vision Rune",
+        "type": "Twilight Reliquary Key",
         "text": "황혼 성유물 보관실 열쇠"
       },
       {
-        "type": "Glacial Rune",
+        "type": "Vision Rune",
+        "text": "아마나무의 응시"
+      },
+      {
+        "type": "Greater Vision Rune",
         "text": "환영 룬"
       },
       {
-        "type": "Greater Glacial Rune",
+        "type": "Lesser Vision Rune",
         "text": "상위 환영 룬"
       },
       {
-        "type": "Lesser Glacial Rune",
+        "type": "Glacial Rune",
         "text": "하위 환영 룬"
       },
       {
-        "type": "Adept Rune",
+        "type": "Greater Glacial Rune",
         "text": "빙하 룬"
       },
       {
-        "type": "Greater Adept Rune",
+        "type": "Lesser Glacial Rune",
         "text": "상위 빙하 룬"
       },
       {
-        "type": "Lesser Adept Rune",
+        "type": "Adept Rune",
         "text": "하위 빙하 룬"
       },
       {
-        "type": "Iron Rune",
+        "type": "Greater Adept Rune",
         "text": "숙달 룬"
       },
       {
-        "type": "Greater Iron Rune",
+        "type": "Lesser Adept Rune",
         "text": "상위 숙달 룬"
       },
       {
-        "type": "Lesser Iron Rune",
+        "type": "Iron Rune",
         "text": "하위 숙달 룬"
       },
       {
-        "type": "Desert Rune",
+        "type": "Greater Iron Rune",
         "text": "철 룬"
       },
       {
-        "type": "Greater Desert Rune",
+        "type": "Lesser Iron Rune",
         "text": "상위 철 룬"
       },
       {
-        "type": "Lesser Desert Rune",
+        "type": "Desert Rune",
         "text": "하위 철 룬"
       },
       {
-        "type": "Resolve Rune",
+        "type": "Greater Desert Rune",
         "text": "사막 룬"
       },
       {
-        "type": "Greater Resolve Rune",
+        "type": "Lesser Desert Rune",
         "text": "상위 사막 룬"
       },
       {
-        "type": "Lesser Resolve Rune",
+        "type": "Resolve Rune",
         "text": "하위 사막 룬"
       },
       {
-        "type": "Body Rune",
+        "type": "Greater Resolve Rune",
         "text": "투지 룬"
       },
       {
-        "type": "Greater Body Rune",
+        "type": "Lesser Resolve Rune",
         "text": "상위 투지 룬"
       },
       {
-        "type": "Lesser Body Rune",
+        "type": "Body Rune",
         "text": "하위 투지 룬"
       },
       {
-        "type": "Rebirth Rune",
+        "type": "Greater Body Rune",
         "text": "육신 룬"
       },
       {
-        "type": "Greater Rebirth Rune",
+        "type": "Lesser Body Rune",
         "text": "상위 육신 룬"
       },
       {
-        "type": "Lesser Rebirth Rune",
+        "type": "Rebirth Rune",
         "text": "하위 육신 룬"
       },
       {
-        "type": "Storm Rune",
+        "type": "Greater Rebirth Rune",
         "text": "부활 룬"
       },
       {
-        "type": "Greater Storm Rune",
+        "type": "Lesser Rebirth Rune",
         "text": "상위 부활 룬"
       },
       {
-        "type": "Lesser Storm Rune",
+        "type": "Storm Rune",
         "text": "하위 부활 룬"
       },
       {
-        "type": "Mind Rune",
+        "type": "Greater Storm Rune",
         "text": "폭풍 룬"
       },
       {
-        "type": "Greater Mind Rune",
+        "type": "Lesser Storm Rune",
         "text": "상위 폭풍 룬"
       },
       {
-        "type": "Lesser Mind Rune",
+        "type": "Mind Rune",
         "text": "하위 폭풍 룬"
       },
       {
-        "type": "Inspiration Rune",
+        "type": "Greater Mind Rune",
         "text": "정신 룬"
       },
       {
-        "type": "Greater Inspiration Rune",
+        "type": "Lesser Mind Rune",
         "text": "상위 정신 룬"
       },
       {
-        "type": "Lesser Inspiration Rune",
+        "type": "Inspiration Rune",
         "text": "하위 정신 룬"
       },
       {
-        "type": "Greater Rune of Leadership",
+        "type": "Greater Inspiration Rune",
         "text": "영감 룬"
       },
       {
-        "type": "Craiceann's Rune of Warding",
+        "type": "Lesser Inspiration Rune",
         "text": "상위 영감 룬"
       },
       {
-        "type": "Saqawal's Rune of Memory",
+        "type": "Greater Rune of Leadership",
         "text": "하위 영감 룬"
       },
       {
-        "type": "Saqawal's Rune of Erosion",
+        "type": "Craiceann's Rune of Warding",
         "text": "통솔의 상위 룬"
       },
       {
-        "type": "Farrul's Rune of the Hunt",
+        "type": "Saqawal's Rune of Memory",
         "text": "크라칸의 수호의 룬"
       },
       {
-        "type": "Craiceann's Rune of Recovery",
+        "type": "Saqawal's Rune of Erosion",
         "text": "사카왈의 기억의 룬"
       },
       {
-        "type": "Courtesan Mannan's Rune of Cruelty",
+        "type": "Farrul's Rune of the Hunt",
         "text": "사카왈의 침식의 룬"
       },
       {
-        "type": "Thane Grannell's Rune of Mastery",
+        "type": "Craiceann's Rune of Recovery",
         "text": "페룰의 사냥의 룬"
       },
       {
-        "type": "Fenumus' Rune of Spinning",
+        "type": "Courtesan Mannan's Rune of Cruelty",
         "text": "크라칸의 회복의 룬"
       },
       {
-        "type": "Countess Seske's Rune of Archery",
+        "type": "Thane Grannell's Rune of Mastery",
         "text": "매춘부 마난의 잔혹의 룬"
       },
       {
-        "type": "Thane Girt's Rune of Wildness",
+        "type": "Fenumus' Rune of Spinning",
         "text": "테인 그라넬의 숙련의 룬"
       },
       {
-        "type": "Greater Rune of Tithing",
+        "type": "Countess Seske's Rune of Archery",
         "text": "페누무스의 회전의 룬"
       },
       {
-        "type": "Fenumus' Rune of Draining",
+        "type": "Thane Girt's Rune of Wildness",
         "text": "세스케 백작 부인의 궁술의 룬"
       },
       {
-        "type": "Thane Myrk's Rune of Summer",
+        "type": "Greater Rune of Tithing",
         "text": "테인 거트의 야생의 룬"
       },
       {
-        "type": "Lady Hestra's Rune of Winter",
+        "type": "Fenumus' Rune of Draining",
         "text": "십일조의 상위 룬"
       },
       {
-        "type": "Thane Leld's Rune of Spring",
+        "type": "Thane Myrk's Rune of Summer",
         "text": "페누무스의 고갈의 룬"
       },
       {
-        "type": "The Greatwolf's Rune of Claws",
+        "type": "Lady Hestra's Rune of Winter",
         "text": "테인 머크의 여름의 룬"
       },
       {
-        "type": "The Greatwolf's Rune of Willpower",
+        "type": "Thane Leld's Rune of Spring",
         "text": "헤스트라 부인의 겨울의 룬"
       },
       {
-        "type": "Greater Rune of Alacrity",
+        "type": "The Greatwolf's Rune of Claws",
         "text": "테인 렐드의 봄의 룬"
       },
       {
-        "type": "Greater Rune of Nobility",
+        "type": "The Greatwolf's Rune of Willpower",
         "text": "위대한 늑대의 발톱의 룬"
       },
       {
-        "type": "Hedgewitch Assandra's Rune of Wisdom",
+        "type": "Greater Rune of Alacrity",
         "text": "위대한 늑대의 의지의 룬"
       },
       {
-        "type": "Saqawal's Rune of the Sky",
+        "type": "Greater Rune of Nobility",
         "text": "기민성의 상위 룬"
       },
       {
-        "type": "Fenumus' Rune of Agony",
+        "type": "Hedgewitch Assandra's Rune of Wisdom",
         "text": "고결성의 상위 룬"
       },
       {
-        "type": "Farrul's Rune of Grace",
+        "type": "Saqawal's Rune of the Sky",
         "text": "산울마녀 아산드라의 지혜의 룬"
       },
       {
-        "type": "Farrul's Rune of the Chase",
+        "type": "Fenumus' Rune of Agony",
         "text": "사카왈의 하늘의 룬"
       },
       {
-        "type": "Robust Rune",
+        "type": "Farrul's Rune of Grace",
         "text": "페누무스의 괴로움의 룬"
       },
       {
-        "type": "Greater Robust Rune",
+        "type": "Farrul's Rune of the Chase",
         "text": "페룰의 은총의 룬"
       },
       {
-        "type": "Lesser Robust Rune",
+        "type": "Robust Rune",
         "text": "페룰의 추격의 룬"
       },
       {
-        "type": "Stone Rune",
+        "type": "Greater Robust Rune",
         "text": "왕성한 룬"
       },
       {
-        "type": "Greater Stone Rune",
+        "type": "Lesser Robust Rune",
         "text": "상위 왕성 룬"
       },
       {
-        "type": "Lesser Stone Rune",
+        "type": "Stone Rune",
         "text": "하위 왕성 룬"
       },
       {
-        "type": "Soul Core of Opiloti",
+        "type": "Greater Stone Rune",
         "text": "돌 룬"
       },
       {
-        "type": "Soul Core of Tacati",
+        "type": "Lesser Stone Rune",
         "text": "상위 돌 룬"
       },
       {
-        "type": "Soul Core of Ticaba",
+        "type": "Soul Core of Opiloti",
         "text": "하위 돌 룬"
       },
       {
-        "type": "Soul Core of Cholotl",
+        "type": "Soul Core of Tacati",
         "text": "오필로티의 영혼 핵"
       },
       {
-        "type": "Soul Core of Topotante",
+        "type": "Soul Core of Ticaba",
         "text": "타카티의 영혼 핵"
       },
       {
-        "type": "Soul Core of Citaqualotl",
+        "type": "Soul Core of Cholotl",
         "text": "티카바의 영혼 핵"
       },
       {
-        "type": "Soul Core of Tzamoto",
+        "type": "Soul Core of Topotante",
         "text": "촐로틀의 영혼 핵"
       },
       {
-        "type": "Soul Core of Puhuarte",
+        "type": "Soul Core of Citaqualotl",
         "text": "토포탄테의 영혼 핵"
       },
       {
-        "type": "Soul Core of Zantipi",
+        "type": "Soul Core of Tzamoto",
         "text": "시타콰로틀의 영혼 핵"
       },
       {
-        "type": "Soul Core of Azcapa",
+        "type": "Soul Core of Puhuarte",
         "text": "자모토의 영혼 핵"
       },
       {
-        "type": "Soul Core of Jiquani",
+        "type": "Soul Core of Zantipi",
         "text": "푸후알테의 영혼 핵"
       },
       {
-        "type": "Soul Core of Zalatl",
+        "type": "Soul Core of Azcapa",
         "text": "잔티피의 영혼 핵"
       },
       {
-        "type": "Soul Core of Xopec",
+        "type": "Soul Core of Jiquani",
         "text": "아즈카파의 영혼 핵"
       },
       {
-        "type": "Hayoxi's Soul Core of Heatproofing",
+        "type": "Soul Core of Zalatl",
         "text": "지콰니의 영혼 핵"
       },
       {
-        "type": "Xopec's Soul Core of Power",
+        "type": "Soul Core of Xopec",
         "text": "잘라틀의 영혼 핵"
       },
       {
-        "type": "Estazunti's Soul Core of Convalescence",
+        "type": "Hayoxi's Soul Core of Heatproofing",
         "text": "조펙의 영혼 핵"
       },
       {
-        "type": "Tacati's Soul Core of Affliction",
+        "type": "Xopec's Soul Core of Power",
         "text": "하욕시의 내열의 영혼 핵"
       },
       {
-        "type": "Cholotl's Soul Core of War",
+        "type": "Estazunti's Soul Core of Convalescence",
         "text": "조펙의 힘의 영혼 핵"
       },
       {
-        "type": "Citaqualotl's Soul Core of Foulness",
+        "type": "Tacati's Soul Core of Affliction",
         "text": "에스타준티의 요양의 영혼 핵"
       },
       {
-        "type": "Xipocado's Soul Core of Dominion",
+        "type": "Cholotl's Soul Core of War",
         "text": "타카티의 수난의 영혼 핵"
       },
       {
-        "type": "Zalatl's Soul Core of Insulation",
+        "type": "Citaqualotl's Soul Core of Foulness",
         "text": "촐로틀의 전쟁의 영혼 핵"
       },
       {
-        "type": "Topotante's Soul Core of Dampening",
+        "type": "Xipocado's Soul Core of Dominion",
         "text": "시타콰로틀의 부정의 영혼 핵"
       },
       {
-        "type": "Atmohua's Soul Core of Retreat",
+        "type": "Zalatl's Soul Core of Insulation",
         "text": "지포카도의 지배의 영혼 핵"
       },
       {
-        "type": "Quipolatl's Soul Core of Flow",
+        "type": "Topotante's Soul Core of Dampening",
         "text": "잘라틀의 절연의 영혼 핵"
       },
       {
-        "type": "Tzamoto's Soul Core of Ferocity",
+        "type": "Atmohua's Soul Core of Retreat",
         "text": "토포탄테의 완화의 영혼 핵"
       },
       {
-        "type": "Uromoti's Soul Core of Attenuation",
+        "type": "Quipolatl's Soul Core of Flow",
         "text": "앗모후아의 후퇴의 영혼 핵"
       },
       {
-        "type": "Opiloti's Soul Core of Assault",
+        "type": "Tzamoto's Soul Core of Ferocity",
         "text": "퀴폴라틀의 흐름의 영혼 핵"
       },
       {
-        "type": "Guatelitzi's Soul Core of Endurance",
+        "type": "Uromoti's Soul Core of Attenuation",
         "text": "자모토의 흉포함의 영혼 핵"
       },
       {
-        "type": "Soul Core of Quipolatl",
+        "type": "Opiloti's Soul Core of Assault",
         "text": "우로모티의 감쇠의 영혼 핵"
       },
       {
-        "type": "Soul Core of Atmohua",
+        "type": "Guatelitzi's Soul Core of Endurance",
         "text": "오필로티의 맹공의 영혼 핵"
       },
       {
-        "type": "Bear Talisman",
+        "type": "Soul Core of Quipolatl",
         "text": "과텔리치의 인내의 영혼 핵"
       },
       {
-        "type": "Boar Talisman",
+        "type": "Soul Core of Atmohua",
         "text": "퀴폴라틀의 영혼 핵"
       },
       {
-        "type": "Cat Talisman",
+        "type": "Bear Talisman",
         "text": "앗모후아의 영혼 핵"
       },
       {
-        "type": "Fox Talisman",
+        "type": "Boar Talisman",
         "text": "곰 부적"
       },
       {
-        "type": "Primate Talisman",
+        "type": "Cat Talisman",
         "text": "멧돼지 부적"
       },
       {
-        "type": "Owl Talisman",
+        "type": "Fox Talisman",
         "text": "고양이 부적"
       },
       {
-        "type": "Ox Talisman",
+        "type": "Primate Talisman",
         "text": "여우 부적"
       },
       {
-        "type": "Rabbit Talisman",
+        "type": "Owl Talisman",
         "text": "영장류 부적"
       },
       {
-        "type": "Serpent Talisman",
+        "type": "Ox Talisman",
         "text": "올빼미 부적"
       },
       {
-        "type": "Talisman of Sirrius",
+        "type": "Rabbit Talisman",
         "text": "소 부적"
       },
       {
-        "type": "Talisman of Thruldana",
+        "type": "Serpent Talisman",
         "text": "토끼 부적"
       },
       {
-        "type": "Talisman of Grold",
+        "type": "Talisman of Sirrius",
         "text": "독사 부적"
       },
       {
-        "type": "Talisman of Eeshta",
+        "type": "Talisman of Thruldana",
         "text": "시리우스의 부적"
       },
       {
-        "type": "Talisman of Egrin",
+        "type": "Talisman of Grold",
         "text": "스룰다나의 부적"
       },
       {
-        "type": "Talisman of Maxarius",
+        "type": "Talisman of Eeshta",
         "text": "그롤드의 부적"
       },
       {
-        "type": "Talisman of Ralakesh",
+        "type": "Talisman of Egrin",
         "text": "이쉬타의 부적"
       },
       {
-        "type": "Stag Talisman",
+        "type": "Talisman of Maxarius",
         "text": "에그린의 부적"
       },
       {
-        "type": "Wolf Talisman",
+        "type": "Talisman of Ralakesh",
         "text": "막사리우스의 부적"
+      },
+      {
+        "type": "Stag Talisman",
+        "text": "랄라케쉬의 부적"
+      },
+      {
+        "type": "Wolf Talisman",
+        "text": "수사슴 부적"
       }
     ]
   },
@@ -5900,6 +6072,10 @@
         "text": "연금술사의 은혜"
       },
       {
+        "type": "Ancestral Cry",
+        "text": "선대의 함성"
+      },
+      {
         "type": "Archmage",
         "text": "대마법사"
       },
@@ -6146,6 +6322,10 @@
       {
         "type": "Molten Blast",
         "text": "녹아내린 폭발"
+      },
+      {
+        "type": "Mortar Cannon",
+        "text": "박격포 대포"
       },
       {
         "type": "Oil Grenade",
@@ -6764,8 +6944,20 @@
         "text": "투사체 가속 III"
       },
       {
+        "type": "Projectile Acceleration II",
+        "text": "투사체 가속 II"
+      },
+      {
         "type": "Aftershock I",
         "text": "여진 I"
+      },
+      {
+        "type": "Aftershock II",
+        "text": "여진 II"
+      },
+      {
+        "type": "Ailith's Chimes",
+        "text": "아일리트의 종"
       },
       {
         "type": "Ambush",
@@ -6788,6 +6980,10 @@
         "text": "빠른 시전 II"
       },
       {
+        "type": "Atalui's Bloodletting",
+        "text": "아탈루이의 사혈"
+      },
+      {
         "type": "Behead I",
         "text": "참수 I"
       },
@@ -6798,6 +6994,10 @@
       {
         "type": "Blind I",
         "text": "실명 I"
+      },
+      {
+        "type": "Blind II",
+        "text": "실명 II"
       },
       {
         "type": "Bloodlust",
@@ -6816,12 +7016,24 @@
         "text": "포악함 I"
       },
       {
+        "type": "Brutality III",
+        "text": "포악함 III"
+      },
+      {
         "type": "Brutality II",
         "text": "포악함 II"
       },
       {
+        "type": "Brutus' Brain",
+        "text": "브루투스의 두뇌"
+      },
+      {
         "type": "Heightened Accuracy I",
         "text": "고조된 정확도 I"
+      },
+      {
+        "type": "Heightened Accuracy II",
+        "text": "고조된 정확도 II"
       },
       {
         "type": "Burning Inscription",
@@ -6844,6 +7056,10 @@
         "text": "연쇄 I"
       },
       {
+        "type": "Chain III",
+        "text": "연쇄 III"
+      },
+      {
         "type": "Chain II",
         "text": "연쇄 II"
       },
@@ -6860,8 +7076,16 @@
         "text": "명상 I"
       },
       {
+        "type": "Clarity II",
+        "text": "명상 II"
+      },
+      {
         "type": "Close Combat I",
         "text": "근접 전투 I"
+      },
+      {
+        "type": "Close Combat II",
+        "text": "근접 전투 II"
       },
       {
         "type": "Cold Exposure",
@@ -6912,12 +7136,20 @@
         "text": "타락시키는 비명 I"
       },
       {
+        "type": "Paquate's Pact",
+        "text": "파콰테의 맹약"
+      },
+      {
         "type": "Shock Conduction",
         "text": "감전 전도"
       },
       {
         "type": "Crescendo I",
         "text": "크레센도 I"
+      },
+      {
+        "type": "Crescendo II",
+        "text": "크레센도 II"
       },
       {
         "type": "Deadly Herald",
@@ -6928,8 +7160,16 @@
         "text": "치명적인 중독 I"
       },
       {
+        "type": "Deadly Poison II",
+        "text": "치명적인 중독 II"
+      },
+      {
         "type": "Projectile Deceleration I",
         "text": "투사체 감속 I"
+      },
+      {
+        "type": "Projectile Deceleration II",
+        "text": "투사체 감속 II"
       },
       {
         "type": "Deep Cuts I",
@@ -6942,6 +7182,10 @@
       {
         "type": "Armour Demolisher I",
         "text": "방어구 철거자 I"
+      },
+      {
+        "type": "Armour Demolisher II",
+        "text": "방어구 철거자 II"
       },
       {
         "type": "Lasting Ground",
@@ -6958,6 +7202,10 @@
       {
         "type": "Drain Ailments",
         "text": "상태 이상 흡수"
+      },
+      {
+        "type": "Einhar's Beastrite",
+        "text": "아인하르의 야수의식"
       },
       {
         "type": "Electrocute",
@@ -6990,6 +7238,14 @@
       {
         "type": "Poison I",
         "text": "중독 I"
+      },
+      {
+        "type": "Poison III",
+        "text": "중독 III"
+      },
+      {
+        "type": "Poison II",
+        "text": "중독 II"
       },
       {
         "type": "Essence Harvest",
@@ -7056,8 +7312,16 @@
         "text": "화염 관통 I"
       },
       {
+        "type": "Fire Penetration II",
+        "text": "화염 관통 II"
+      },
+      {
         "type": "Fist of War I",
         "text": "전쟁의 주먹 I"
+      },
+      {
+        "type": "Fist of War II",
+        "text": "전쟁의 주먹 II"
       },
       {
         "type": "Font of Blood",
@@ -7078,6 +7342,10 @@
       {
         "type": "Fortress I",
         "text": "요새 I"
+      },
+      {
+        "type": "Fortress II",
+        "text": "요새 II"
       },
       {
         "type": "Frostfire",
@@ -7104,6 +7372,10 @@
         "text": "약초학 I"
       },
       {
+        "type": "Herbalism II",
+        "text": "약초학 II"
+      },
+      {
         "type": "Hex Bloom",
         "text": "사술의 꽃"
       },
@@ -7118,6 +7390,10 @@
       {
         "type": "Ignite I",
         "text": "점화 I"
+      },
+      {
+        "type": "Ignite III",
+        "text": "점화 III"
       },
       {
         "type": "Ignite II",
@@ -7144,12 +7420,28 @@
         "text": "지옥불 군단 I"
       },
       {
+        "type": "Infernal Legion III",
+        "text": "지옥불 군단 III"
+      },
+      {
+        "type": "Infernal Legion II",
+        "text": "지옥불 군단 II"
+      },
+      {
         "type": "Cooldown Recovery I",
         "text": "재사용 대기시간 회복 I"
       },
       {
+        "type": "Cooldown Recovery II",
+        "text": "재사용 대기시간 회복 II"
+      },
+      {
         "type": "Efficiency I",
         "text": "효율 I"
+      },
+      {
+        "type": "Efficiency II",
+        "text": "효율 II"
       },
       {
         "type": "Jagged Ground I",
@@ -7158,6 +7450,10 @@
       {
         "type": "Bleed I",
         "text": "출혈 I"
+      },
+      {
+        "type": "Bleed II",
+        "text": "출혈 II"
       },
       {
         "type": "Lasting Shock",
@@ -7178,6 +7474,10 @@
       {
         "type": "Life Leech I",
         "text": "생명력 흡수 I"
+      },
+      {
+        "type": "Life Leech II",
+        "text": "생명력 흡수 II"
       },
       {
         "type": "Lightning Exposure",
@@ -7236,6 +7536,10 @@
         "text": "빠른 공격 III"
       },
       {
+        "type": "Rapid Attacks II",
+        "text": "빠른 공격 II"
+      },
+      {
         "type": "Meat Shield I",
         "text": "육탄 방어 I"
       },
@@ -7264,916 +7568,1224 @@
         "text": "신경 과부하"
       },
       {
-        "type": "Overabundance I",
+        "type": "Nova Projectiles",
         "text": "폭발 투사체 I"
       },
       {
-        "type": "Overcharge",
+        "type": "Overabundance I",
         "text": "과잉 I"
       },
       {
-        "type": "Stun I",
+        "type": "Overabundance II",
+        "text": "과잉 II"
+      },
+      {
+        "type": "Overcharge",
         "text": "과충전"
       },
       {
-        "type": "Perpetual Charge",
+        "type": "Stun I",
         "text": "기절 I"
       },
       {
-        "type": "Prolonged Duration I",
+        "type": "Stun II",
+        "text": "기절 II"
+      },
+      {
+        "type": "Perpetual Charge",
         "text": "영속적인 충전"
       },
       {
-        "type": "Prolonged Duration II",
+        "type": "Prolonged Duration I",
         "text": "지속시간 연장 I"
       },
       {
-        "type": "Physical Mastery",
+        "type": "Prolonged Duration II",
         "text": "지속시간 연장 II"
       },
       {
-        "type": "Pierce I",
+        "type": "Physical Mastery",
         "text": "물리 숙련"
       },
       {
-        "type": "Pierce II",
+        "type": "Pierce I",
         "text": "관통 I"
       },
       {
-        "type": "Pin I",
+        "type": "Pierce III",
+        "text": "관통 III"
+      },
+      {
+        "type": "Pierce II",
         "text": "관통 II"
       },
       {
-        "type": "Pinpoint Critical",
+        "type": "Pin I",
         "text": "고정 I"
       },
       {
-        "type": "Precision I",
+        "type": "Pinpoint Critical",
         "text": "핵심 조준 치명타"
       },
       {
-        "type": "Premeditation",
+        "type": "Pin III",
+        "text": "고정 III"
+      },
+      {
+        "type": "Pin II",
+        "text": "고정 II"
+      },
+      {
+        "type": "Precision I",
         "text": "정밀함 I"
       },
       {
-        "type": "Elemental Armament I",
+        "type": "Precision II",
+        "text": "정밀함 II"
+      },
+      {
+        "type": "Premeditation",
         "text": "모의"
       },
       {
-        "type": "Elemental Armament II",
+        "type": "Elemental Armament I",
         "text": "원소 병기 I"
       },
       {
-        "type": "Charge Profusion I",
+        "type": "Elemental Armament III",
+        "text": "원소 병기 III"
+      },
+      {
+        "type": "Elemental Armament II",
         "text": "원소 병기 II"
       },
       {
-        "type": "Rage I",
+        "type": "Charge Profusion I",
         "text": "넘치는 충전 I"
       },
       {
-        "type": "Rising Tempest",
+        "type": "Charge Profusion II",
+        "text": "넘치는 충전 II"
+      },
+      {
+        "type": "Rage I",
         "text": "격노 I"
       },
       {
-        "type": "Ruthless",
+        "type": "Rage III",
+        "text": "격노 III"
+      },
+      {
+        "type": "Rage II",
+        "text": "격노 II"
+      },
+      {
+        "type": "Rising Tempest",
         "text": "밀려오는 폭풍"
       },
       {
-        "type": "Multishot I",
+        "type": "Ruthless",
         "text": "무자비"
       },
       {
-        "type": "Multishot II",
+        "type": "Multishot I",
         "text": "다중 사격 I"
       },
       {
-        "type": "Searing Flame I",
+        "type": "Multishot II",
         "text": "다중 사격 II"
       },
       {
-        "type": "Second Wind I",
+        "type": "Searing Flame I",
         "text": "이글거리는 화염 I"
       },
       {
-        "type": "Shock Siphon",
+        "type": "Searing Flame II",
+        "text": "이글거리는 화염 II"
+      },
+      {
+        "type": "Second Wind I",
         "text": "새로운 활력 I"
       },
       {
-        "type": "Soul Drain",
+        "type": "Second Wind III",
+        "text": "새로운 활력 III"
+      },
+      {
+        "type": "Second Wind II",
+        "text": "새로운 활력 II"
+      },
+      {
+        "type": "Shock Siphon",
         "text": "충격 착취"
       },
       {
-        "type": "Mana Leech",
+        "type": "Soul Drain",
         "text": "영혼 고갈"
       },
       {
-        "type": "Spell Echo",
+        "type": "Mana Leech",
         "text": "마나 흡수"
       },
       {
-        "type": "Armour Break I",
+        "type": "Spell Echo",
         "text": "주문 메아리"
       },
       {
-        "type": "Stormfire",
+        "type": "Armour Break I",
         "text": "방어구 파괴 I"
       },
       {
-        "type": "Supercritical",
+        "type": "Armour Break III",
+        "text": "방어구 파괴 III"
+      },
+      {
+        "type": "Armour Break II",
+        "text": "방어구 파괴 II"
+      },
+      {
+        "type": "Stormfire",
         "text": "태풍불길"
       },
       {
-        "type": "Unbreakable",
+        "type": "Supercritical",
         "text": "초치명타"
       },
       {
-        "type": "Uncut Support Gem",
+        "type": "Unbreakable",
         "text": "무적"
       },
       {
-        "type": "Unleash",
+        "type": "Uncut Support Gem",
         "text": "미가공 보조 젬"
       },
       {
-        "type": "Vitality I",
+        "type": "Unleash",
         "text": "촉발"
       },
       {
-        "type": "Wildfire",
+        "type": "Uruk's Smelting",
+        "text": "우루크의 제련"
+      },
+      {
+        "type": "Vilenta's Propulsion",
         "text": "바일렌타의 추진"
       },
       {
-        "type": "Window of Opportunity I",
+        "type": "Vitality I",
         "text": "활력 I"
       },
       {
-        "type": "Wind Wave",
+        "type": "Vitality II",
+        "text": "활력 II"
+      },
+      {
+        "type": "Wildfire",
         "text": "도깨비불"
       },
       {
-        "type": "Withering Touch",
+        "type": "Window of Opportunity I",
         "text": "기회의 창 I"
       },
       {
-        "type": "Abiding Hex",
+        "type": "Wind Wave",
         "text": "바람 파장"
       },
       {
-        "type": "Sacrificial Offering",
+        "type": "Withering Touch",
         "text": "위축의 손길"
       },
       {
-        "type": "Acrimony",
+        "type": "Abiding Hex",
         "text": "변치 않는 사술"
       },
       {
-        "type": "Adhesive Grenades I",
+        "type": "Sacrificial Offering",
         "text": "희생의 공물"
       },
       {
-        "type": "Alignment I",
+        "type": "Acrimony",
         "text": "신랄"
       },
       {
-        "type": "Ambrosia",
+        "type": "Adhesive Grenades I",
         "text": "접착 유탄 I"
       },
       {
-        "type": "Ammo Conservation I",
+        "type": "Adhesive Grenades II",
+        "text": "접착 유탄 II"
+      },
+      {
+        "type": "Admixture",
+        "text": "배합물"
+      },
+      {
+        "type": "Alignment I",
         "text": "정렬 I"
       },
       {
-        "type": "Arjun's Medal",
+        "type": "Alignment III",
+        "text": "정렬 III"
+      },
+      {
+        "type": "Alignment II",
+        "text": "정렬 II"
+      },
+      {
+        "type": "Ambrosia",
         "text": "암브로시아"
       },
       {
-        "type": "Ancestral Aid",
+        "type": "Ammo Conservation I",
         "text": "탄약 보존 I"
       },
       {
-        "type": "Ancestral Call I",
+        "type": "Arjun's Medal",
         "text": "아르준의 메달"
       },
       {
-        "type": "Urgent Totems I",
+        "type": "Ammo Conservation III",
+        "text": "탄약 보존 III"
+      },
+      {
+        "type": "Ammo Conservation II",
+        "text": "탄약 보존 II"
+      },
+      {
+        "type": "Ancestral Aid",
         "text": "선대의 도움"
       },
       {
-        "type": "Arakaali's Lust",
+        "type": "Ancestral Call I",
         "text": "선대의 부름 I"
       },
       {
-        "type": "Armour Explosion",
+        "type": "Urgent Totems I",
         "text": "긴급한 토템 I"
       },
       {
-        "type": "Arms Length",
+        "type": "Urgent Totems III",
+        "text": "긴급한 토템 III"
+      },
+      {
+        "type": "Urgent Totems II",
+        "text": "긴급한 토템 II"
+      },
+      {
+        "type": "Arakaali's Lust",
         "text": "아라칼리의 욕망"
       },
       {
-        "type": "Astral Projection",
+        "type": "Arbiter's Ignition",
         "text": "중재자의 점화"
       },
       {
-        "type": "Auto Reload",
+        "type": "Armour Explosion",
         "text": "방어구 폭발"
       },
       {
-        "type": "Barbs I",
+        "type": "Arms Length",
         "text": "거리 유지"
       },
       {
-        "type": "Battershout",
+        "type": "Astral Projection",
         "text": "우주의 영사"
       },
       {
-        "type": "Bidding I",
+        "type": "Auto Reload",
         "text": "자동 재장전"
       },
       {
-        "type": "Blindside",
+        "type": "Barbs I",
         "text": "미늘 I"
       },
       {
-        "type": "Hobble",
+        "type": "Battershout",
         "text": "구타하는 고함"
       },
       {
-        "type": "Bone Shrapnel",
+        "type": "Bidding I",
         "text": "지시 I"
       },
       {
-        "type": "Break Endurance",
+        "type": "Bidding III",
+        "text": "지시 III"
+      },
+      {
+        "type": "Bidding II",
+        "text": "지시 II"
+      },
+      {
+        "type": "Blindside",
         "text": "맹점 공략"
       },
       {
-        "type": "Brink I",
+        "type": "Hobble",
         "text": "절뚝거림"
       },
       {
-        "type": "Burgeon I",
+        "type": "Bone Shrapnel",
         "text": "뼈 파편"
       },
       {
-        "type": "Cadence",
+        "type": "Branching Fissures I",
+        "text": "파생하는 균열 I"
+      },
+      {
+        "type": "Branching Fissures II",
+        "text": "파생하는 균열 II"
+      },
+      {
+        "type": "Break Endurance",
         "text": "인내 파괴"
       },
       {
-        "type": "Caltrops",
+        "type": "Brink I",
         "text": "목전 I"
       },
       {
-        "type": "Energy Capacitor",
+        "type": "Burgeon I",
         "text": "급성장 I"
       },
       {
-        "type": "Catharsis",
+        "type": "Burgeon II",
+        "text": "급성장 II"
+      },
+      {
+        "type": "Cadence",
         "text": "운율"
       },
       {
-        "type": "Chaotic Freeze",
+        "type": "Caltrops",
         "text": "마름쇠"
       },
       {
-        "type": "Charged Shots I",
+        "type": "Energy Capacitor",
         "text": "에너지 축전기"
       },
       {
-        "type": "Charm Bounty",
+        "type": "Catharsis",
         "text": "카타르시스"
       },
       {
-        "type": "Clash",
+        "type": "Chaotic Freeze",
         "text": "혼돈의 동결"
       },
       {
-        "type": "Ratha's Assault",
+        "type": "Charged Shots I",
         "text": "충전 사격 I"
       },
       {
-        "type": "Commandment",
+        "type": "Charged Shots II",
+        "text": "충전 사격 II"
+      },
+      {
+        "type": "Charm Bounty",
         "text": "넉넉한 호신부"
       },
       {
-        "type": "Commiserate",
+        "type": "Clash",
         "text": "격돌"
       },
       {
-        "type": "Concoct I",
+        "type": "Ratha's Assault",
         "text": "라타의 공격"
       },
       {
-        "type": "Considered Casting",
+        "type": "Commandment",
         "text": "율령"
       },
       {
-        "type": "Cool Headed",
+        "type": "Commiserate",
         "text": "동정"
       },
       {
-        "type": "Corpse Conservation",
+        "type": "Concoct I",
         "text": "배합 I"
       },
       {
-        "type": "Crackling Barrier",
+        "type": "Concoct II",
+        "text": "배합 II"
+      },
+      {
+        "type": "Considered Casting",
         "text": "신중한 시전"
       },
       {
-        "type": "Crater",
+        "type": "Cool Headed",
         "text": "차가운 머리"
       },
       {
-        "type": "Crazed Minions",
+        "type": "Corpse Conservation",
         "text": "시체 보존"
       },
       {
-        "type": "Crystalline Shards",
+        "type": "Crackling Barrier",
         "text": "치직대는 방벽"
       },
       {
-        "type": "Culling Strike I",
+        "type": "Crater",
         "text": "분화구"
       },
       {
-        "type": "Culmination I",
+        "type": "Crazed Minions",
         "text": "미쳐버린 소환수"
       },
       {
-        "type": "Cursed Ground",
+        "type": "Crystalline Shards",
         "text": "결정체 파편"
       },
       {
-        "type": "Danse Macabre",
+        "type": "Culling Strike I",
         "text": "마무리 타격 I"
       },
       {
-        "type": "Dauntless",
+        "type": "Culling Strike II",
+        "text": "마무리 타격 II"
+      },
+      {
+        "type": "Culmination I",
         "text": "고조 I"
       },
       {
-        "type": "Dazing Cry",
+        "type": "Cursed Ground",
         "text": "저주받은 지대"
       },
       {
-        "type": "Dazzle",
+        "type": "Danse Macabre",
         "text": "섬뜩한 무도"
       },
       {
-        "type": "Deathmarch",
+        "type": "Daresso's Passion",
+        "text": "다레소의 열정"
+      },
+      {
+        "type": "Dauntless",
         "text": "대담"
       },
       {
-        "type": "Decaying Hex",
+        "type": "Dazing Cry",
         "text": "혼미의 함성"
       },
       {
-        "type": "Defy I",
+        "type": "Dazzle",
         "text": "현란"
       },
       {
-        "type": "Delayed Gratification",
+        "type": "Deathmarch",
         "text": "죽음의 행군"
       },
       {
-        "type": "Delayed Reaction",
+        "type": "Decaying Hex",
         "text": "쇠퇴의 사술"
       },
       {
-        "type": "Deliberation",
+        "type": "Defy I",
         "text": "거역 I"
       },
       {
-        "type": "Derange",
+        "type": "Delayed Gratification",
         "text": "보상 유예"
       },
       {
-        "type": "Desperation",
+        "type": "Delayed Reaction",
         "text": "지연 반응"
       },
       {
-        "type": "Direstrike I",
+        "type": "Deliberation",
         "text": "신중"
       },
       {
-        "type": "Harmonic Remnants I",
+        "type": "Derange",
         "text": "분란"
       },
       {
-        "type": "Harmonic Remnants II",
+        "type": "Desperation",
         "text": "필사"
       },
       {
-        "type": "Persistent Ground I",
+        "type": "Dialla's Desire",
+        "text": "디알라의 갈망"
+      },
+      {
+        "type": "Direstrike I",
         "text": "극한타격 I"
       },
       {
-        "type": "Persistent Ground II",
+        "type": "Direstrike II",
+        "text": "극한타격 II"
+      },
+      {
+        "type": "Harmonic Remnants I",
         "text": "조화로운 잔류물 I"
       },
       {
-        "type": "Double Barrel I",
+        "type": "Harmonic Remnants II",
         "text": "조화로운 잔류물 II"
       },
       {
-        "type": "Double Barrel II",
+        "type": "Doedre's Undoing",
+        "text": "도이드리의 파멸"
+      },
+      {
+        "type": "Persistent Ground I",
         "text": "유지되는 대지 I"
       },
       {
-        "type": "Durability",
+        "type": "Persistent Ground III",
+        "text": "유지되는 대지 III"
+      },
+      {
+        "type": "Persistent Ground II",
         "text": "유지되는 대지 II"
       },
       {
-        "type": "Embitter",
+        "type": "Double Barrel I",
         "text": "더블배럴 I"
       },
       {
-        "type": "Enduring Impact I",
+        "type": "Double Barrel II",
         "text": "더블배럴 II"
       },
       {
-        "type": "Energy Retention",
+        "type": "Durability",
         "text": "내구도"
       },
       {
-        "type": "Hulking Minions",
+        "type": "Embitter",
         "text": "혹독"
       },
       {
-        "type": "Excise",
+        "type": "Enduring Impact I",
         "text": "지속되는 충격 I"
       },
       {
-        "type": "Excoriate",
+        "type": "Enduring Impact II",
+        "text": "지속되는 충격 II"
+      },
+      {
+        "type": "Energy Retention",
         "text": "에너지 유지"
       },
       {
-        "type": "Execrate",
+        "type": "Hulking Minions",
         "text": "육중한 소환수"
       },
       {
-        "type": "Expanse",
+        "type": "Esh's Radiance",
+        "text": "에쉬의 광휘"
+      },
+      {
+        "type": "Excise",
         "text": "절제"
       },
       {
-        "type": "Short Fuse I",
+        "type": "Excoriate",
         "text": "박피"
       },
       {
-        "type": "Extraction",
+        "type": "Execrate",
         "text": "혐오 표출"
       },
       {
-        "type": "Ferocity",
+        "type": "Expanse",
         "text": "광장"
       },
       {
-        "type": "Selfless Remnants",
+        "type": "Short Fuse I",
         "text": "짧은 퓨즈 I"
       },
       {
-        "type": "First Blood",
+        "type": "Short Fuse II",
         "text": "짧은 퓨즈 II"
       },
       {
-        "type": "Flamepierce",
+        "type": "Extraction",
         "text": "추출"
       },
       {
-        "type": "Flow",
+        "type": "Ferocity",
         "text": "흉포함"
       },
       {
-        "type": "Fluke",
+        "type": "Selfless Remnants",
         "text": "이타적인 잔류물"
       },
       {
-        "type": "Focused Curse",
+        "type": "First Blood",
         "text": "첫 출혈"
       },
       {
-        "type": "Freezefork",
+        "type": "Flamepierce",
         "text": "화염관통"
       },
       {
-        "type": "Fresh Clip I",
+        "type": "Flow",
         "text": "흐름"
       },
       {
-        "type": "Frozen Spite",
+        "type": "Fluke",
         "text": "요행"
       },
       {
-        "type": "Gambleshot",
+        "type": "Ixchel's Torment",
+        "text": "익스첼의 고통"
+      },
+      {
+        "type": "Focused Curse",
         "text": "집중된 저주"
       },
       {
-        "type": "Glacier",
+        "type": "Freezefork",
         "text": "동결갈래"
       },
       {
-        "type": "Greatwood I",
+        "type": "Fresh Clip I",
         "text": "새 탄창 I"
       },
       {
-        "type": "Haemocrystals",
+        "type": "Fresh Clip II",
+        "text": "새 탄창 II"
+      },
+      {
+        "type": "Frozen Spite",
         "text": "얼어붙은 악의"
       },
       {
-        "type": "Heft",
+        "type": "Gambleshot",
         "text": "도박 사격"
       },
       {
-        "type": "Hinder",
+        "type": "Garukhan's Resolve",
+        "text": "가루칸의 투지"
+      },
+      {
+        "type": "Glacier",
         "text": "빙하"
       },
       {
-        "type": "Hit and Run",
+        "type": "Greatwood I",
         "text": "큰나무 I"
       },
       {
-        "type": "Holy Descent",
+        "type": "Greatwood II",
+        "text": "큰나무 II"
+      },
+      {
+        "type": "Haemocrystals",
         "text": "혈액수정"
       },
       {
-        "type": "Icicle",
+        "type": "Hardy Totems I",
+        "text": "강인한 토템 I"
+      },
+      {
+        "type": "Tawhoa's Tending",
+        "text": "타호아의 보살핌"
+      },
+      {
+        "type": "Hardy Totems II",
+        "text": "강인한 토템 II"
+      },
+      {
+        "type": "Heft",
         "text": "중량"
       },
       {
-        "type": "Impale",
+        "type": "Hinder",
         "text": "이동 방해"
       },
       {
-        "type": "Boundless Energy I",
+        "type": "Hit and Run",
         "text": "치고 빠지기"
       },
       {
-        "type": "Incision",
+        "type": "Holy Descent",
         "text": "상서로운 비탈"
       },
       {
-        "type": "Inhibitor",
+        "type": "Icicle",
         "text": "고드름"
       },
       {
-        "type": "Innervate",
+        "type": "Impale",
         "text": "꿰뚫기"
       },
       {
-        "type": "Intense Agony",
+        "type": "Boundless Energy I",
         "text": "무한한 에너지 I"
       },
       {
-        "type": "Remnant Potency I",
+        "type": "Boundless Energy II",
+        "text": "무한한 에너지 II"
+      },
+      {
+        "type": "Incision",
         "text": "절개"
       },
       {
-        "type": "Remnant Potency II",
+        "type": "Inhibitor",
         "text": "억제자"
       },
       {
-        "type": "Reinforced Totems I",
+        "type": "Innervate",
         "text": "자극"
       },
       {
-        "type": "Kulemak's Dominion",
+        "type": "Intense Agony",
         "text": "격렬한 고통"
       },
       {
-        "type": "Kurgal's Leash",
+        "type": "Remnant Potency I",
         "text": "잔류물 효력 I"
       },
       {
-        "type": "Last Gasp",
+        "type": "Remnant Potency II",
         "text": "잔류물 효력 II"
       },
       {
-        "type": "Leverage",
+        "type": "Reinforced Totems I",
         "text": "보강된 토템 I"
       },
       {
-        "type": "Living Lightning",
+        "type": "Kaom's Madness",
+        "text": "카옴의 광기"
+      },
+      {
+        "type": "Kulemak's Dominion",
         "text": "쿨레막의 지배"
       },
       {
-        "type": "Long Fuse I",
+        "type": "Kurgal's Leash",
         "text": "쿠르갈의 가죽끈"
       },
       {
-        "type": "Loyalty",
+        "type": "Last Gasp",
         "text": "마지막 헐떡임"
       },
       {
-        "type": "Magnetic Remnants",
+        "type": "Leverage",
         "text": "지렛대 효과"
       },
       {
-        "type": "Malady",
+        "type": "Living Lightning",
         "text": "살아 있는 번개"
       },
       {
-        "type": "Minion Instability",
+        "type": "Living Lightning II",
+        "text": "살아 있는 번개 II"
+      },
+      {
+        "type": "Long Fuse I",
         "text": "긴 퓨즈 I"
       },
       {
-        "type": "Minion Pact I",
+        "type": "Long Fuse II",
+        "text": "긴 퓨즈 II"
+      },
+      {
+        "type": "Loyalty",
         "text": "충성심"
       },
       {
-        "type": "Muster",
+        "type": "Magnetic Remnants",
         "text": "자성 잔류물"
       },
       {
-        "type": "Mysticism I",
+        "type": "Malady",
         "text": "질병"
       },
       {
-        "type": "Nimble Reload",
+        "type": "Minion Instability",
         "text": "소환수 불안정"
       },
       {
-        "type": "Outmaneuver",
+        "type": "Minion Pact I",
         "text": "소환수 맹약 I"
       },
       {
-        "type": "Overextend",
+        "type": "Minion Pact II",
+        "text": "소환수 맹약 II"
+      },
+      {
+        "type": "Muster",
         "text": "결집"
       },
       {
-        "type": "Payload",
+        "type": "Mysticism I",
         "text": "신비주의 I"
       },
       {
-        "type": "Perfection",
+        "type": "Mysticism II",
+        "text": "신비주의 II"
+      },
+      {
+        "type": "Nimble Reload",
         "text": "가뿐한 재장전"
       },
       {
-        "type": "Potential",
+        "type": "Outmaneuver",
         "text": "허 찌르기"
       },
       {
-        "type": "Practiced Combo",
+        "type": "Overextend",
         "text": "무리"
       },
       {
-        "type": "Profanity I",
+        "type": "Payload",
         "text": "화물"
       },
       {
-        "type": "Punch Through",
+        "type": "Perfection",
         "text": "완벽"
       },
       {
-        "type": "Pursuit I",
+        "type": "Piety's Mercy",
+        "text": "파이어티의 자비"
+      },
+      {
+        "type": "Potential",
         "text": "잠재력"
       },
       {
-        "type": "Quill Burst",
+        "type": "Practiced Combo",
         "text": "숙련된 연계"
       },
       {
-        "type": "Rageforged I",
+        "type": "Profanity I",
         "text": "불경 I"
       },
       {
-        "type": "Raging Cry",
+        "type": "Profanity II",
+        "text": "불경 II"
+      },
+      {
+        "type": "Punch Through",
         "text": "흘려 치기"
       },
       {
-        "type": "Rally",
+        "type": "Pursuit I",
         "text": "추격 I"
       },
       {
-        "type": "Overreach",
+        "type": "Pursuit II",
+        "text": "추격 II"
+      },
+      {
+        "type": "Quill Burst",
         "text": "가시 격발"
       },
       {
-        "type": "Rearm I",
+        "type": "Rageforged I",
         "text": "격노벼림 I"
       },
       {
-        "type": "Refraction I",
+        "type": "Raging Cry",
         "text": "격노하는 함성"
       },
       {
-        "type": "Retaliate I",
+        "type": "Rakiata's Flow",
+        "text": "라키아타의 흐름"
+      },
+      {
+        "type": "Rally",
         "text": "집결"
       },
       {
-        "type": "Frenzied Riposte",
+        "type": "Overreach",
         "text": "질러 뻗기"
       },
       {
-        "type": "Retreat I",
+        "type": "Rearm I",
         "text": "재무장 I"
       },
       {
-        "type": "Reverberate",
+        "type": "Refraction I",
         "text": "굴절 I"
       },
       {
-        "type": "Ricochet I",
+        "type": "Refraction II",
+        "text": "굴절 II"
+      },
+      {
+        "type": "Retaliate I",
         "text": "보복 I"
       },
       {
-        "type": "Rime",
+        "type": "Retaliate II",
+        "text": "보복 II"
+      },
+      {
+        "type": "Frenzied Riposte",
         "text": "열광적인 반격"
       },
       {
-        "type": "Rip",
+        "type": "Retreat I",
         "text": "퇴각 I"
       },
       {
-        "type": "Ritualistic Curse",
+        "type": "Retreat II",
+        "text": "퇴각 II"
+      },
+      {
+        "type": "Reverberate",
         "text": "울림"
       },
       {
-        "type": "Rupture",
+        "type": "Ricochet I",
         "text": "튕겨 쏘기 I"
       },
       {
-        "type": "Rusted Spikes",
+        "type": "Ricochet III",
+        "text": "튕겨 쏘기 III"
+      },
+      {
+        "type": "Ricochet II",
+        "text": "튕겨 쏘기 II"
+      },
+      {
+        "type": "Rigwald's Ferocity",
+        "text": "리그월드의 흉포함"
+      },
+      {
+        "type": "Rime",
         "text": "흰서리"
       },
       {
-        "type": "Sacrificial Lamb I",
+        "type": "Rip",
         "text": "뜯기"
       },
       {
-        "type": "Sacrificial Lamb II",
+        "type": "Ritualistic Curse",
         "text": "의식의 저주"
       },
       {
-        "type": "Salvo",
+        "type": "Rupture",
         "text": "파열"
       },
       {
-        "type": "See Red",
+        "type": "Rusted Spikes",
         "text": "녹슨 가시"
       },
       {
-        "type": "Shocking Leap",
+        "type": "Sacrificial Lamb I",
         "text": "희생양 I"
       },
       {
-        "type": "Mark for Death",
+        "type": "Sacrificial Lamb II",
         "text": "희생양 II"
       },
       {
-        "type": "Spar",
+        "type": "Salvo",
         "text": "포화"
       },
       {
-        "type": "Spectral Volley",
+        "type": "See Red",
         "text": "빨간색 보기"
       },
       {
-        "type": "Spell Cascade",
+        "type": "Shocking Leap",
         "text": "감전 도약"
       },
       {
-        "type": "Steadfast I",
+        "type": "Mark for Death",
         "text": "죽음의 징표"
       },
       {
-        "type": "Stomping Ground",
+        "type": "Skittering Stone I",
+        "text": "달리는 돌 I"
+      },
+      {
+        "type": "Skittering Stone II",
+        "text": "달리는 돌 II"
+      },
+      {
+        "type": "Spar",
         "text": "대련"
       },
       {
-        "type": "Stormchain",
+        "type": "Spectral Volley",
         "text": "영체 사격 공세"
       },
       {
-        "type": "Streamlined Rounds",
+        "type": "Spell Cascade",
         "text": "연속 주문"
       },
       {
-        "type": "Potent Exposure",
+        "type": "Steadfast I",
         "text": "요지부동 I"
       },
       {
-        "type": "Strong Hearted",
+        "type": "Stoicism I",
+        "text": "극기 I"
+      },
+      {
+        "type": "Stomping Ground",
         "text": "짓밟는 지대"
       },
       {
-        "type": "Encroaching Ground",
+        "type": "Stormchain",
         "text": "폭풍연쇄"
       },
       {
-        "type": "Swift Affliction I",
+        "type": "Streamlined Rounds",
         "text": "유선형 탄환"
       },
       {
-        "type": "Swift Affliction II",
+        "type": "Potent Exposure",
         "text": "효력 있는 노출"
       },
       {
-        "type": "Syzygy",
+        "type": "Strong Hearted",
         "text": "강심장"
       },
       {
-        "type": "Tacati's Ire",
+        "type": "Encroaching Ground",
         "text": "잠식하는 지대"
       },
       {
-        "type": "Tear",
+        "type": "Swift Affliction I",
         "text": "고통 격화 I"
       },
       {
-        "type": "Thornskin I",
+        "type": "Swift Affliction III",
+        "text": "고통 격화 III"
+      },
+      {
+        "type": "Swift Affliction II",
         "text": "고통 격화 II"
       },
       {
-        "type": "Tireless",
+        "type": "Syzygy",
         "text": "삭망"
       },
       {
-        "type": "Tremors",
+        "type": "Tacati's Ire",
         "text": "타카티의 진노"
       },
       {
-        "type": "Tumult",
+        "type": "Tear",
         "text": "찢기"
       },
       {
-        "type": "Heightened Charges",
+        "type": "Thornskin I",
         "text": "가시피부 I"
       },
       {
-        "type": "Unabating",
+        "type": "Tireless",
         "text": "끈기"
       },
       {
-        "type": "Unbending",
+        "type": "Tremors",
         "text": "진동"
       },
       {
-        "type": "Unerring Power",
+        "type": "Tumult",
         "text": "격동"
       },
       {
-        "type": "Unsteady Tempo",
+        "type": "Heightened Charges",
         "text": "고조된 충전"
       },
       {
-        "type": "Untouchable",
+        "type": "Unabating",
         "text": "불요불굴"
       },
       {
-        "type": "Unyielding",
+        "type": "Unbending",
         "text": "부동"
       },
       {
-        "type": "Upheaval I",
+        "type": "Unerring Power",
         "text": "흔들리지 않는 힘"
       },
       {
-        "type": "Upwelling I",
+        "type": "Unsteady Tempo",
         "text": "불안정한 속도"
       },
       {
-        "type": "Vanguard I",
+        "type": "Untouchable",
         "text": "불가촉"
       },
       {
-        "type": "Verglas",
+        "type": "Unyielding",
         "text": "완고"
       },
       {
-        "type": "Volatile Power",
+        "type": "Upheaval I",
         "text": "격변 I"
       },
       {
-        "type": "Volatility",
+        "type": "Upheaval II",
+        "text": "격변 II"
+      },
+      {
+        "type": "Upwelling I",
         "text": "용승 I"
       },
       {
-        "type": "Volcanic Eruption",
+        "type": "Upwelling II",
+        "text": "용승 II"
+      },
+      {
+        "type": "Vanguard I",
         "text": "선봉대 I"
       },
       {
-        "type": "Volt",
+        "type": "Vanguard II",
+        "text": "선봉대 II"
+      },
+      {
+        "type": "Varashta's Blessing",
+        "text": "바라시타의 축복"
+      },
+      {
+        "type": "Verglas",
         "text": "베르글라"
       },
       {
-        "type": "Warm Blooded",
+        "type": "Volatile Power",
         "text": "일촉즉발의 힘"
       },
       {
-        "type": "Wildshards I",
+        "type": "Volatility",
         "text": "일촉즉발"
       },
       {
-        "type": "Sione's Temper",
+        "type": "Volcanic Eruption",
         "text": "화산 분출"
       },
       {
-        "type": "Zenith I",
+        "type": "Volt",
         "text": "전압"
       },
       {
-        "type": "Zenith II",
+        "type": "Warm Blooded",
         "text": "따뜻한 피"
+      },
+      {
+        "type": "Wildshards I",
+        "text": "난무하는 파편 I"
+      },
+      {
+        "type": "Sione's Temper",
+        "text": "시온의 성미"
+      },
+      {
+        "type": "Wildshards II",
+        "text": "난무하는 파편 II"
+      },
+      {
+        "type": "Zarokh's Refrain",
+        "text": "자로크의 절제"
+      },
+      {
+        "type": "Zenith I",
+        "text": "북극성 I"
+      },
+      {
+        "type": "Zenith II",
+        "text": "북극성 II"
       }
     ]
   },
@@ -8312,6 +8924,14 @@
     "label": "지도",
     "entries": [
       {
+        "type": "Kulemak's Invitation",
+        "text": "쿨레막의 초대"
+      },
+      {
+        "type": "Idol of Estazunti",
+        "text": "에스타준티의 우상"
+      },
+      {
         "type": "Expedition Logbook",
         "text": "탐험 일지"
       },
@@ -8402,6 +9022,10 @@
       {
         "type": "Weathered Crisis Fragment",
         "text": "풍화된 위기 조각"
+      },
+      {
+        "type": "Primary Calamity Fragment",
+        "text": "1차 대재난 조각"
       },
       {
         "type": "Test of Strength Barya",
@@ -8796,6 +9420,10 @@
       {
         "type": "Seaglass Spear",
         "text": "바다유리 창"
+      },
+      {
+        "type": "Akoyan Spear",
+        "text": "아코야의 창"
       },
       {
         "type": "Sword Spear",
@@ -9287,10 +9915,14 @@
       },
       {
         "type": "Paralysing Staff",
-        "text": "극한의 지팡이"
+        "text": "굶주린 지팡이"
       },
       {
         "type": "Sanctified Staff",
+        "text": "극한의 지팡이"
+      },
+      {
+        "type": "Ravenous Staff",
         "text": "전도성 지팡이"
       },
       {
@@ -9783,14 +10415,6 @@
       },
       {
         "type": "Hook Axe",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Iron Greatsword",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -9798,7 +10422,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Iron Greatsword",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -9815,7 +10439,7 @@
       },
       {
         "type": "Broadsword",
-        "text": "미완성 단순한 단검",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -9823,6 +10447,14 @@
       },
       {
         "type": "Splitting Greataxe",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -9927,7 +10559,7 @@
       },
       {
         "type": "Attuned Wand",
-        "text": "마챠 초승달 육척봉",
+        "text": "마로히 에르키 토템의 대곤봉",
         "name": "Lifesprig",
         "flags": {
           "unique": true
@@ -9935,8 +10567,16 @@
       },
       {
         "type": "Heavy Bow",
-        "text": "연무의 속삭임 임시 석궁",
+        "text": "마챠 초승달 육척봉",
         "name": "Lioneye's Glare",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Totemic Greatclub",
+        "text": "연무의 속삭임 임시 석궁",
+        "name": "Marohi Erqi",
         "flags": {
           "unique": true
         }
@@ -10207,7 +10847,7 @@
       },
       {
         "type": "Pyrophyte Staff",
-        "text": "속삭이는 얼음 만년설 지팡이",
+        "text": "태어나지 않은 리치 굶주린 지팡이",
         "name": "The Searing Touch",
         "flags": {
           "unique": true
@@ -10215,8 +10855,16 @@
       },
       {
         "type": "Gothic Quarterstaff",
-        "text": "부도덕한 깃펜 말라버린 마법봉",
+        "text": "속삭이는 얼음 만년설 지팡이",
         "name": "The Sentry",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Ravenous Staff",
+        "text": "부도덕한 깃펜 말라버린 마법봉",
+        "name": "The Unborn Lich",
         "flags": {
           "unique": true
         }
