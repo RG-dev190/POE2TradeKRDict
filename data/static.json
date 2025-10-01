@@ -134,7 +134,7 @@
       },
       {
         "id": "sep",
-        "text": "Jewellers' Currency"
+        "text": "쥬얼러의 화폐"
       },
       {
         "id": "lesser-jewellers-orb",
@@ -153,7 +153,7 @@
       },
       {
         "id": "sep",
-        "text": "Currency Shards"
+        "text": "화폐 파편"
       },
       {
         "id": "transmutation-shard",
@@ -177,7 +177,7 @@
       },
       {
         "id": "sep",
-        "text": "Quality Currency"
+        "text": "퀄리티 화폐"
       },
       {
         "id": "scrap",
@@ -372,7 +372,7 @@
       },
       {
         "id": "sep",
-        "text": "Omens"
+        "text": "전조"
       },
       {
         "id": "omen-of-refreshment",
@@ -623,7 +623,7 @@
       },
       {
         "id": "sep",
-        "text": "Ultimatum Fragments"
+        "text": "결전 조각"
       },
       {
         "id": "cowardly-fate",
@@ -642,7 +642,7 @@
       },
       {
         "id": "sep",
-        "text": "Pinnacle Fragments"
+        "text": "최종 조각"
       },
       {
         "id": "ancient-crisis-fragment",
@@ -737,12 +737,17 @@
         "id": "temporalis",
         "text": "자로크의 성유물 보관실 열쇠: 템포랄리스",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Ud2lsaWdodE9yZGVyUmVsaXF1YXJ5S2V5U2FuY3R1bTYiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/8aeeb6fc3d/TwilightOrderReliquaryKeySanctum6.png"
+      },
+      {
+        "id": "rite-of-passage",
+        "text": "아즈메리 성유물 보관실 열쇠",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Ud2lsaWdodE9yZGVyUmVsaXF1YXJ5S2V5QXptZXJpIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cf47ea370f/TwilightOrderReliquaryKeyAzmeri.png"
       }
     ]
   },
   {
     "id": "Abyss",
-    "label": "Abyssal Bones",
+    "label": "심연의 뼈",
     "entries": [
       {
         "id": "gnawed-jawbone",
@@ -1837,11 +1842,11 @@
   },
   {
     "id": "UncutGems",
-    "label": "Uncut Gems",
+    "label": "미가공 젬",
     "entries": [
       {
         "id": "sep",
-        "text": "Uncut Support Gems"
+        "text": "미가공 보조 젬"
       },
       {
         "id": "uncut-support-gem-1",
@@ -1870,7 +1875,7 @@
       },
       {
         "id": "sep",
-        "text": "Uncut Reservation Gems"
+        "text": "미가공 점유 젬"
       },
       {
         "id": "uncut-spirit-gem-4",
@@ -1959,7 +1964,7 @@
       },
       {
         "id": "sep",
-        "text": "Uncut Skill Gems"
+        "text": "미가공 스킬 젬"
       },
       {
         "id": "uncut-skill-gem-1",
@@ -2065,7 +2070,7 @@
   },
   {
     "id": "LineageSupportGems",
-    "label": "Lineage Support Gems",
+    "label": "혈통 보조 젬",
     "entries": [
       {
         "id": "ataluis-bloodletting",
