@@ -10779,14 +10779,6 @@
       },
       {
         "type": "Chain Flail",
-        "text": "미완성 아치형 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Charred Shortsword",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -10794,7 +10786,7 @@
         }
       },
       {
-        "type": "Arched Greataxe",
+        "type": "Charred Shortsword",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -10827,7 +10819,7 @@
       },
       {
         "type": "Broadsword",
-        "text": "미완성 철 대검",
+        "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -10835,6 +10827,14 @@
       },
       {
         "type": "Executioner Greataxe",
+        "text": "미완성 철 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Arched Greataxe",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
