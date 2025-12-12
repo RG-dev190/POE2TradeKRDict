@@ -10827,7 +10827,7 @@
       },
       {
         "type": "Executioner Greataxe",
-        "text": "미완성 단순한 단검",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -10835,6 +10835,14 @@
       },
       {
         "type": "Iron Greatsword",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -10859,14 +10867,6 @@
       },
       {
         "type": "Splitting Greataxe",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Arched Greataxe",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -10874,7 +10874,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Arched Greataxe",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
