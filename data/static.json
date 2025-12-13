@@ -207,6 +207,76 @@
     ]
   },
   {
+    "id": "Incursion",
+    "label": "기습",
+    "entries": [
+      {
+        "id": "architects-orb",
+        "text": "건축가의 오브",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvbkdyZWF0ZXJWYWFsT3JiIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/7ba6f79f63/IncursionGreaterVaalOrb.png"
+      },
+      {
+        "id": "crystallised-corruption",
+        "text": "결정화된 타락",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvbkNyeXN0YWxsaXNlZENvcnJ1cHRpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/7bb759396f/IncursionCrystallisedCorruption.png"
+      },
+      {
+        "id": "core-destabiliser",
+        "text": "핵 불안정화기",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvbkNvcmVEZXN0YWJsaXNlciIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/e613c14ed7/IncursionCoreDestabliser.png"
+      },
+      {
+        "id": "ancient-infuser",
+        "text": "고대 주입기",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvbkFuY2llbnRJbmZ1c2lvbiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/7d23730590/IncursionAncientInfusion.png"
+      },
+      {
+        "id": "vaal-cultivation-orb",
+        "text": "바알 함양 오브",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvbkhpc3RvcmljVmFhbE9yYiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/07d4d75931/IncursionHistoricVaalOrb.png"
+      },
+      {
+        "id": "vaal-infuser",
+        "text": "바알 주입기",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvblZhYWxJbmZ1c2VyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/4086f16d49/IncursionVaalInfuser.png"
+      },
+      {
+        "id": "orb-of-extraction",
+        "text": "추출의 오브",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvblNvY2tldGFibGVFeHRyYWN0b3JDdXJyZW5jeSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/dae9dfbb5e/IncursionSocketableExtractorCurrency.png"
+      },
+      {
+        "id": "vaal-siphoner",
+        "text": "바알 착취기",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdXJzaW9uQ3JhZnRpbmdPcmJzL0luY3Vyc2lvblZhYWxTaXBob25lciIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/070fd020d7/IncursionVaalSiphoner.png"
+      },
+      {
+        "id": "sep",
+        "text": "증강물"
+      },
+      {
+        "id": "guatelitzis-thesis",
+        "text": "과텔리치의 명제",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUGVyZmVjdFNvdWxDb3Jlcy9Tb3VsQ29yZUJsb29kIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/eaea6fa77d/SoulCoreBlood.png"
+      },
+      {
+        "id": "citaqualotls-thesis",
+        "text": "시타콰로틀의 명제",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUGVyZmVjdFNvdWxDb3Jlcy9Tb3VsQ29yZVNhY3JpZmljZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/3992461883/SoulCoreSacrifice.png"
+      },
+      {
+        "id": "jiquanis-thesis",
+        "text": "지콰니의 명제",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUGVyZmVjdFNvdWxDb3Jlcy9Tb3VsQ29yZVNvdWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/a45ab2bca2/SoulCoreSoul.png"
+      },
+      {
+        "id": "quipolatls-thesis",
+        "text": "퀴폴라틀의 명제",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUGVyZmVjdFNvdWxDb3Jlcy9Tb3VsQ29yZVNjaWVuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2ab351d258/SoulCoreScience.png"
+      }
+    ]
+  },
+  {
     "id": "Delirium",
     "label": "환영",
     "entries": [
@@ -536,7 +606,7 @@
       },
       {
         "id": "omen-of-the-sovereign",
-        "text": "주권자의 징조",
+        "text": "군주의 징조",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQWJ5c3NHdWFyZW50ZWVkTGljaFR5cGVNb2QxIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/a4962e6d7b/OmenOnAbyssGuarenteedLichTypeMod1.png"
       },
       {
@@ -1745,97 +1815,97 @@
     ]
   },
   {
-    "id": "Talismans",
-    "label": "부적",
+    "id": "Idol",
+    "label": "우상",
     "entries": [
       {
-        "id": "bear-talisman",
-        "text": "곰 부적",
+        "id": "bear-idol",
+        "text": "곰 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZUJlYXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2d494d1054/AzmeriSocketableBear.png"
       },
       {
-        "id": "primate-talisman",
-        "text": "영장류 부적",
+        "id": "primate-idol",
+        "text": "영장류 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZU1vbmtleSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/77a4554895/AzmeriSocketableMonkey.png"
       },
       {
-        "id": "stag-talisman",
-        "text": "수사슴 부적",
+        "id": "stag-idol",
+        "text": "수사슴 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVN0YWciLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2a0668f95a/AzmeriSocketableStag.png"
       },
       {
-        "id": "boar-talisman",
-        "text": "멧돼지 부적",
+        "id": "boar-idol",
+        "text": "멧돼지 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZUJvYXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5e04714fc6/AzmeriSocketableBoar.png"
       },
       {
-        "id": "serpent-talisman",
-        "text": "독사 부적",
+        "id": "serpent-idol",
+        "text": "독사 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVNuYWtlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/752d762312/AzmeriSocketableSnake.png"
       },
       {
-        "id": "wolf-talisman",
-        "text": "늑대 부적",
+        "id": "wolf-idol",
+        "text": "늑대 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVdvbGYiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c0deeb6d94/AzmeriSocketableWolf.png"
       },
       {
-        "id": "cat-talisman",
-        "text": "고양이 부적",
+        "id": "cat-idol",
+        "text": "고양이 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZUNhdCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/3d5bc70405/AzmeriSocketableCat.png"
       },
       {
-        "id": "owl-talisman",
-        "text": "올빼미 부적",
+        "id": "owl-idol",
+        "text": "올빼미 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZU93bCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/dfe1212549/AzmeriSocketableOwl.png"
       },
       {
-        "id": "ox-talisman",
-        "text": "소 부적",
+        "id": "ox-idol",
+        "text": "소 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZU94Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/5ebdb092f5/AzmeriSocketableOx.png"
       },
       {
-        "id": "fox-talisman",
-        "text": "여우 부적",
+        "id": "fox-idol",
+        "text": "여우 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZUZveCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/9d48a79d56/AzmeriSocketableFox.png"
       },
       {
-        "id": "rabbit-talisman",
-        "text": "토끼 부적",
+        "id": "rabbit-idol",
+        "text": "토끼 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVJhYmJpdCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/d578d6d700/AzmeriSocketableRabbit.png"
       },
       {
-        "id": "talisman-of-sirrius",
-        "text": "시리우스의 부적",
+        "id": "idol-of-sirrius",
+        "text": "시리우스의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVdvbGZTcGVjaWFsIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/53db9f9ba3/AzmeriSocketableWolfSpecial.png"
       },
       {
-        "id": "talisman-of-thruldana",
-        "text": "스룰다나의 부적",
+        "id": "idol-of-thruldana",
+        "text": "스룰다나의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVNuYWtlU3BlY2lhbCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/f44ebc01aa/AzmeriSocketableSnakeSpecial.png"
       },
       {
-        "id": "talisman-of-grold",
-        "text": "그롤드의 부적",
+        "id": "idol-of-grold",
+        "text": "그롤드의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZUJlYXJTcGVjaWFsIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/363a2de335/AzmeriSocketableBearSpecial.png"
       },
       {
-        "id": "talisman-of-eeshta",
-        "text": "이쉬타의 부적",
+        "id": "idol-of-eeshta",
+        "text": "이쉬타의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZU93bFNwZWNpYWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/8965465ce6/AzmeriSocketableOwlSpecial.png"
       },
       {
-        "id": "talisman-of-egrin",
-        "text": "에그린의 부적",
+        "id": "idol-of-egrin",
+        "text": "에그린의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZUNhdFNwZWNpYWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/16657ca6fc/AzmeriSocketableCatSpecial.png"
       },
       {
-        "id": "talisman-of-maxarius",
-        "text": "막사리우스의 부적",
+        "id": "idol-of-maxarius",
+        "text": "막사리우스의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZVN0YWdTcGVjaWFsIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/f012409342/AzmeriSocketableStagSpecial.png"
       },
       {
-        "id": "talisman-of-ralakesh",
-        "text": "랄라케쉬의 부적",
+        "id": "idol-of-ralakesh",
+        "text": "랄라케쉬의 우상",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvQXptZXJpU29ja2V0YWJsZU1vbmtleVNwZWNpYWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/8ffc9986a0/AzmeriSocketableMonkeySpecial.png"
       }
     ]
@@ -2065,207 +2135,6 @@
         "id": "uncut-skill-gem-20",
         "text": "미가공 스킬 젬 (20레벨)",
         "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png"
-      }
-    ]
-  },
-  {
-    "id": "LineageSupportGems",
-    "label": "혈통 보조 젬",
-    "entries": [
-      {
-        "id": "ataluis-bloodletting",
-        "text": "아탈루이의 사혈",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VMaWZldGFwIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/4d9a20ab28/LineageLifetap.png"
-      },
-      {
-        "id": "einhars-beastrite",
-        "text": "아인하르의 야수의식",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VFaW5oYXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/aec9088873/LineageEinhar.png"
-      },
-      {
-        "id": "brutus-brain",
-        "text": "브루투스의 두뇌",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VNZWF0c2hpZWxkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/115edf7e2f/LineageMeatshield.png"
-      },
-      {
-        "id": "uruks-smelting",
-        "text": "우루크의 제련",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcm1vdXJCcmVhayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/821e3c1334/LineageArmourBreak.png"
-      },
-      {
-        "id": "paquates-pact",
-        "text": "파콰테의 맹약",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1BhcXVhdGUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/48c3b0fca2/Paquate.png"
-      },
-      {
-        "id": "vilentas-propulsion",
-        "text": "바일렌타의 추진",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VWaWxlbnRhIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/abda900f3c/LineageVilenta.png"
-      },
-      {
-        "id": "ailiths-chimes",
-        "text": "아일리트의 종",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL01vbmFzdGljIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/795375ce2d/Monastic.png"
-      },
-      {
-        "id": "tecrods-revenge",
-        "text": "테크로드의 복수",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUZWNyb2QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/783b026592/LineageTecrod.png"
-      },
-      {
-        "id": "doedres-undoing",
-        "text": "도이드리의 파멸",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VEb2VkcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/83dad35313/LineageDoedre.png"
-      },
-      {
-        "id": "rathas-assault",
-        "text": "라타의 공격",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0F6YWRpYW4iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/a77457eef2/Azadian.png"
-      },
-      {
-        "id": "arjuns-medal",
-        "text": "아르준의 메달",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0FtbW9Db25zZXJ2YXRpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/8220863d61/AmmoConservation.png"
-      },
-      {
-        "id": "kaoms-madness",
-        "text": "카옴의 광기",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLYW9tIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/82eacd9fdc/LineageKaom.png"
-      },
-      {
-        "id": "siones-temper",
-        "text": "시온의 성미",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1dpbGRzaGFyZHMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/6d700adf17/Wildshards.png"
-      },
-      {
-        "id": "ixchels-torment",
-        "text": "익스첼의 고통",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1RyaWFsbWFzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/231195f1b3/Trialmaster.png"
-      },
-      {
-        "id": "romiras-requital",
-        "text": "로미라의 보답",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VSb21pcmEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/62c07d95f0/LineageRomira.png"
-      },
-      {
-        "id": "tawhoas-tending",
-        "text": "타호아의 보살핌",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1R1a29oYW1hIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/8b469f3f5e/Tukohama.png"
-      },
-      {
-        "id": "pietys-mercy",
-        "text": "파이어티의 자비",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VNZXJjeSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/38123ca95d/LineageMercy.png"
-      },
-      {
-        "id": "diallas-desire",
-        "text": "디알라의 갈망",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0RpYWxsYSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b959c86b4/Dialla.png"
-      },
-      {
-        "id": "kalisas-crescendo",
-        "text": "칼리사의 크레센도",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLYWxpc2FDaG9ydXMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/1d60b0db2f/LineageKalisaChorus.png"
-      },
-      {
-        "id": "kulemaks-dominion",
-        "text": "쿨레막의 지배",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLdWxlbWFrU3BpcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/7f63599d16/LineageKulemakSpire.png"
-      },
-      {
-        "id": "xophs-pyre",
-        "text": "조프의 장작",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VYb3BoIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/09f4b817dc/LineageXoph.png"
-      },
-      {
-        "id": "eshs-radiance",
-        "text": "에쉬의 광휘",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VFc2giLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2bdbf8be07/LineageEsh.png"
-      },
-      {
-        "id": "tuls-stillness",
-        "text": "툴의 고요",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUdWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/cff647542b/LineageTul.png"
-      },
-      {
-        "id": "uul-netols-embrace",
-        "text": "울네톨의 포옹",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVdWxOZXRvbCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/751151f142/LineageUulNetol.png"
-      },
-      {
-        "id": "rakiatas-flow",
-        "text": "라키아타의 흐름",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1Jha2lhdGEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/20a70b7bd3/Rakiata.png"
-      },
-      {
-        "id": "garukhans-resolve",
-        "text": "가루칸의 투지",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0dhcnVraGFuIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/392773e9fd/Garukhan.png"
-      },
-      {
-        "id": "tacatis-ire",
-        "text": "타카티의 진노",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUYWNhdGkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/d5ded1baa6/LineageTacati.png"
-      },
-      {
-        "id": "rigwalds-ferocity",
-        "text": "리그월드의 흉포함",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1JpZ3dhbGQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/a053a2b077/Rigwald.png"
-      },
-      {
-        "id": "uhtreds-exodus",
-        "text": "우트레드의 탈출",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRMZXNzZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/b286006915/LineageUhtredLesser.png"
-      },
-      {
-        "id": "uhtreds-omen",
-        "text": "우트레드의 징조",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRTdGFuZGFyZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/2e603483a5/LineageUhtredStandard.png"
-      },
-      {
-        "id": "uhtreds-augury",
-        "text": "우트레드의 점술",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRHcmVhdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/207f49bf94/LineageUhtredGreater.png"
-      },
-      {
-        "id": "daressos-passion",
-        "text": "다레소의 열정",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VEYXJlc3NvIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/31805870df/LineageDaresso.png"
-      },
-      {
-        "id": "ahns-citadel",
-        "text": "안의 성채",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBaG5DaGlzZWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5e34f72a34/LineageAhnChisel.png"
-      },
-      {
-        "id": "atziris-allure",
-        "text": "앗지리의 매혹",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBdHppcmkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/422053dc32/LineageAtziri.png"
-      },
-      {
-        "id": "zarokhs-refrain",
-        "text": "자로크의 절제",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1phcm9raCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/78c9566961/Zarokh.png"
-      },
-      {
-        "id": "kurgals-leash",
-        "text": "쿠르갈의 가죽끈",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0FieXNzS3VyZ2FsIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/3fbc251a84/AbyssKurgal.png"
-      },
-      {
-        "id": "varashtas-blessing",
-        "text": "바라시타의 축복",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VEamlubiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/62882cee00/LineageDjinn.png"
-      },
-      {
-        "id": "arbiters-ignition",
-        "text": "중재자의 점화",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmJpdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/52bc86c140/LineageArbiter.png"
-      },
-      {
-        "id": "arakaalis-lust",
-        "text": "아라칼리의 욕망",
-        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmFrYWFsaSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/be37cb2c77/LineageArakaali.png"
       }
     ]
   },
