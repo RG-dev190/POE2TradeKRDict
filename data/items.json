@@ -1207,6 +1207,10 @@
       },
       {
         "type": "Grand Regalia",
+        "text": "희생의 예복"
+      },
+      {
+        "type": "Sacrificial Regalia",
         "text": "옷"
       },
       {
@@ -5011,10 +5015,6 @@
         "text": "신비학자의 식각기"
       },
       {
-        "type": "Cartographer's Chisel",
-        "text": "지도제작자의 끌"
-      },
-      {
         "type": "Divine Orb",
         "text": "신성한 오브"
       },
@@ -5121,10 +5121,6 @@
       {
         "type": "Petition Splinter",
         "text": "탄원 파편"
-      },
-      {
-        "type": "Engineer's Orb",
-        "text": "기술자의 오브"
       },
       {
         "type": "Regal Orb",
@@ -5905,6 +5901,14 @@
       {
         "type": "Tecrod's Gaze",
         "text": "테크로드의 응시"
+      },
+      {
+        "type": "Guatelitzi's Thesis",
+        "text": "과텔리치의 명제"
+      },
+      {
+        "type": "Jiquani's Thesis",
+        "text": "지콰니의 명제"
       },
       {
         "type": "Ulaman's Gaze",
@@ -7363,6 +7367,10 @@
         "text": "살을 에는 서리 I"
       },
       {
+        "type": "Biting Frost II",
+        "text": "살을 에는 서리 II"
+      },
+      {
         "type": "Blazing Critical",
         "text": "타오르는 치명타"
       },
@@ -7729,6 +7737,10 @@
       {
         "type": "Accelerated Growth II",
         "text": "가속된 성장 II"
+      },
+      {
+        "type": "Exposing Cry",
+        "text": "노출의 함성"
       },
       {
         "type": "Fan The Flames",
@@ -8911,6 +8923,10 @@
         "text": "강인한 토템 II"
       },
       {
+        "type": "Hayoxi's Fulmination",
+        "text": "하욕시의 뇌전"
+      },
+      {
         "type": "Heft",
         "text": "중량"
       },
@@ -9261,6 +9277,10 @@
       {
         "type": "Shocking Leap",
         "text": "감전 도약"
+      },
+      {
+        "type": "Electromagnetism",
+        "text": "전자기력"
       },
       {
         "type": "Mark for Death",
@@ -11014,11 +11034,11 @@
       },
       {
         "type": "Keen Greatsword",
-        "text": "절단도"
+        "text": "갈래진 창"
       },
       {
         "type": "Siphoning Wand",
-        "text": "요동치는 두뇌 징 박힌 대곤봉",
+        "text": "푸른혀 절단도",
         "name": "Adonia's Ego",
         "flags": {
           "unique": true
@@ -11026,8 +11046,16 @@
       },
       {
         "type": "Changeling Talisman",
-        "text": "브린핸드의 징표 목재 곤봉",
+        "text": "요동치는 두뇌 징 박힌 대곤봉",
         "name": "Amor Mandragora",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Pronged Spear",
+        "text": "브린핸드의 징표 목재 곤봉",
+        "name": "Atziri's Contempt",
         "flags": {
           "unique": true
         }
