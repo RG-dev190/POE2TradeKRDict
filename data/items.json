@@ -2859,7 +2859,7 @@
       },
       {
         "type": "Closed Helm",
-        "text": "아우르시즈 겹겹의 건틀릿",
+        "text": "앗지리의 위풍 희생의 예복",
         "name": "Assailum",
         "flags": {
           "unique": true
@@ -2867,7 +2867,7 @@
       },
       {
         "type": "Veiled Mask",
-        "text": "딱정벌레 이빨 벨루어 신발",
+        "text": "앗지리의 걸음 단단히 묶은 장화",
         "name": "Atsak's Sight",
         "flags": {
           "unique": true
@@ -2875,7 +2875,7 @@
       },
       {
         "type": "Moulded Mitts",
-        "text": "짐승의 소굴 탐험가 방어구",
+        "text": "아우르시즈 겹겹의 건틀릿",
         "name": "Atziri's Acuity",
         "flags": {
           "unique": true
@@ -2883,8 +2883,24 @@
       },
       {
         "type": "Gold Circlet",
-        "text": "요원한 저 너머 본능적인 화살통",
+        "text": "딱정벌레 이빨 벨루어 신발",
         "name": "Atziri's Disdain",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Sacrificial Regalia",
+        "text": "짐승의 소굴 탐험가 방어구",
+        "name": "Atziri's Splendour",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Cinched Boots",
+        "text": "요원한 저 너머 본능적인 화살통",
+        "name": "Atziri's Step",
         "flags": {
           "unique": true
         }
@@ -3267,7 +3283,7 @@
       },
       {
         "type": "Stitched Gloves",
-        "text": "둥켈할트 가죽 버클러",
+        "text": "치명적 송곳 관통 화살통",
         "name": "Doedre's Tenure",
         "flags": {
           "unique": true
@@ -3275,7 +3291,7 @@
       },
       {
         "type": "Braced Tower Shield",
-        "text": "황혼꽃 징 박힌 조끼",
+        "text": "둥켈할트 가죽 버클러",
         "name": "Doomgate",
         "flags": {
           "unique": true
@@ -3283,7 +3299,7 @@
       },
       {
         "type": "Scale Mail",
-        "text": "에디른의 엄니 철 흉갑",
+        "text": "황혼꽃 징 박힌 조끼",
         "name": "Doryani's Prototype",
         "flags": {
           "unique": true
@@ -3291,8 +3307,16 @@
       },
       {
         "type": "Bolstered Mitts",
-        "text": "잔혹성의 인형 사슴 뿔 집중구",
+        "text": "에디른의 엄니 철 흉갑",
         "name": "Dreadfist",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Penetrating Quiver",
+        "text": "잔혹성의 인형 사슴 뿔 집중구",
+        "name": "Drillneck",
         "flags": {
           "unique": true
         }
@@ -4883,6 +4907,10 @@
         "text": "바알 함양 오브"
       },
       {
+        "type": "Vaal Siphoner",
+        "text": "바알 착취기"
+      },
+      {
         "type": "Vaal Infuser",
         "text": "바알 주입기"
       },
@@ -5905,6 +5933,14 @@
       {
         "type": "Guatelitzi's Thesis",
         "text": "과텔리치의 명제"
+      },
+      {
+        "type": "Quipolatl's Thesis",
+        "text": "퀴폴라틀의 명제"
+      },
+      {
+        "type": "Citaqualotl's Thesis",
+        "text": "시타콰로틀의 명제"
       },
       {
         "type": "Jiquani's Thesis",
@@ -7447,6 +7483,10 @@
         "text": "식인 II"
       },
       {
+        "type": "Catalysing Elements",
+        "text": "촉진시키는 원소"
+      },
+      {
         "type": "Chain I",
         "text": "연쇄 I"
       },
@@ -7837,6 +7877,10 @@
       {
         "type": "Freeze",
         "text": "동결"
+      },
+      {
+        "type": "Gorge",
+        "text": "탐식"
       },
       {
         "type": "Heavy Swing",
@@ -10742,10 +10786,14 @@
       },
       {
         "type": "Reaping Staff",
-        "text": "체인질링 부적"
+        "text": "투영하는 지팡이"
       },
       {
         "type": "Permafrost Staff",
+        "text": "체인질링 부적"
+      },
+      {
+        "type": "Reflecting Staff",
         "text": "굼뜬 부적"
       },
       {
@@ -11038,7 +11086,7 @@
       },
       {
         "type": "Siphoning Wand",
-        "text": "푸른혀 절단도",
+        "text": "앗지리의 통치 투영하는 지팡이",
         "name": "Adonia's Ego",
         "flags": {
           "unique": true
@@ -11046,7 +11094,7 @@
       },
       {
         "type": "Changeling Talisman",
-        "text": "요동치는 두뇌 징 박힌 대곤봉",
+        "text": "푸른혀 절단도",
         "name": "Amor Mandragora",
         "flags": {
           "unique": true
@@ -11054,8 +11102,16 @@
       },
       {
         "type": "Pronged Spear",
-        "text": "브린핸드의 징표 목재 곤봉",
+        "text": "요동치는 두뇌 징 박힌 대곤봉",
         "name": "Atziri's Contempt",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Reflecting Staff",
+        "text": "브린핸드의 징표 목재 곤봉",
+        "name": "Atziri's Rule",
         "flags": {
           "unique": true
         }
