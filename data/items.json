@@ -4891,12 +4891,20 @@
         "text": "감정 주문서"
       },
       {
+        "type": "Ancient Infuser",
+        "text": "고대 주입기"
+      },
+      {
         "type": "Architect's Orb",
         "text": "건축가의 오브"
       },
       {
         "type": "Crystallised Corruption",
         "text": "결정화된 타락"
+      },
+      {
+        "type": "Orb of Extraction",
+        "text": "추출의 오브"
       },
       {
         "type": "Core Destabiliser",
@@ -8535,6 +8543,10 @@
         "text": "앗지리의 매혹"
       },
       {
+        "type": "Atziri's Impatience",
+        "text": "앗지리의 조바심"
+      },
+      {
         "type": "Auto Reload",
         "text": "자동 재장전"
       },
@@ -9589,6 +9601,10 @@
       {
         "type": "Zenith II",
         "text": "북극성 II"
+      },
+      {
+        "type": "Zerphi's Infamy",
+        "text": "제르피의 악명"
       }
     ]
   },
@@ -9644,6 +9660,14 @@
         "type": "Diamond",
         "text": "제어된 변형 다이아몬드",
         "name": "Controlled Metamorphosis",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Diamond",
+        "text": "살점 도가니 다이아몬드",
+        "name": "Flesh Crucible",
         "flags": {
           "unique": true
         }
