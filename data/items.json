@@ -11399,14 +11399,6 @@
       },
       {
         "type": "Broadsword",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Executioner Greataxe",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -11414,7 +11406,7 @@
         }
       },
       {
-        "type": "Iron Greatsword",
+        "type": "Executioner Greataxe",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -11422,7 +11414,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Iron Greatsword",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -11431,7 +11423,7 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 아치형 대도끼",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -11454,8 +11446,8 @@
         }
       },
       {
-        "type": "Arched Greataxe",
-        "text": "미완성 사냥 창",
+        "type": "Crone Knife",
+        "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -11463,7 +11455,7 @@
       },
       {
         "type": "Moon Dagger",
-        "text": "미완성 전쟁 창",
+        "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -11471,6 +11463,14 @@
       },
       {
         "type": "Holy Flail",
+        "text": "미완성 전쟁 창",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Arched Greataxe",
         "text": "미완성 축복받은 클레이모어",
         "name": "INCOMPLETE",
         "flags": {
