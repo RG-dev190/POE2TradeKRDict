@@ -853,6 +853,14 @@
         }
       },
       {
+        "type": "Prismatic Ring",
+        "text": "조련 분광 반지",
+        "name": "The Taming",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Emerald Ring",
         "text": "도둑의 고통 에메랄드 반지",
         "name": "Thief's Torment",
@@ -5140,31 +5148,40 @@
       },
       {
         "type": "Toxic Quiver",
-        "text": "윤이 나는 건틀릿"
+        "text": "룬숙련 우수한 허벅지 방어구"
       },
       {
         "type": "Serrated Quiver",
-        "text": "룬숙련 윤이 나는 건틀릿"
+        "text": "윤이 나는 건틀릿"
       },
       {
         "type": "Primed Quiver",
-        "text": "문장 문양 방패"
+        "text": "룬숙련 윤이 나는 건틀릿"
       },
       {
         "type": "Penetrating Quiver",
-        "text": "장갑을 두른 모자"
+        "text": "문장 문양 방패"
       },
       {
         "type": "Grand Cuisses",
-        "text": "우두머리의 울부짖음 룬숙련 장갑을 두른 모자",
+        "text": "알켐 에이라 룬숙련 문장 문양 방패",
         "name": "Ab Aeterno",
         "flags": {
           "unique": true
         }
       },
       {
+        "type": "Runemastered Grand Cuisses",
+        "text": "우두머리의 울부짖음 장갑을 두른 모자",
+        "name": "Ab Aeterno",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Burnished Gauntlets",
-        "text": "아펩의 패권 주술 집중구",
+        "text": "우두머리의 울부짖음 룬숙련 장갑을 두른 모자",
         "name": "Aerisvane's Wings",
         "flags": {
           "unique": true
@@ -5172,7 +5189,7 @@
       },
       {
         "type": "Runemastered Burnished Gauntlets",
-        "text": "아펩의 패권 룬숙련 주술 집중구",
+        "text": "아펩의 패권 주술 집중구",
         "name": "Aerisvane's Wings",
         "disc": "legacy",
         "flags": {
@@ -5181,8 +5198,17 @@
       },
       {
         "type": "Blazon Crest Shield",
+        "text": "아펩의 패권 룬숙련 주술 집중구",
+        "name": "Alkem Eira",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Blazon Crest Shield",
         "text": "에미란의 앞치마 은자 의복",
         "name": "Alkem Eira",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -7170,7 +7196,7 @@
       },
       {
         "type": "Runemastered Face Mask",
-        "text": "모리오르 인빅투스 우수한 예복",
+        "text": "의회의 정신 룬숙련 죽음 가면",
         "name": "Mask of the Sanguimancer",
         "disc": "legacy",
         "flags": {
@@ -7179,7 +7205,7 @@
       },
       {
         "type": "Feathered Tiara",
-        "text": "모리오르 인빅투스 룬숙련 우수한 예복",
+        "text": "모리오르 인빅투스 우수한 예복",
         "name": "Mask of the Stitched Demon",
         "flags": {
           "unique": true
@@ -7187,7 +7213,7 @@
       },
       {
         "type": "Runemastered Feathered Tiara",
-        "text": "진창 수갱 맹독성 화살통",
+        "text": "모리오르 인빅투스 룬숙련 우수한 예복",
         "name": "Mask of the Stitched Demon",
         "disc": "legacy",
         "flags": {
@@ -7196,7 +7222,7 @@
       },
       {
         "type": "Pelage Targe",
-        "text": "미리스 욱소르 은밀한 두건",
+        "text": "진창 수갱 맹독성 화살통",
         "name": "Merit of Service",
         "flags": {
           "unique": true
@@ -7204,8 +7230,17 @@
       },
       {
         "type": "Death Mask",
+        "text": "미리스 욱소르 은밀한 두건",
+        "name": "Mind of the Council",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Death Mask",
         "text": "미리스 욱소르 룬숙련 은밀한 두건",
         "name": "Mind of the Council",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -7661,7 +7696,7 @@
       },
       {
         "type": "Emblem Crest Shield",
-        "text": "꾸짖음의 굴레 비취 티아라",
+        "text": "모래 폭풍의 얼굴 룬숙련 사슬 티아라",
         "name": "Saffell's Frame",
         "flags": {
           "unique": true
@@ -7669,7 +7704,7 @@
       },
       {
         "type": "Runemastered Emblem Crest Shield",
-        "text": "꾸짖음의 굴레 룬숙련 비취 티아라",
+        "text": "꾸짖음의 굴레 비취 티아라",
         "name": "Saffell's Frame",
         "disc": "legacy",
         "flags": {
@@ -7678,7 +7713,7 @@
       },
       {
         "type": "Shrouded Vest",
-        "text": "독사의 교훈 음색 집중구",
+        "text": "꾸짖음의 굴레 룬숙련 비취 티아라",
         "name": "Sands of Silk",
         "flags": {
           "unique": true
@@ -7686,7 +7721,7 @@
       },
       {
         "type": "Runemastered Shrouded Vest",
-        "text": "독사의 교훈 룬숙련 음색 집중구",
+        "text": "독사의 교훈 음색 집중구",
         "name": "Sands of Silk",
         "disc": "legacy",
         "flags": {
@@ -7695,8 +7730,17 @@
       },
       {
         "type": "Chain Tiara",
+        "text": "독사의 교훈 룬숙련 음색 집중구",
+        "name": "Sandstorm Visage",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Chain Tiara",
         "text": "불운아의 족쇄 오래된 수갑",
         "name": "Sandstorm Visage",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -7788,7 +7832,7 @@
       },
       {
         "type": "Enlightened Robe",
-        "text": "충신의 가죽 옷",
+        "text": "시네 아이쿠오 룬숙련 우수한 소맷부리",
         "name": "Silks of Veneration",
         "flags": {
           "unique": true
@@ -7796,7 +7840,7 @@
       },
       {
         "type": "Runemastered Enlightened Robe",
-        "text": "뱀 이빨 가시 팔보호구",
+        "text": "충신의 가죽 옷",
         "name": "Silks of Veneration",
         "disc": "legacy",
         "flags": {
@@ -7805,7 +7849,7 @@
       },
       {
         "type": "Spiked Buckler",
-        "text": "뱀 이빨 룬숙련 가시 팔보호구",
+        "text": "뱀 이빨 가시 팔보호구",
         "name": "Silverthorne",
         "flags": {
           "unique": true
@@ -7813,7 +7857,7 @@
       },
       {
         "type": "Runemastered Spiked Buckler",
-        "text": "솔루스 입세 우수한 얼굴",
+        "text": "뱀 이빨 룬숙련 가시 팔보호구",
         "name": "Silverthorne",
         "disc": "legacy",
         "flags": {
@@ -7822,8 +7866,17 @@
       },
       {
         "type": "Grand Manchettes",
+        "text": "솔루스 입세 우수한 얼굴",
+        "name": "Sine Aequo",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Grand Manchettes",
         "text": "영혼의 외투 희생의 외투",
         "name": "Sine Aequo",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -9681,6 +9734,10 @@
         "text": "수호하는 별빛 광석"
       },
       {
+        "type": "Revered Starlit Ore",
+        "text": "존경받는 별빛 광석"
+      },
+      {
         "type": "Blacksmith's Whetstone",
         "text": "대장장이의 숫돌"
       },
@@ -10057,6 +10114,10 @@
         "text": "아마나무의 응시"
       },
       {
+        "type": "Carved Cunning",
+        "text": "조각된 교활함"
+      },
+      {
         "type": "Carved Mischief",
         "text": "조각된 장난기"
       },
@@ -10191,6 +10252,10 @@
       {
         "type": "Lesser Iron Rune",
         "text": "하위 철 룬"
+      },
+      {
+        "type": "Perfect Iron Rune",
+        "text": "완벽한 철 룬"
       },
       {
         "type": "Desert Rune",
@@ -13164,6 +13229,10 @@
         "text": "오이신의 서약"
       },
       {
+        "type": "Olroth's Hubris",
+        "text": "올로스의 오만"
+      },
+      {
         "type": "Opening Move",
         "text": "첫 수"
       },
@@ -13650,6 +13719,10 @@
       {
         "type": "Breachlord's Amalgam",
         "text": "균열 군주의 융합체"
+      },
+      {
+        "type": "Breachlord's Rift",
+        "text": "균열 군주의 틈새"
       },
       {
         "type": "Break Endurance",
@@ -14904,6 +14977,10 @@
         "text": "에스타준티의 우상"
       },
       {
+        "type": "Breachlord Sac",
+        "text": "균열 군주 낭"
+      },
+      {
         "type": "Raven's Reflection",
         "text": "큰까마귀의 투영"
       },
@@ -15460,6 +15537,10 @@
       {
         "type": "Runeforged Wooden Club",
         "text": "룬벼림 목재 곤봉"
+      },
+      {
+        "type": "Runemastered Wooden Club",
+        "text": "룬숙련 목재 곤봉"
       },
       {
         "type": "Runeforged Slim Mace",
@@ -16407,10 +16488,14 @@
       },
       {
         "type": "Pointed Maul",
-        "text": "룬벼림 쓰러진 대곤봉"
+        "text": "룬숙련 특이한 대형 양손 망치"
       },
       {
         "type": "Aberrant Sledge",
+        "text": "룬벼림 쓰러진 대곤봉"
+      },
+      {
+        "type": "Runemastered Aberrant Sledge",
         "text": "룬숙련 쓰러진 대곤봉"
       },
       {
@@ -16607,7 +16692,7 @@
       },
       {
         "type": "Wooden Club",
-        "text": "사슬침 사냥 창",
+        "text": "브린핸드의 징표 룬숙련 목재 곤봉",
         "name": "Brynhand's Mark",
         "flags": {
           "unique": true
@@ -16615,6 +16700,15 @@
       },
       {
         "type": "Runeforged Wooden Club",
+        "text": "사슬침 사냥 창",
+        "name": "Brynhand's Mark",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Wooden Club",
         "text": "사슬침 룬벼림 사냥 창",
         "name": "Brynhand's Mark",
         "disc": "legacy",
@@ -17852,7 +17946,7 @@
       },
       {
         "type": "Runeforged Forge Maul",
-        "text": "폭정의 손아귀 철창날 창",
+        "text": "뒤틀린 천공인 룬숙련 특이한 대형 양손 망치",
         "name": "Trephina",
         "disc": "legacy",
         "flags": {
@@ -17861,8 +17955,17 @@
       },
       {
         "type": "Aberrant Sledge",
+        "text": "폭정의 손아귀 철창날 창",
+        "name": "Twisted Empyrean",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Aberrant Sledge",
         "text": "폭정의 손아귀 룬벼림 철창날 창",
         "name": "Twisted Empyrean",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
