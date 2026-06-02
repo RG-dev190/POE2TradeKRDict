@@ -140,6 +140,10 @@
         "text": "무거운 허리띠"
       },
       {
+        "type": "Runemastered Heavy Belt",
+        "text": "룬숙련 무거운 허리띠"
+      },
+      {
         "type": "Stalking Belt",
         "text": "뒤를 쫓는 허리띠"
       },
@@ -920,6 +924,15 @@
         "type": "Heavy Belt",
         "text": "허리문 무거운 허리띠",
         "name": "Waistgate",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Heavy Belt",
+        "text": "허리문 룬숙련 무거운 허리띠",
+        "name": "Waistgate",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -2112,6 +2125,10 @@
       },
       {
         "type": "Runeforged Cinched Boots",
+        "text": "룬숙련 단단히 묶은 장화"
+      },
+      {
+        "type": "Runemastered Cinched Boots",
         "text": "룬벼림 레이스 장화"
       },
       {
@@ -3392,14 +3409,18 @@
       },
       {
         "type": "Runeforged Massive Mitts",
-        "text": "고리 갑옷 건틀릿"
+        "text": "룬숙련 거신 미트"
       },
       {
         "type": "Runeforged Detailed Mitts",
-        "text": "철사슬 건틀릿"
+        "text": "고리 갑옷 건틀릿"
       },
       {
         "type": "Titan Mitts",
+        "text": "철사슬 건틀릿"
+      },
+      {
+        "type": "Runemastered Titan Mitts",
         "text": "강철사슬 건틀릿"
       },
       {
@@ -4500,14 +4521,18 @@
       },
       {
         "type": "Pearl Buckler",
-        "text": "배열 버클러"
+        "text": "룬숙련 화려한 버클러"
       },
       {
         "type": "Runeforged Pearl Buckler",
-        "text": "룬숙련 배열 버클러"
+        "text": "배열 버클러"
       },
       {
         "type": "Ornate Buckler",
+        "text": "룬숙련 배열 버클러"
+      },
+      {
+        "type": "Runemastered Ornate Buckler",
         "text": "룬벼림 가죽 버클러"
       },
       {
@@ -8363,7 +8388,7 @@
       },
       {
         "type": "Runemastered Cowled Helm",
-        "text": "세 마리의 용 단단한 가면",
+        "text": "포기 룬숙련 바알 거대 방패",
         "name": "The Smiling Knight",
         "disc": "legacy",
         "flags": {
@@ -8372,7 +8397,7 @@
       },
       {
         "type": "Knight Armour",
-        "text": "세 마리의 용 룬숙련 단단한 가면",
+        "text": "세 마리의 용 단단한 가면",
         "name": "The Sunken Vessel",
         "flags": {
           "unique": true
@@ -8380,7 +8405,7 @@
       },
       {
         "type": "Runemastered Knight Armour",
-        "text": "해방된 자 존경받는 법의",
+        "text": "세 마리의 용 룬숙련 단단한 가면",
         "name": "The Sunken Vessel",
         "disc": "legacy",
         "flags": {
@@ -8389,7 +8414,7 @@
       },
       {
         "type": "Vaal Tower Shield",
-        "text": "해방된 자 룬숙련 존경받는 법의",
+        "text": "해방된 자 존경받는 법의",
         "name": "The Surrender",
         "flags": {
           "unique": true
@@ -8397,6 +8422,15 @@
       },
       {
         "type": "Stone Tower Shield",
+        "text": "해방된 자 룬숙련 존경받는 법의",
+        "name": "The Surrender",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Vaal Tower Shield",
         "text": "최정점 부족 가면",
         "name": "The Surrender",
         "disc": "legacy",
@@ -10140,6 +10174,10 @@
         "text": "아마나무의 응시"
       },
       {
+        "type": "Raven-Touched Shard",
+        "text": "큰까마귀의 손길에 닿은 파편"
+      },
+      {
         "type": "Carved Cunning",
         "text": "조각된 교활함"
       },
@@ -10248,6 +10286,10 @@
         "text": "하위 빙하 룬"
       },
       {
+        "type": "Perfect Glacial Rune",
+        "text": "완벽한 빙하 룬"
+      },
+      {
         "type": "Betrayal of Aldur",
         "text": "알두르의 배신"
       },
@@ -10302,6 +10344,10 @@
       {
         "type": "Lesser Desert Rune",
         "text": "하위 사막 룬"
+      },
+      {
+        "type": "Perfect Desert Rune",
+        "text": "완벽한 사막 룬"
       },
       {
         "type": "Resolve Rune",
@@ -10484,8 +10530,40 @@
         "text": "아도니아의 자아의 유산"
       },
       {
+        "type": "Legacy of Brain Rattler",
+        "text": "요동치는 두뇌의 유산"
+      },
+      {
+        "type": "Legacy of Chernobog's Pillar",
+        "text": "체르노보그의 기둥의 유산"
+      },
+      {
+        "type": "Legacy of Greymake",
+        "text": "회색작품의 유산"
+      },
+      {
+        "type": "Legacy of Lifesprig",
+        "text": "생명의 가지의 유산"
+      },
+      {
+        "type": "Legacy of Quill Rain",
+        "text": "화살 비의 유산"
+      },
+      {
+        "type": "Legacy of Starkonja's Head",
+        "text": "스타콘자의 머리의 유산"
+      },
+      {
         "type": "Legacy of The Unleashed",
         "text": "해방된 자의 유산"
+      },
+      {
+        "type": "Legacy of Trampletoe",
+        "text": "짓발가락의 유산"
+      },
+      {
+        "type": "Legacy of Twisted Empyrean",
+        "text": "뒤틀린 천공인의 유산"
       },
       {
         "type": "Greater Rune of Leadership",
@@ -10628,6 +10706,10 @@
         "text": "수호 룬"
       },
       {
+        "type": "Perfect Ward Rune",
+        "text": "완벽한 수호 룬"
+      },
+      {
         "type": "Greater Charging Rune",
         "text": "상위 충전 룬"
       },
@@ -10725,6 +10807,10 @@
       },
       {
         "type": "Kolr's Hunt",
+        "text": "알두르의 유산"
+      },
+      {
+        "type": "Aldur's Legacy",
         "text": "메드베드의 보살핌"
       },
       {
