@@ -2636,6 +2636,10 @@
       },
       {
         "type": "Runeforged Covered Sabatons",
+        "text": "룬숙련 덮인 발 덮개"
+      },
+      {
+        "type": "Runemastered Covered Sabatons",
         "text": "우수한 허벅지 방어구"
       },
       {
@@ -5068,22 +5072,26 @@
       },
       {
         "type": "Runeforged Sectarian Crest Shield",
-        "text": "룬벼림 징조 문양 방패"
+        "text": "룬벼림 바알 문양 방패"
       },
       {
         "type": "Omen Crest Shield",
-        "text": "룬숙련 징조 문양 방패"
+        "text": "룬벼림 징조 문양 방패"
       },
       {
         "type": "Glowering Crest Shield",
-        "text": "버릇없는 문양 방패"
+        "text": "룬숙련 징조 문양 방패"
       },
       {
         "type": "Runeforged Glowering Crest Shield",
-        "text": "검은강철 문양 방패"
+        "text": "버릇없는 문양 방패"
       },
       {
         "type": "Vaal Crest Shield",
+        "text": "검은강철 문양 방패"
+      },
+      {
+        "type": "Runeforged Vaal Crest Shield",
         "text": "룬벼림 버릇없는 문양 방패"
       },
       {
@@ -8381,7 +8389,7 @@
       },
       {
         "type": "Vaal Tower Shield",
-        "text": "최정점 부족 가면",
+        "text": "해방된 자 룬숙련 존경받는 법의",
         "name": "The Surrender",
         "flags": {
           "unique": true
@@ -8389,7 +8397,7 @@
       },
       {
         "type": "Stone Tower Shield",
-        "text": "최정점 룬숙련 부족 가면",
+        "text": "최정점 부족 가면",
         "name": "The Surrender",
         "disc": "legacy",
         "flags": {
@@ -8398,7 +8406,7 @@
       },
       {
         "type": "Solid Mask",
-        "text": "끔찍한 기사 차폐 헬름",
+        "text": "최정점 룬숙련 부족 가면",
         "name": "The Three Dragons",
         "flags": {
           "unique": true
@@ -8406,7 +8414,7 @@
       },
       {
         "type": "Runemastered Solid Mask",
-        "text": "끔찍한 기사 룬숙련 차폐 헬름",
+        "text": "끔찍한 기사 차폐 헬름",
         "name": "The Three Dragons",
         "disc": "legacy",
         "flags": {
@@ -8415,8 +8423,17 @@
       },
       {
         "type": "Revered Vestments",
+        "text": "끔찍한 기사 룬숙련 차폐 헬름",
+        "name": "The Unleashed",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Revered Vestments",
         "text": "울부짖는 벽 제웅 거대 방패",
         "name": "The Unleashed",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -8822,7 +8839,7 @@
       },
       {
         "type": "Silk Slippers",
-        "text": "제르피의 모포 두피수집가의 재킷",
+        "text": "이리엘의 훈육 룬숙련 질주자 조끼",
         "name": "Wondertrap",
         "flags": {
           "unique": true
@@ -8830,7 +8847,7 @@
       },
       {
         "type": "Runemastered Silk Slippers",
-        "text": "제르피의 모포 룬숙련 두피수집가의 재킷",
+        "text": "제르피의 모포 두피수집가의 재킷",
         "name": "Wondertrap",
         "disc": "legacy",
         "flags": {
@@ -8839,7 +8856,7 @@
       },
       {
         "type": "Painted Tower Shield",
-        "text": "Wulfsbane Painted Tower Shield",
+        "text": "제르피의 모포 룬숙련 두피수집가의 재킷",
         "name": "Wulfsbane",
         "flags": {
           "unique": true
@@ -8858,6 +8875,15 @@
         "type": "Strider Vest",
         "text": "Yriel's Fostering Strider Vest",
         "name": "Yriel's Fostering",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Strider Vest",
+        "text": "Yriel's Fostering Runemastered Strider Vest (Legacy)",
+        "name": "Yriel's Fostering",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -10130,8 +10156,16 @@
         "text": "발현된 본능"
       },
       {
+        "type": "Emergent Possibility",
+        "text": "발현된 가능성"
+      },
+      {
         "type": "Emergent Protection",
         "text": "발현된 보호"
+      },
+      {
+        "type": "Emergent Vigour",
+        "text": "발현된 활력"
       },
       {
         "type": "Idol of the Sycophant",
@@ -10448,6 +10482,10 @@
       {
         "type": "Legacy of Adonia's Ego",
         "text": "아도니아의 자아의 유산"
+      },
+      {
+        "type": "Legacy of The Unleashed",
+        "text": "해방된 자의 유산"
       },
       {
         "type": "Greater Rune of Leadership",
@@ -15503,6 +15541,10 @@
         "text": "행진 철퇴"
       },
       {
+        "type": "Runeforged Marching Mace",
+        "text": "룬숙련 행진 철퇴"
+      },
+      {
         "type": "Crown Mace",
         "text": "왕관 철퇴"
       },
@@ -16172,6 +16214,10 @@
       },
       {
         "type": "Runeforged Gothic Quarterstaff",
+        "text": "룬숙련 고딕 육척봉"
+      },
+      {
+        "type": "Runemastered Gothic Quarterstaff",
         "text": "룬벼림 초승달 육척봉"
       },
       {
@@ -17555,7 +17601,7 @@
       },
       {
         "type": "Marching Mace",
-        "text": "세를의 근성 칼구르 대장망치",
+        "text": "눈앞의 별 룬숙련 행진 철퇴",
         "name": "Seeing Stars",
         "flags": {
           "unique": true
@@ -17563,6 +17609,15 @@
       },
       {
         "type": "Plated Mace",
+        "text": "세를의 근성 칼구르 대장망치",
+        "name": "Seeing Stars",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Marching Mace",
         "text": "세를의 근성 룬벼림 칼구르 대장망치",
         "name": "Seeing Stars",
         "disc": "legacy",
@@ -17863,7 +17918,7 @@
       },
       {
         "type": "Gothic Quarterstaff",
-        "text": "태어나지 않은 리치 굶주린 지팡이",
+        "text": "보초 룬숙련 고딕 육척봉",
         "name": "The Sentry",
         "flags": {
           "unique": true
@@ -17871,6 +17926,15 @@
       },
       {
         "type": "Runeforged Gothic Quarterstaff",
+        "text": "태어나지 않은 리치 굶주린 지팡이",
+        "name": "The Sentry",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Gothic Quarterstaff",
         "text": "속삭이는 얼음 만년설 지팡이",
         "name": "The Sentry",
         "disc": "legacy",
