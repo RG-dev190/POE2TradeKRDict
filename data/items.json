@@ -1716,6 +1716,10 @@
         "text": "룬벼림 바알 흉갑"
       },
       {
+        "type": "Runemastered Vaal Cuirass",
+        "text": "룬숙련 바알 흉갑"
+      },
+      {
         "type": "Juggernaut Plate",
         "text": "거수 판금 갑옷"
       },
@@ -1909,6 +1913,10 @@
       },
       {
         "type": "Sacrificial Regalia",
+        "text": "룬숙련 희생의 예복"
+      },
+      {
+        "type": "Runemastered Sacrificial Regalia",
         "text": "탐욕스러운 사슬옷"
       },
       {
@@ -2097,6 +2105,10 @@
       },
       {
         "type": "Ornate Ringmail",
+        "text": "룬숙련 화려한 고리 갑옷"
+      },
+      {
+        "type": "Runemastered Ornate Ringmail",
         "text": "고대 사슬옷"
       },
       {
@@ -4369,14 +4381,18 @@
       },
       {
         "type": "Gladiatorial Helm",
-        "text": "우수한 얼굴"
+        "text": "룬숙련 장식된 헬름"
       },
       {
         "type": "Runeforged Closed Helm",
-        "text": "고대 차양"
+        "text": "우수한 얼굴"
       },
       {
         "type": "Decorated Helm",
+        "text": "고대 차양"
+      },
+      {
+        "type": "Runemastered Decorated Helm",
         "text": "철 왕관"
       },
       {
@@ -6882,7 +6898,7 @@
       },
       {
         "type": "Mail Vestments",
-        "text": "인즈머스 허름한 두건",
+        "text": "인디곤 룬숙련 신관 티아라",
         "name": "Icetomb",
         "flags": {
           "unique": true
@@ -6890,7 +6906,7 @@
       },
       {
         "type": "Runemastered Mail Vestments",
-        "text": "인즈머스 룬숙련 허름한 두건",
+        "text": "인즈머스 허름한 두건",
         "name": "Icetomb",
         "disc": "legacy",
         "flags": {
@@ -6899,7 +6915,7 @@
       },
       {
         "type": "Sectioned Bracers",
-        "text": "철손아귀 방랑자 방어구",
+        "text": "인즈머스 룬숙련 허름한 두건",
         "name": "Idle Hands",
         "flags": {
           "unique": true
@@ -6907,7 +6923,7 @@
       },
       {
         "type": "Runemastered Sectioned Bracers",
-        "text": "철손아귀 룬숙련 방랑자 방어구",
+        "text": "철손아귀 방랑자 방어구",
         "name": "Idle Hands",
         "disc": "legacy",
         "flags": {
@@ -6916,8 +6932,17 @@
       },
       {
         "type": "Magus Tiara",
+        "text": "철손아귀 룬숙련 방랑자 방어구",
+        "name": "Indigon",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Magus Tiara",
         "text": "철의 질주 차양 단 헬름",
         "name": "Indigon",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -10234,6 +10259,10 @@
         "text": "조각된 교활함"
       },
       {
+        "type": "Carved Majesty",
+        "text": "조각된 위엄"
+      },
+      {
         "type": "Carved Mischief",
         "text": "조각된 장난기"
       },
@@ -10414,6 +10443,10 @@
         "text": "하위 투지 룬"
       },
       {
+        "type": "Perfect Resolve Rune",
+        "text": "완벽한 투지 룬"
+      },
+      {
         "type": "Body Rune",
         "text": "육신 룬"
       },
@@ -10450,6 +10483,10 @@
         "text": "하위 폭풍 룬"
       },
       {
+        "type": "Perfect Storm Rune",
+        "text": "완벽한 폭풍 룬"
+      },
+      {
         "type": "Mind Rune",
         "text": "정신 룬"
       },
@@ -10472,6 +10509,10 @@
       {
         "type": "Lesser Inspiration Rune",
         "text": "하위 영감 룬"
+      },
+      {
+        "type": "Perfect Inspiration Rune",
+        "text": "완벽한 영감 룬"
       },
       {
         "type": "Ancient Rune of Splinters",
@@ -10584,6 +10625,10 @@
       {
         "type": "Legacy of Brain Rattler",
         "text": "요동치는 두뇌의 유산"
+      },
+      {
+        "type": "Legacy of Brynhand's Mark",
+        "text": "브린핸드의 징표의 유산"
       },
       {
         "type": "Legacy of Chernobog's Pillar",
@@ -15624,1171 +15669,1171 @@
       },
       {
         "type": "Kalguuran Forgehammer",
-        "text": "칼구르 대장망치"
+        "text": "Runemastered Torment Club"
       },
       {
         "type": "Runeforged Kalguuran Forgehammer",
-        "text": "룬벼림 칼구르 대장망치"
+        "text": "칼구르 대장망치"
       },
       {
         "type": "Smithing Hammer",
-        "text": "대장장이 망치"
+        "text": "룬벼림 칼구르 대장망치"
       },
       {
         "type": "Calescent Hammer",
-        "text": "열기 증가 망치"
+        "text": "대장장이 망치"
       },
       {
         "type": "Molten Hammer",
-        "text": "녹아내린 망치"
+        "text": "열기 증가 망치"
       },
       {
         "type": "Slim Mace",
-        "text": "좁은 철퇴"
+        "text": "녹아내린 망치"
       },
       {
         "type": "Flared Mace",
-        "text": "번쩍이는 철퇴"
+        "text": "좁은 철퇴"
       },
       {
         "type": "Flanged Mace",
-        "text": "테두리 철퇴"
+        "text": "번쩍이는 철퇴"
       },
       {
         "type": "Spiked Club",
-        "text": "가시 박힌 곤봉"
+        "text": "테두리 철퇴"
       },
       {
         "type": "Warpick",
-        "text": "전쟁곡괭이"
+        "text": "가시 박힌 곤봉"
       },
       {
         "type": "Battle Pick",
-        "text": "전투 곡괭이"
+        "text": "전쟁곡괭이"
       },
       {
         "type": "Strife Pick",
-        "text": "투쟁 곡괭이"
+        "text": "전투 곡괭이"
       },
       {
         "type": "Plated Mace",
-        "text": "판금 철퇴"
+        "text": "투쟁 곡괭이"
       },
       {
         "type": "Marching Mace",
-        "text": "행진 철퇴"
+        "text": "판금 철퇴"
       },
       {
         "type": "Runeforged Marching Mace",
-        "text": "룬숙련 행진 철퇴"
+        "text": "행진 철퇴"
       },
       {
         "type": "Crown Mace",
-        "text": "왕관 철퇴"
+        "text": "룬숙련 행진 철퇴"
       },
       {
         "type": "Brigand Mace",
-        "text": "도둑 철퇴"
+        "text": "왕관 철퇴"
       },
       {
         "type": "Bandit Mace",
-        "text": "도적 철퇴"
+        "text": "도둑 철퇴"
       },
       {
         "type": "Marauding Mace",
-        "text": "약탈하는 철퇴"
+        "text": "도적 철퇴"
       },
       {
         "type": "Construct Hammer",
-        "text": "구조물 망치"
+        "text": "약탈하는 철퇴"
       },
       {
         "type": "Structured Hammer",
-        "text": "구조화된 망치"
+        "text": "구조물 망치"
       },
       {
         "type": "Fortified Hammer",
-        "text": "견고한 망치"
+        "text": "구조화된 망치"
       },
       {
         "type": "Morning Star",
-        "text": "모닝스타"
+        "text": "견고한 망치"
       },
       {
         "type": "Runeforged Wooden Club",
-        "text": "룬벼림 목재 곤봉"
+        "text": "모닝스타"
       },
       {
         "type": "Runemastered Wooden Club",
-        "text": "룬숙련 목재 곤봉"
+        "text": "룬벼림 목재 곤봉"
       },
       {
         "type": "Runeforged Slim Mace",
-        "text": "룬벼림 좁은 철퇴"
+        "text": "룬숙련 목재 곤봉"
       },
       {
         "type": "Runeforged Spiked Club",
-        "text": "룬벼림 가시 박힌 곤봉"
+        "text": "룬벼림 좁은 철퇴"
       },
       {
         "type": "Runeforged Warpick",
-        "text": "룬벼림 전쟁곡괭이"
+        "text": "룬벼림 가시 박힌 곤봉"
       },
       {
         "type": "Runeforged Morning Star",
-        "text": "Runeforged Morning Star"
+        "text": "룬벼림 전쟁곡괭이"
       },
       {
         "type": "Hardwood Spear",
-        "text": "견목 창"
+        "text": "Runeforged Morning Star"
       },
       {
         "type": "Seaglass Spear",
-        "text": "바다유리 창"
+        "text": "견목 창"
       },
       {
         "type": "Akoyan Spear",
-        "text": "아코야의 창"
+        "text": "바다유리 창"
       },
       {
         "type": "Sword Spear",
-        "text": "검 창"
+        "text": "아코야의 창"
       },
       {
         "type": "Striking Spear",
-        "text": "타격하는 창"
+        "text": "검 창"
       },
       {
         "type": "Helix Spear",
-        "text": "나선 창"
+        "text": "타격하는 창"
       },
       {
         "type": "Ironhead Spear",
-        "text": "철창날 창"
+        "text": "나선 창"
       },
       {
         "type": "Steelhead Spear",
-        "text": "강철머리 창"
+        "text": "철창날 창"
       },
       {
         "type": "Orichalcum Spear",
-        "text": "오리칼쿰 창"
+        "text": "강철머리 창"
       },
       {
         "type": "Hunting Spear",
-        "text": "사냥 창"
+        "text": "오리칼쿰 창"
       },
       {
         "type": "Coursing Spear",
-        "text": "세차게 흐르는 창"
+        "text": "사냥 창"
       },
       {
         "type": "Stalking Spear",
-        "text": "뒤를 쫓는 창"
+        "text": "세차게 흐르는 창"
       },
       {
         "type": "Winged Spear",
-        "text": "날개 달린 창"
+        "text": "뒤를 쫓는 창"
       },
       {
         "type": "Soaring Spear",
-        "text": "솟구치는 창"
+        "text": "날개 달린 창"
       },
       {
         "type": "War Spear",
-        "text": "전쟁 창"
+        "text": "솟구치는 창"
       },
       {
         "type": "Swift Spear",
-        "text": "재빠른 창"
+        "text": "전쟁 창"
       },
       {
         "type": "Flying Spear",
-        "text": "비행 창"
+        "text": "재빠른 창"
       },
       {
         "type": "Forked Spear",
-        "text": "갈라진 창"
+        "text": "비행 창"
       },
       {
         "type": "Branched Spear",
-        "text": "가지 뻗은 창"
+        "text": "갈라진 창"
       },
       {
         "type": "Pronged Spear",
-        "text": "갈래진 창"
+        "text": "가지 뻗은 창"
       },
       {
         "type": "Barbed Spear",
-        "text": "가시 돋친 창"
+        "text": "갈래진 창"
       },
       {
         "type": "Jagged Spear",
-        "text": "삐죽삐죽한 창"
+        "text": "가시 돋친 창"
       },
       {
         "type": "Spiked Spear",
-        "text": "가시 창"
+        "text": "삐죽삐죽한 창"
       },
       {
         "type": "Broad Spear",
-        "text": "넓은날 창"
+        "text": "가시 창"
       },
       {
         "type": "Massive Spear",
-        "text": "거대한 창"
+        "text": "넓은날 창"
       },
       {
         "type": "Grand Spear",
-        "text": "우수한 창"
+        "text": "거대한 창"
       },
       {
         "type": "Crossblade Spear",
-        "text": "십자칼날 창"
+        "text": "우수한 창"
       },
       {
         "type": "Guardian Spear",
-        "text": "수호자 창"
+        "text": "십자칼날 창"
       },
       {
         "type": "Runeforged Hardwood Spear",
-        "text": "룬벼림 견목 창"
+        "text": "수호자 창"
       },
       {
         "type": "Runeforged Ironhead Spear",
-        "text": "룬벼림 철창날 창"
+        "text": "룬벼림 견목 창"
       },
       {
         "type": "Runemastered Ironhead Spear",
-        "text": "룬숙련 철창날 창"
+        "text": "룬벼림 철창날 창"
       },
       {
         "type": "Runeforged Hunting Spear",
-        "text": "룬벼림 사냥 창"
+        "text": "룬숙련 철창날 창"
       },
       {
         "type": "Runeforged Winged Spear",
-        "text": "룬벼림 날개 달린 창"
+        "text": "룬벼림 사냥 창"
       },
       {
         "type": "Runeforged War Spear",
-        "text": "룬벼림 전쟁 창"
+        "text": "룬벼림 날개 달린 창"
       },
       {
         "type": "Runeforged Forked Spear",
-        "text": "룬벼림 갈라진 창"
+        "text": "룬벼림 전쟁 창"
       },
       {
         "type": "Runeforged Barbed Spear",
-        "text": "룬벼림 가시 돋친 창"
+        "text": "룬벼림 갈라진 창"
       },
       {
         "type": "Shortsword",
-        "text": "절단도"
+        "text": "룬벼림 가시 돋친 창"
       },
       {
         "type": "Runic Shortsword",
-        "text": "룬 절단도"
+        "text": "절단도"
       },
       {
         "type": "Messer",
-        "text": "메서"
+        "text": "룬 절단도"
       },
       {
         "type": "Commander Sword",
-        "text": "지휘관 검"
+        "text": "메서"
       },
       {
         "type": "Dark Blade",
-        "text": "어둠의 칼날"
+        "text": "지휘관 검"
       },
       {
         "type": "Broadsword",
-        "text": "넓적검"
+        "text": "어둠의 칼날"
       },
       {
         "type": "Vampiric Blade",
-        "text": "흡혈 칼날"
+        "text": "넓적검"
       },
       {
         "type": "Scimitar",
-        "text": "시미터"
+        "text": "흡혈 칼날"
       },
       {
         "type": "Charred Shortsword",
-        "text": "까맣게 탄 절단도"
+        "text": "시미터"
       },
       {
         "type": "Sickle Sword",
-        "text": "낫 검"
+        "text": "까맣게 탄 절단도"
       },
       {
         "type": "Falchion",
-        "text": "언월도"
+        "text": "낫 검"
       },
       {
         "type": "Treasured Blade",
-        "text": "간수해둔 칼날"
+        "text": "언월도"
       },
       {
         "type": "Cutlass",
-        "text": "커틀라스"
+        "text": "간수해둔 칼날"
       },
       {
         "type": "Rattling Sceptre",
-        "text": "덜컹대는 셉터"
+        "text": "커틀라스"
       },
       {
         "type": "Wrath Sceptre",
-        "text": "진노 셉터"
+        "text": "덜컹대는 셉터"
       },
       {
         "type": "Stoic Sceptre",
-        "text": "엄숙한 셉터"
+        "text": "진노 셉터"
       },
       {
         "type": "Omen Sceptre",
-        "text": "징조 셉터"
+        "text": "엄숙한 셉터"
       },
       {
         "type": "Shrine Sceptre",
-        "text": "성소 셉터"
+        "text": "징조 셉터"
       },
       {
         "type": "Withered Wand",
-        "text": "말라버린 마법봉"
+        "text": "성소 셉터"
       },
       {
         "type": "Dueling Wand",
-        "text": "결투 마법봉"
+        "text": "말라버린 마법봉"
       },
       {
         "type": "Bone Wand",
-        "text": "뼈 마법봉"
+        "text": "결투 마법봉"
       },
       {
         "type": "Attuned Wand",
+        "text": "뼈 마법봉"
+      },
+      {
+        "type": "Siphoning Wand",
         "text": "조율된 마법봉"
       },
       {
-        "type": "Siphoning Wand",
-        "text": "착취 마법봉"
-      },
-      {
         "type": "Volatile Wand",
-        "text": "폭발성 마법봉"
+        "text": "착취 마법봉"
       },
       {
         "type": "Galvanic Wand",
-        "text": "충격 마법봉"
+        "text": "폭발성 마법봉"
       },
       {
         "type": "Acrid Wand",
-        "text": "매서운 마법봉"
+        "text": "충격 마법봉"
       },
       {
         "type": "Twisted Wand",
-        "text": "뒤틀린 마법봉"
+        "text": "매서운 마법봉"
       },
       {
         "type": "Crude Bow",
-        "text": "조잡한 활"
+        "text": "뒤틀린 마법봉"
       },
       {
         "type": "Tribal Bow",
-        "text": "부족 활"
+        "text": "조잡한 활"
       },
       {
         "type": "Heavy Bow",
-        "text": "무거운 활"
+        "text": "부족 활"
       },
       {
         "type": "Shortbow",
-        "text": "단궁"
+        "text": "무거운 활"
       },
       {
         "type": "Snakewood Shortbow",
-        "text": "뱀나무 단궁"
+        "text": "단궁"
       },
       {
         "type": "Ironwood Shortbow",
-        "text": "철목 단궁"
+        "text": "뱀나무 단궁"
       },
       {
         "type": "Warden Bow",
-        "text": "간수 활"
+        "text": "철목 단궁"
       },
       {
         "type": "Protector Bow",
-        "text": "보호자 활"
+        "text": "간수 활"
       },
       {
         "type": "Guardian Bow",
-        "text": "수호자 활"
+        "text": "보호자 활"
       },
       {
         "type": "Recurve Bow",
-        "text": "반곡궁"
+        "text": "수호자 활"
       },
       {
         "type": "Composite Bow",
-        "text": "합성궁"
+        "text": "반곡궁"
       },
       {
         "type": "Rider Bow",
-        "text": "기수 활"
+        "text": "합성궁"
       },
       {
         "type": "Cavalry Bow",
-        "text": "기병대 활"
+        "text": "기수 활"
       },
       {
         "type": "Dualstring Bow",
-        "text": "이중시위 활"
+        "text": "기병대 활"
       },
       {
         "type": "Twin Bow",
-        "text": "쌍둥이 활"
+        "text": "이중시위 활"
       },
       {
         "type": "Gemini Bow",
-        "text": "쌍둥이자리 활"
+        "text": "쌍둥이 활"
       },
       {
         "type": "Cultist Bow",
-        "text": "광신자 활"
+        "text": "쌍둥이자리 활"
       },
       {
         "type": "Adherent Bow",
-        "text": "지지자 활"
+        "text": "광신자 활"
       },
       {
         "type": "Fanatic Bow",
-        "text": "광신도 활"
+        "text": "지지자 활"
       },
       {
         "type": "Zealot Bow",
-        "text": "맹신자 활"
+        "text": "광신도 활"
       },
       {
         "type": "Militant Bow",
-        "text": "호전적인 활"
+        "text": "맹신자 활"
       },
       {
         "type": "Warmonger Bow",
-        "text": "전쟁광 활"
+        "text": "호전적인 활"
       },
       {
         "type": "Artillery Bow",
-        "text": "포대 활"
+        "text": "전쟁광 활"
       },
       {
         "type": "Obliterator Bow",
-        "text": "절멸자 활"
+        "text": "포대 활"
       },
       {
         "type": "Heartwood Shortbow",
-        "text": "심목 단궁"
+        "text": "절멸자 활"
       },
       {
         "type": "Runeforged Crude Bow",
-        "text": "룬벼림 조잡한 활"
+        "text": "심목 단궁"
       },
       {
         "type": "Runeforged Shortbow",
-        "text": "룬벼림 단궁"
+        "text": "룬벼림 조잡한 활"
       },
       {
         "type": "Runeforged Recurve Bow",
-        "text": "룬벼림 반곡궁"
+        "text": "룬벼림 단궁"
       },
       {
         "type": "Runeforged Composite Bow",
-        "text": "룬벼림 합성궁"
+        "text": "룬벼림 반곡궁"
       },
       {
         "type": "Runeforged Dualstring Bow",
-        "text": "룬벼림 이중시위 활"
+        "text": "룬벼림 합성궁"
       },
       {
         "type": "Runeforged Zealot Bow",
-        "text": "룬벼림 맹신자 활"
+        "text": "룬벼림 이중시위 활"
       },
       {
         "type": "Makeshift Crossbow",
-        "text": "임시 석궁"
+        "text": "룬벼림 맹신자 활"
       },
       {
         "type": "Piercing Crossbow",
-        "text": "관통 석궁"
+        "text": "임시 석궁"
       },
       {
         "type": "Elegant Crossbow",
-        "text": "우아한 석궁"
+        "text": "관통 석궁"
       },
       {
         "type": "Trarthan Cannon",
-        "text": "트라투스 대포"
+        "text": "우아한 석궁"
       },
       {
         "type": "Tense Crossbow",
-        "text": "팽팽한 석궁"
+        "text": "트라투스 대포"
       },
       {
         "type": "Taut Crossbow",
-        "text": "몸 풀린 석궁"
+        "text": "팽팽한 석궁"
       },
       {
         "type": "Flexed Crossbow",
-        "text": "튼튼한 석궁"
+        "text": "몸 풀린 석궁"
       },
       {
         "type": "Sturdy Crossbow",
-        "text": "탄탄한 석궁"
+        "text": "튼튼한 석궁"
       },
       {
         "type": "Robust Crossbow",
-        "text": "완강한 석궁"
+        "text": "탄탄한 석궁"
       },
       {
         "type": "Stout Crossbow",
-        "text": "광택 나는 석궁"
+        "text": "완강한 석궁"
       },
       {
         "type": "Varnished Crossbow",
-        "text": "도색된 석궁"
+        "text": "광택 나는 석궁"
       },
       {
         "type": "Painted Crossbow",
-        "text": "아로새긴 석궁"
+        "text": "도색된 석궁"
       },
       {
         "type": "Engraved Crossbow",
-        "text": "이중 석궁"
+        "text": "아로새긴 석궁"
       },
       {
         "type": "Dyad Crossbow",
-        "text": "쌍둥이 석궁"
+        "text": "이중 석궁"
       },
       {
         "type": "Twin Crossbow",
-        "text": "쌍둥이자리 석궁"
+        "text": "쌍둥이 석궁"
       },
       {
         "type": "Gemini Crossbow",
-        "text": "합금 석궁"
+        "text": "쌍둥이자리 석궁"
       },
       {
         "type": "Alloy Crossbow",
-        "text": "포격 석궁"
+        "text": "합금 석궁"
       },
       {
         "type": "Bombard Crossbow",
-        "text": "연속 포격 석궁"
+        "text": "포격 석궁"
       },
       {
         "type": "Cannonade Crossbow",
-        "text": "공성 석궁"
+        "text": "연속 포격 석궁"
       },
       {
         "type": "Siege Crossbow",
-        "text": "구조물 석궁"
+        "text": "공성 석궁"
       },
       {
         "type": "Construct Crossbow",
-        "text": "음산한 석궁"
+        "text": "구조물 석궁"
       },
       {
         "type": "Bleak Crossbow",
-        "text": "황량한 석궁"
+        "text": "음산한 석궁"
       },
       {
         "type": "Desolate Crossbow",
-        "text": "검은불 석궁"
+        "text": "황량한 석궁"
       },
       {
         "type": "Blackfire Crossbow",
-        "text": "룬벼림 임시 석궁"
+        "text": "검은불 석궁"
       },
       {
         "type": "Runeforged Makeshift Crossbow",
-        "text": "룬벼림 팽팽한 석궁"
+        "text": "룬벼림 임시 석궁"
       },
       {
         "type": "Runeforged Tense Crossbow",
-        "text": "룬숙련 팽팽한 석궁"
+        "text": "룬벼림 팽팽한 석궁"
       },
       {
         "type": "Runemastered Tense Crossbow",
-        "text": "룬벼림 이중 석궁"
+        "text": "룬숙련 팽팽한 석궁"
       },
       {
         "type": "Runeforged Dyad Crossbow",
-        "text": "룬숙련 이중 석궁"
+        "text": "룬벼림 이중 석궁"
       },
       {
         "type": "Runemastered Dyad Crossbow",
-        "text": "싸맨 육척봉"
+        "text": "룬숙련 이중 석궁"
       },
       {
         "type": "Wrapped Quarterstaff",
-        "text": "매끄러운 육척봉"
+        "text": "싸맨 육척봉"
       },
       {
         "type": "Smooth Quarterstaff",
-        "text": "몽환의 육척봉"
+        "text": "매끄러운 육척봉"
       },
       {
         "type": "Dreaming Quarterstaff",
-        "text": "아룡 육척봉"
+        "text": "몽환의 육척봉"
       },
       {
         "type": "Wyrm Quarterstaff",
-        "text": "긴 육척봉"
+        "text": "아룡 육척봉"
       },
       {
         "type": "Long Quarterstaff",
-        "text": "뻗치는 육척봉"
+        "text": "긴 육척봉"
       },
       {
         "type": "Reaching Quarterstaff",
-        "text": "타격하는 육척봉"
+        "text": "뻗치는 육척봉"
       },
       {
         "type": "Striking Quarterstaff",
-        "text": "고딕 육척봉"
+        "text": "타격하는 육척봉"
       },
       {
         "type": "Gothic Quarterstaff",
-        "text": "상스러운 육척봉"
+        "text": "고딕 육척봉"
       },
       {
         "type": "Barbarous Quarterstaff",
-        "text": "험악한 육척봉"
+        "text": "상스러운 육척봉"
       },
       {
         "type": "Sinister Quarterstaff",
-        "text": "치직대는 육척봉"
+        "text": "험악한 육척봉"
       },
       {
         "type": "Crackling Quarterstaff",
-        "text": "전호의 육척봉"
+        "text": "치직대는 육척봉"
       },
       {
         "type": "Arcing Quarterstaff",
-        "text": "번갯불의 육척봉"
+        "text": "전호의 육척봉"
       },
       {
         "type": "Bolting Quarterstaff",
-        "text": "초승달 육척봉"
+        "text": "번갯불의 육척봉"
       },
       {
         "type": "Crescent Quarterstaff",
-        "text": "차오르는 육척봉"
+        "text": "초승달 육척봉"
       },
       {
         "type": "Waxing Quarterstaff",
-        "text": "달의 육척봉"
+        "text": "차오르는 육척봉"
       },
       {
         "type": "Lunar Quarterstaff",
-        "text": "강철침 육척봉"
+        "text": "달의 육척봉"
       },
       {
         "type": "Steelpoint Quarterstaff",
-        "text": "저미는 육척봉"
+        "text": "강철침 육척봉"
       },
       {
         "type": "Slicing Quarterstaff",
-        "text": "칼날 육척봉"
+        "text": "저미는 육척봉"
       },
       {
         "type": "Bladed Quarterstaff",
-        "text": "면도날 육척봉"
+        "text": "칼날 육척봉"
       },
       {
         "type": "Razor Quarterstaff",
-        "text": "방벽 육척봉"
+        "text": "면도날 육척봉"
       },
       {
         "type": "Barrier Quarterstaff",
-        "text": "수호자 육척봉"
+        "text": "방벽 육척봉"
       },
       {
         "type": "Guardian Quarterstaff",
-        "text": "비호 육척봉"
+        "text": "수호자 육척봉"
       },
       {
         "type": "Aegis Quarterstaff",
-        "text": "장대한 육척봉"
+        "text": "비호 육척봉"
       },
       {
         "type": "Hefty Quarterstaff",
-        "text": "두개골 타쇄자 육척봉"
+        "text": "장대한 육척봉"
       },
       {
         "type": "Skullcrusher Quarterstaff",
-        "text": "수호하는 육척봉"
+        "text": "두개골 타쇄자 육척봉"
       },
       {
         "type": "Warding Quarterstaff",
-        "text": "룬숙련 수호하는 육척봉"
+        "text": "수호하는 육척봉"
       },
       {
         "type": "Runemastered Warding Quarterstaff",
-        "text": "룬벼림 싸맨 육척봉"
+        "text": "룬숙련 수호하는 육척봉"
       },
       {
         "type": "Runeforged Wrapped Quarterstaff",
-        "text": "룬벼림 긴 육척봉"
+        "text": "룬벼림 싸맨 육척봉"
       },
       {
         "type": "Runeforged Long Quarterstaff",
-        "text": "룬숙련 긴 육척봉"
+        "text": "룬벼림 긴 육척봉"
       },
       {
         "type": "Runemastered Long Quarterstaff",
-        "text": "룬벼림 고딕 육척봉"
+        "text": "룬숙련 긴 육척봉"
       },
       {
         "type": "Runeforged Gothic Quarterstaff",
-        "text": "룬숙련 고딕 육척봉"
+        "text": "룬벼림 고딕 육척봉"
       },
       {
         "type": "Runemastered Gothic Quarterstaff",
-        "text": "룬벼림 초승달 육척봉"
+        "text": "룬숙련 고딕 육척봉"
       },
       {
         "type": "Runeforged Crescent Quarterstaff",
-        "text": "룬벼림 강철침 육척봉"
+        "text": "룬벼림 초승달 육척봉"
       },
       {
         "type": "Runeforged Steelpoint Quarterstaff",
-        "text": "잿빛 지팡이"
+        "text": "룬벼림 강철침 육척봉"
       },
       {
         "type": "Ashen Staff",
-        "text": "포효하는 지팡이"
+        "text": "잿빛 지팡이"
       },
       {
         "type": "Roaring Staff",
-        "text": "마비시키는 지팡이"
+        "text": "포효하는 지팡이"
       },
       {
         "type": "Paralysing Staff",
-        "text": "축성된 지팡이"
+        "text": "마비시키는 지팡이"
       },
       {
         "type": "Sanctified Staff",
-        "text": "굶주린 지팡이"
+        "text": "축성된 지팡이"
       },
       {
         "type": "Ravenous Staff",
-        "text": "극한의 지팡이"
+        "text": "굶주린 지팡이"
       },
       {
         "type": "Gelid Staff",
-        "text": "전도성 지팡이"
+        "text": "극한의 지팡이"
       },
       {
         "type": "Voltaic Staff",
-        "text": "불저항 지팡이"
+        "text": "전도성 지팡이"
       },
       {
         "type": "Pyrophyte Staff",
-        "text": "차임벨 지팡이"
+        "text": "불저항 지팡이"
       },
       {
         "type": "Chiming Staff",
-        "text": "낫질 지팡이"
+        "text": "차임벨 지팡이"
       },
       {
         "type": "Reaping Staff",
-        "text": "만년설 지팡이"
+        "text": "낫질 지팡이"
       },
       {
         "type": "Permafrost Staff",
-        "text": "투영하는 지팡이"
+        "text": "만년설 지팡이"
       },
       {
         "type": "Reflecting Staff",
-        "text": "홰 지팡이"
+        "text": "투영하는 지팡이"
       },
       {
         "type": "Perching Staff",
-        "text": "체인질링 부적"
+        "text": "홰 지팡이"
       },
       {
         "type": "Changeling Talisman",
-        "text": "굼뜬 부적"
-      },
-      {
-        "type": "Lumbering Talisman",
-        "text": "비취 부적"
-      },
-      {
-        "type": "Jade Talisman",
-        "text": "쐐기풀 부적"
-      },
-      {
-        "type": "Nettle Talisman",
-        "text": "가시투성이 부적"
-      },
-      {
-        "type": "Spiny Talisman",
-        "text": "재껍질 부적"
-      },
-      {
-        "type": "Cinderbark Talisman",
-        "text": "가문의 부적"
-      },
-      {
-        "type": "Ashbark Talisman",
-        "text": "송곳니 부적"
-      },
-      {
-        "type": "Familial Talisman",
-        "text": "격분의 부적"
-      },
-      {
-        "type": "Fang Talisman",
-        "text": "버섯 부적"
-      },
-      {
-        "type": "Frenzied Talisman",
-        "text": "원시 부적"
-      },
-      {
-        "type": "Fungal Talisman",
-        "text": "울부짖는 부적"
-      },
-      {
-        "type": "Primal Talisman",
-        "text": "우두머리 부적"
-      },
-      {
-        "type": "Howling Talisman",
-        "text": "광포한 부적"
-      },
-      {
-        "type": "Alpha Talisman",
-        "text": "광분 부적"
-      },
-      {
-        "type": "Rabid Talisman",
-        "text": "마지 부적"
-      },
-      {
-        "type": "Fury Talisman",
-        "text": "포악한 부적"
-      },
-      {
-        "type": "Maji Talisman",
-        "text": "잔혹한 부적"
-      },
-      {
-        "type": "Vicious Talisman",
-        "text": "야생림 부적"
-      },
-      {
-        "type": "Cruel Talisman",
-        "text": "전기송곳니 부적"
-      },
-      {
-        "type": "Wildwood Talisman",
-        "text": "천둥 부적"
-      },
-      {
-        "type": "Voltfang Talisman",
-        "text": "룬벼림 체인질링 부적"
-      },
-      {
-        "type": "Thunder Talisman",
-        "text": "룬벼림 쐐기풀 부적"
-      },
-      {
-        "type": "Runeforged Changeling Talisman",
-        "text": "룬숙련 쐐기풀 부적"
-      },
-      {
-        "type": "Runeforged Nettle Talisman",
-        "text": "룬벼림 가문의 부적"
-      },
-      {
-        "type": "Runemastered Nettle Talisman",
-        "text": "룬숙련 가문의 부적"
-      },
-      {
-        "type": "Runeforged Familial Talisman",
-        "text": "룬벼림 포악한 부적"
-      },
-      {
-        "type": "Runemastered Familial Talisman",
-        "text": "분할의 대도끼"
-      },
-      {
-        "type": "Runeforged Vicious Talisman",
-        "text": "잉걸불 대도끼"
-      },
-      {
-        "type": "Splitting Greataxe",
-        "text": "의식용 미늘창"
-      },
-      {
-        "type": "Ember Greataxe",
-        "text": "기념비 대도끼"
-      },
-      {
-        "type": "Ceremonial Halberd",
-        "text": "끔찍한 대도끼"
-      },
-      {
-        "type": "Monument Greataxe",
-        "text": "경량 미늘창"
-      },
-      {
-        "type": "Vile Greataxe",
-        "text": "사형 집행자 대도끼"
-      },
-      {
-        "type": "Light Halberd",
-        "text": "아치형 대도끼"
-      },
-      {
-        "type": "Executioner Greataxe",
-        "text": "고상한 글레이브"
-      },
-      {
-        "type": "Arched Greataxe",
-        "text": "야만 대도끼"
-      },
-      {
-        "type": "Elegant Glaive",
-        "text": "분리의 미늘창"
-      },
-      {
-        "type": "Savage Greataxe",
-        "text": "삐죽삐죽한 대도끼"
-      },
-      {
-        "type": "Rending Halberd",
-        "text": "강탈자 글레이브"
-      },
-      {
-        "type": "Jagged Greataxe",
-        "text": "쓰러진 대곤봉"
-      },
-      {
-        "type": "Reaver Glaive",
-        "text": "토템의 대곤봉"
-      },
-      {
-        "type": "Felled Greatclub",
-        "text": "타호아의 대곤봉"
-      },
-      {
-        "type": "Totemic Greatclub",
-        "text": "거대 대형 망치"
-      },
-      {
-        "type": "Tawhoan Greatclub",
-        "text": "참나무 대망치"
-      },
-      {
-        "type": "Giant Maul",
-        "text": "뱀나무 대망치"
-      },
-      {
-        "type": "Oak Greathammer",
-        "text": "철목 대망치"
-      },
-      {
-        "type": "Snakewood Greathammer",
-        "text": "대장간 대형 망치"
-      },
-      {
-        "type": "Ironwood Greathammer",
-        "text": "대장장이 대형 망치"
-      },
-      {
-        "type": "Forge Maul",
-        "text": "모루 대형 망치"
-      },
-      {
-        "type": "Blacksmith Maul",
-        "text": "징 박힌 대곤봉"
-      },
-      {
-        "type": "Anvil Maul",
-        "text": "광신자 대망치"
-      },
-      {
-        "type": "Studded Greatclub",
-        "text": "맹신자 대망치"
-      },
-      {
-        "type": "Cultist Greathammer",
-        "text": "광신도 대망치"
-      },
-      {
-        "type": "Zealot Greathammer",
-        "text": "사원 대형 망치"
-      },
-      {
-        "type": "Fanatic Greathammer",
-        "text": "엄숙한 대형 망치"
-      },
-      {
-        "type": "Temple Maul",
-        "text": "신성한 대형 망치"
-      },
-      {
-        "type": "Solemn Maul",
-        "text": "납빛 대망치"
-      },
-      {
-        "type": "Sacred Maul",
-        "text": "무거운 대망치"
-      },
-      {
-        "type": "Leaden Greathammer",
-        "text": "거대한 대망치"
-      },
-      {
-        "type": "Heavy Greathammer",
-        "text": "허물어지는 대형 망치"
-      },
-      {
-        "type": "Massive Greathammer",
-        "text": "분해시키는 대형 망치"
-      },
-      {
-        "type": "Crumbling Maul",
-        "text": "폐허의 대형 망치"
-      },
-      {
-        "type": "Disintegrating Maul",
-        "text": "뾰족한 대형 망치"
-      },
-      {
-        "type": "Ruination Maul",
-        "text": "특이한 대형 양손 망치"
-      },
-      {
-        "type": "Pointed Maul",
-        "text": "룬숙련 특이한 대형 양손 망치"
-      },
-      {
-        "type": "Aberrant Sledge",
-        "text": "룬벼림 쓰러진 대곤봉"
-      },
-      {
-        "type": "Runemastered Aberrant Sledge",
-        "text": "룬숙련 쓰러진 대곤봉"
-      },
-      {
-        "type": "Runeforged Felled Greatclub",
-        "text": "룬벼림 참나무 대망치"
-      },
-      {
-        "type": "Runemastered Felled Greatclub",
-        "text": "룬숙련 참나무 대망치"
-      },
-      {
-        "type": "Runeforged Oak Greathammer",
-        "text": "룬벼림 대장간 대형 망치"
-      },
-      {
-        "type": "Runemastered Oak Greathammer",
-        "text": "룬벼림 징 박힌 대곤봉"
-      },
-      {
-        "type": "Runeforged Forge Maul",
-        "text": "룬숙련 징 박힌 대곤봉"
-      },
-      {
-        "type": "Runeforged Studded Greatclub",
-        "text": "룬벼림 광신자 대망치"
-      },
-      {
-        "type": "Runemastered Studded Greatclub",
-        "text": "룬벼림 사원 대형 망치"
-      },
-      {
-        "type": "Runeforged Cultist Greathammer",
-        "text": "룬벼림 납빛 대망치"
-      },
-      {
-        "type": "Runeforged Temple Maul",
-        "text": "룬벼림 허물어지는 대형 망치"
-      },
-      {
-        "type": "Runeforged Leaden Greathammer",
-        "text": "룬벼림 뾰족한 대형 망치"
-      },
-      {
-        "type": "Runeforged Crumbling Maul",
-        "text": "부식된 장검"
-      },
-      {
-        "type": "Runeforged Pointed Maul",
-        "text": "고대 대칼날"
-      },
-      {
-        "type": "Corroded Longsword",
-        "text": "테두리 대칼날"
-      },
-      {
-        "type": "Ancient Greatblade",
-        "text": "예복 장검"
-      },
-      {
-        "type": "Flanged Greatblade",
-        "text": "초거대 대검"
-      },
-      {
-        "type": "Regalia Longsword",
-        "text": "철 대검"
-      },
-      {
-        "type": "Ultra Greatsword",
-        "text": "축복받은 클레이모어"
-      },
-      {
-        "type": "Iron Greatsword",
-        "text": "넓은날 대검"
-      },
-      {
-        "type": "Blessed Claymore",
-        "text": "파문 대검"
-      },
-      {
-        "type": "Broad Greatsword",
-        "text": "원호 장검"
-      },
-      {
-        "type": "Rippled Greatsword",
-        "text": "돌 대검"
-      },
-      {
-        "type": "Arced Longsword",
-        "text": "흑요석 대검"
-      },
-      {
-        "type": "Stone Greatsword",
-        "text": "예리한 대검"
-      },
-      {
-        "type": "Obsidian Greatsword",
-        "text": "착취 마법봉"
-      },
-      {
-        "type": "Keen Greatsword",
         "text": "체인질링 부적"
       },
       {
+        "type": "Lumbering Talisman",
+        "text": "굼뜬 부적"
+      },
+      {
+        "type": "Jade Talisman",
+        "text": "비취 부적"
+      },
+      {
+        "type": "Nettle Talisman",
+        "text": "쐐기풀 부적"
+      },
+      {
+        "type": "Spiny Talisman",
+        "text": "가시투성이 부적"
+      },
+      {
+        "type": "Cinderbark Talisman",
+        "text": "재껍질 부적"
+      },
+      {
+        "type": "Ashbark Talisman",
+        "text": "가문의 부적"
+      },
+      {
+        "type": "Familial Talisman",
+        "text": "송곳니 부적"
+      },
+      {
+        "type": "Fang Talisman",
+        "text": "격분의 부적"
+      },
+      {
+        "type": "Frenzied Talisman",
+        "text": "버섯 부적"
+      },
+      {
+        "type": "Fungal Talisman",
+        "text": "원시 부적"
+      },
+      {
+        "type": "Primal Talisman",
+        "text": "울부짖는 부적"
+      },
+      {
+        "type": "Howling Talisman",
+        "text": "우두머리 부적"
+      },
+      {
+        "type": "Alpha Talisman",
+        "text": "광포한 부적"
+      },
+      {
+        "type": "Rabid Talisman",
+        "text": "광분 부적"
+      },
+      {
+        "type": "Fury Talisman",
+        "text": "마지 부적"
+      },
+      {
+        "type": "Maji Talisman",
+        "text": "포악한 부적"
+      },
+      {
+        "type": "Vicious Talisman",
+        "text": "잔혹한 부적"
+      },
+      {
+        "type": "Cruel Talisman",
+        "text": "야생림 부적"
+      },
+      {
+        "type": "Wildwood Talisman",
+        "text": "전기송곳니 부적"
+      },
+      {
+        "type": "Voltfang Talisman",
+        "text": "천둥 부적"
+      },
+      {
+        "type": "Thunder Talisman",
+        "text": "룬벼림 체인질링 부적"
+      },
+      {
+        "type": "Runeforged Changeling Talisman",
+        "text": "룬벼림 쐐기풀 부적"
+      },
+      {
+        "type": "Runeforged Nettle Talisman",
+        "text": "룬숙련 쐐기풀 부적"
+      },
+      {
+        "type": "Runemastered Nettle Talisman",
+        "text": "룬벼림 가문의 부적"
+      },
+      {
+        "type": "Runeforged Familial Talisman",
+        "text": "룬숙련 가문의 부적"
+      },
+      {
+        "type": "Runemastered Familial Talisman",
+        "text": "룬벼림 포악한 부적"
+      },
+      {
+        "type": "Runeforged Vicious Talisman",
+        "text": "분할의 대도끼"
+      },
+      {
+        "type": "Splitting Greataxe",
+        "text": "잉걸불 대도끼"
+      },
+      {
+        "type": "Ember Greataxe",
+        "text": "의식용 미늘창"
+      },
+      {
+        "type": "Ceremonial Halberd",
+        "text": "기념비 대도끼"
+      },
+      {
+        "type": "Monument Greataxe",
+        "text": "끔찍한 대도끼"
+      },
+      {
+        "type": "Vile Greataxe",
+        "text": "경량 미늘창"
+      },
+      {
+        "type": "Light Halberd",
+        "text": "사형 집행자 대도끼"
+      },
+      {
+        "type": "Executioner Greataxe",
+        "text": "아치형 대도끼"
+      },
+      {
+        "type": "Arched Greataxe",
+        "text": "고상한 글레이브"
+      },
+      {
+        "type": "Elegant Glaive",
+        "text": "야만 대도끼"
+      },
+      {
+        "type": "Savage Greataxe",
+        "text": "분리의 미늘창"
+      },
+      {
+        "type": "Rending Halberd",
+        "text": "삐죽삐죽한 대도끼"
+      },
+      {
+        "type": "Jagged Greataxe",
+        "text": "강탈자 글레이브"
+      },
+      {
+        "type": "Reaver Glaive",
+        "text": "쓰러진 대곤봉"
+      },
+      {
+        "type": "Felled Greatclub",
+        "text": "토템의 대곤봉"
+      },
+      {
+        "type": "Totemic Greatclub",
+        "text": "타호아의 대곤봉"
+      },
+      {
+        "type": "Tawhoan Greatclub",
+        "text": "거대 대형 망치"
+      },
+      {
+        "type": "Giant Maul",
+        "text": "참나무 대망치"
+      },
+      {
+        "type": "Oak Greathammer",
+        "text": "뱀나무 대망치"
+      },
+      {
+        "type": "Snakewood Greathammer",
+        "text": "철목 대망치"
+      },
+      {
+        "type": "Ironwood Greathammer",
+        "text": "대장간 대형 망치"
+      },
+      {
+        "type": "Forge Maul",
+        "text": "대장장이 대형 망치"
+      },
+      {
+        "type": "Blacksmith Maul",
+        "text": "모루 대형 망치"
+      },
+      {
+        "type": "Anvil Maul",
+        "text": "징 박힌 대곤봉"
+      },
+      {
+        "type": "Studded Greatclub",
+        "text": "광신자 대망치"
+      },
+      {
+        "type": "Cultist Greathammer",
+        "text": "맹신자 대망치"
+      },
+      {
+        "type": "Zealot Greathammer",
+        "text": "광신도 대망치"
+      },
+      {
+        "type": "Fanatic Greathammer",
+        "text": "사원 대형 망치"
+      },
+      {
+        "type": "Temple Maul",
+        "text": "엄숙한 대형 망치"
+      },
+      {
+        "type": "Solemn Maul",
+        "text": "신성한 대형 망치"
+      },
+      {
+        "type": "Sacred Maul",
+        "text": "납빛 대망치"
+      },
+      {
+        "type": "Leaden Greathammer",
+        "text": "무거운 대망치"
+      },
+      {
+        "type": "Heavy Greathammer",
+        "text": "거대한 대망치"
+      },
+      {
+        "type": "Massive Greathammer",
+        "text": "허물어지는 대형 망치"
+      },
+      {
+        "type": "Crumbling Maul",
+        "text": "분해시키는 대형 망치"
+      },
+      {
+        "type": "Disintegrating Maul",
+        "text": "폐허의 대형 망치"
+      },
+      {
+        "type": "Ruination Maul",
+        "text": "뾰족한 대형 망치"
+      },
+      {
+        "type": "Pointed Maul",
+        "text": "특이한 대형 양손 망치"
+      },
+      {
+        "type": "Aberrant Sledge",
+        "text": "룬숙련 특이한 대형 양손 망치"
+      },
+      {
+        "type": "Runemastered Aberrant Sledge",
+        "text": "룬벼림 쓰러진 대곤봉"
+      },
+      {
+        "type": "Runeforged Felled Greatclub",
+        "text": "룬숙련 쓰러진 대곤봉"
+      },
+      {
+        "type": "Runemastered Felled Greatclub",
+        "text": "룬벼림 참나무 대망치"
+      },
+      {
+        "type": "Runeforged Oak Greathammer",
+        "text": "룬숙련 참나무 대망치"
+      },
+      {
+        "type": "Runemastered Oak Greathammer",
+        "text": "룬벼림 대장간 대형 망치"
+      },
+      {
+        "type": "Runeforged Forge Maul",
+        "text": "룬벼림 징 박힌 대곤봉"
+      },
+      {
+        "type": "Runeforged Studded Greatclub",
+        "text": "룬숙련 징 박힌 대곤봉"
+      },
+      {
+        "type": "Runemastered Studded Greatclub",
+        "text": "룬벼림 광신자 대망치"
+      },
+      {
+        "type": "Runeforged Cultist Greathammer",
+        "text": "룬벼림 사원 대형 망치"
+      },
+      {
+        "type": "Runeforged Temple Maul",
+        "text": "룬벼림 납빛 대망치"
+      },
+      {
+        "type": "Runeforged Leaden Greathammer",
+        "text": "룬벼림 허물어지는 대형 망치"
+      },
+      {
+        "type": "Runeforged Crumbling Maul",
+        "text": "룬벼림 뾰족한 대형 망치"
+      },
+      {
+        "type": "Runeforged Pointed Maul",
+        "text": "부식된 장검"
+      },
+      {
+        "type": "Corroded Longsword",
+        "text": "고대 대칼날"
+      },
+      {
+        "type": "Ancient Greatblade",
+        "text": "테두리 대칼날"
+      },
+      {
+        "type": "Flanged Greatblade",
+        "text": "예복 장검"
+      },
+      {
+        "type": "Regalia Longsword",
+        "text": "초거대 대검"
+      },
+      {
+        "type": "Ultra Greatsword",
+        "text": "철 대검"
+      },
+      {
+        "type": "Iron Greatsword",
+        "text": "축복받은 클레이모어"
+      },
+      {
+        "type": "Blessed Claymore",
+        "text": "넓은날 대검"
+      },
+      {
+        "type": "Broad Greatsword",
+        "text": "파문 대검"
+      },
+      {
+        "type": "Rippled Greatsword",
+        "text": "원호 장검"
+      },
+      {
+        "type": "Arced Longsword",
+        "text": "돌 대검"
+      },
+      {
+        "type": "Stone Greatsword",
+        "text": "흑요석 대검"
+      },
+      {
+        "type": "Obsidian Greatsword",
+        "text": "예리한 대검"
+      },
+      {
+        "type": "Keen Greatsword",
+        "text": "착취 마법봉"
+      },
+      {
         "type": "Siphoning Wand",
-        "text": "아모르 만드라고라 룬벼림 체인질링 부적",
+        "text": "아모르 만드라고라 체인질링 부적",
         "name": "Adonia's Ego",
         "flags": {
           "unique": true
@@ -16796,7 +16841,7 @@
       },
       {
         "type": "Changeling Talisman",
-        "text": "앗지리의 경멸 갈래진 창",
+        "text": "아모르 만드라고라 룬벼림 체인질링 부적",
         "name": "Amor Mandragora",
         "flags": {
           "unique": true
@@ -16804,7 +16849,7 @@
       },
       {
         "type": "Runeforged Changeling Talisman",
-        "text": "앗지리의 통치 투영하는 지팡이",
+        "text": "앗지리의 경멸 갈래진 창",
         "name": "Amor Mandragora",
         "disc": "legacy",
         "flags": {
@@ -16813,7 +16858,7 @@
       },
       {
         "type": "Pronged Spear",
-        "text": "푸른혀 절단도",
+        "text": "앗지리의 통치 투영하는 지팡이",
         "name": "Atziri's Contempt",
         "flags": {
           "unique": true
@@ -16821,7 +16866,7 @@
       },
       {
         "type": "Reflecting Staff",
-        "text": "요동치는 두뇌 징 박힌 대곤봉",
+        "text": "푸른혀 절단도",
         "name": "Atziri's Rule",
         "flags": {
           "unique": true
@@ -16829,7 +16874,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "요동치는 두뇌 룬벼림 징 박힌 대곤봉",
+        "text": "요동치는 두뇌 징 박힌 대곤봉",
         "name": "Bluetongue",
         "flags": {
           "unique": true
@@ -16837,7 +16882,7 @@
       },
       {
         "type": "Studded Greatclub",
-        "text": "요동치는 두뇌 룬숙련 징 박힌 대곤봉",
+        "text": "요동치는 두뇌 룬벼림 징 박힌 대곤봉",
         "name": "Brain Rattler",
         "flags": {
           "unique": true
@@ -16845,6 +16890,15 @@
       },
       {
         "type": "Runeforged Studded Greatclub",
+        "text": "요동치는 두뇌 룬숙련 징 박힌 대곤봉",
+        "name": "Brain Rattler",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Studded Greatclub",
         "text": "브루투스의 리드 스프링클러 모닝스타",
         "name": "Brain Rattler",
         "disc": "legacy",
@@ -16853,17 +16907,8 @@
         }
       },
       {
-        "type": "Runemastered Studded Greatclub",
-        "text": "브루투스의 리드 스프링클러 Runeforged Morning Star",
-        "name": "Brain Rattler",
-        "disc": "legacy",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Morning Star",
-        "text": "브린핸드의 징표 목재 곤봉",
+        "text": "브루투스의 리드 스프링클러 Runeforged Morning Star",
         "name": "Brutus' Lead Sprinkler",
         "flags": {
           "unique": true
@@ -16871,7 +16916,7 @@
       },
       {
         "type": "Runeforged Morning Star",
-        "text": "브린핸드의 징표 룬벼림 목재 곤봉",
+        "text": "브린핸드의 징표 목재 곤봉",
         "name": "Brutus' Lead Sprinkler",
         "disc": "legacy",
         "flags": {
@@ -16880,7 +16925,7 @@
       },
       {
         "type": "Wooden Club",
-        "text": "브린핸드의 징표 룬숙련 목재 곤봉",
+        "text": "브린핸드의 징표 룬벼림 목재 곤봉",
         "name": "Brynhand's Mark",
         "flags": {
           "unique": true
@@ -16888,7 +16933,7 @@
       },
       {
         "type": "Runeforged Wooden Club",
-        "text": "사슬침 사냥 창",
+        "text": "브린핸드의 징표 룬숙련 목재 곤봉",
         "name": "Brynhand's Mark",
         "disc": "legacy",
         "flags": {
@@ -16897,7 +16942,7 @@
       },
       {
         "type": "Runemastered Wooden Club",
-        "text": "사슬침 룬벼림 사냥 창",
+        "text": "사슬침 사냥 창",
         "name": "Brynhand's Mark",
         "disc": "legacy",
         "flags": {
@@ -16906,7 +16951,7 @@
       },
       {
         "type": "Hunting Spear",
-        "text": "초버 차버 납빛 대망치",
+        "text": "사슬침 룬벼림 사냥 창",
         "name": "Chainsting",
         "flags": {
           "unique": true
@@ -16914,7 +16959,7 @@
       },
       {
         "type": "Runeforged Hunting Spear",
-        "text": "초버 차버 룬벼림 납빛 대망치",
+        "text": "초버 차버 납빛 대망치",
         "name": "Chainsting",
         "disc": "legacy",
         "flags": {
@@ -16923,7 +16968,7 @@
       },
       {
         "type": "Leaden Greathammer",
-        "text": "무너지는 지평선 아룡 육척봉",
+        "text": "초버 차버 룬벼림 납빛 대망치",
         "name": "Chober Chaber",
         "flags": {
           "unique": true
@@ -16931,7 +16976,7 @@
       },
       {
         "type": "Runeforged Leaden Greathammer",
-        "text": "저주난자 매서운 마법봉",
+        "text": "무너지는 지평선 아룡 육척봉",
         "name": "Chober Chaber",
         "disc": "legacy",
         "flags": {
@@ -16940,7 +16985,7 @@
       },
       {
         "type": "Wyrm Quarterstaff",
-        "text": "다이바타의 바람 전쟁 창",
+        "text": "저주난자 매서운 마법봉",
         "name": "Collapsing Horizon",
         "flags": {
           "unique": true
@@ -16948,7 +16993,7 @@
       },
       {
         "type": "Acrid Wand",
-        "text": "다이바타의 바람 룬벼림 전쟁 창",
+        "text": "다이바타의 바람 전쟁 창",
         "name": "Cursecarver",
         "flags": {
           "unique": true
@@ -16956,7 +17001,7 @@
       },
       {
         "type": "War Spear",
-        "text": "죽음의 하프 이중시위 활",
+        "text": "다이바타의 바람 룬벼림 전쟁 창",
         "name": "Daevata's Wind",
         "flags": {
           "unique": true
@@ -16964,7 +17009,7 @@
       },
       {
         "type": "Runeforged War Spear",
-        "text": "죽음의 하프 룬벼림 이중시위 활",
+        "text": "죽음의 하프 이중시위 활",
         "name": "Daevata's Wind",
         "disc": "legacy",
         "flags": {
@@ -16973,7 +17018,7 @@
       },
       {
         "type": "Dualstring Bow",
-        "text": "죽음의 깃 합성궁",
+        "text": "죽음의 하프 룬벼림 이중시위 활",
         "name": "Death's Harp",
         "flags": {
           "unique": true
@@ -16981,7 +17026,7 @@
       },
       {
         "type": "Runeforged Dualstring Bow",
-        "text": "죽음의 깃 룬벼림 합성궁",
+        "text": "죽음의 깃 합성궁",
         "name": "Death's Harp",
         "disc": "legacy",
         "flags": {
@@ -16990,7 +17035,7 @@
       },
       {
         "type": "Composite Bow",
-        "text": "이중 시각 이중 석궁",
+        "text": "죽음의 깃 룬벼림 합성궁",
         "name": "Doomfletch",
         "flags": {
           "unique": true
@@ -16998,7 +17043,7 @@
       },
       {
         "type": "Runeforged Composite Bow",
-        "text": "이중 시각 룬벼림 이중 석궁",
+        "text": "이중 시각 이중 석궁",
         "name": "Doomfletch",
         "disc": "legacy",
         "flags": {
@@ -17007,7 +17052,7 @@
       },
       {
         "type": "Dyad Crossbow",
-        "text": "이중 시각 룬숙련 이중 석궁",
+        "text": "이중 시각 룬벼림 이중 석궁",
         "name": "Double Vision",
         "flags": {
           "unique": true
@@ -17015,7 +17060,7 @@
       },
       {
         "type": "Runeforged Dyad Crossbow",
-        "text": "이중성 수호하는 육척봉",
+        "text": "이중 시각 룬숙련 이중 석궁",
         "name": "Double Vision",
         "disc": "legacy",
         "flags": {
@@ -17024,7 +17069,7 @@
       },
       {
         "type": "Runemastered Dyad Crossbow",
-        "text": "이중성 룬숙련 수호하는 육척봉",
+        "text": "이중성 수호하는 육척봉",
         "name": "Double Vision",
         "disc": "legacy",
         "flags": {
@@ -17033,7 +17078,7 @@
       },
       {
         "type": "Warding Quarterstaff",
-        "text": "황혼의 불침번 잿빛 지팡이",
+        "text": "이중성 룬숙련 수호하는 육척봉",
         "name": "Duality",
         "flags": {
           "unique": true
@@ -17041,7 +17086,7 @@
       },
       {
         "type": "Runemastered Warding Quarterstaff",
-        "text": "대지결속 전도성 지팡이",
+        "text": "황혼의 불침번 잿빛 지팡이",
         "name": "Duality",
         "disc": "legacy",
         "flags": {
@@ -17050,7 +17095,7 @@
       },
       {
         "type": "Ashen Staff",
-        "text": "에네준의 돌진 폭발성 마법봉",
+        "text": "대지결속 전도성 지팡이",
         "name": "Dusk Vigil",
         "flags": {
           "unique": true
@@ -17058,7 +17103,7 @@
       },
       {
         "type": "Voltaic Staff",
-        "text": "페어그레이브즈의 저주 포대 활",
+        "text": "에네준의 돌진 폭발성 마법봉",
         "name": "Earthbound",
         "flags": {
           "unique": true
@@ -17066,7 +17111,7 @@
       },
       {
         "type": "Volatile Wand",
-        "text": "힘의 샘 징조 셉터",
+        "text": "페어그레이브즈의 저주 포대 활",
         "name": "Enezun's Charge",
         "flags": {
           "unique": true
@@ -17074,7 +17119,7 @@
       },
       {
         "type": "Artillery Bow",
-        "text": "서리 숨결 좁은 철퇴",
+        "text": "힘의 샘 징조 셉터",
         "name": "Fairgraves' Curse",
         "flags": {
           "unique": true
@@ -17082,7 +17127,7 @@
       },
       {
         "type": "Omen Sceptre",
-        "text": "서리 숨결 룬벼림 좁은 철퇴",
+        "text": "서리 숨결 좁은 철퇴",
         "name": "Font of Power",
         "flags": {
           "unique": true
@@ -17090,7 +17135,7 @@
       },
       {
         "type": "Slim Mace",
-        "text": "왕의 광분 재껍질 부적",
+        "text": "서리 숨결 룬벼림 좁은 철퇴",
         "name": "Frostbreath",
         "flags": {
           "unique": true
@@ -17098,7 +17143,7 @@
       },
       {
         "type": "Runeforged Slim Mace",
-        "text": "인도하는 손바닥 성소 셉터",
+        "text": "왕의 광분 재껍질 부적",
         "name": "Frostbreath",
         "disc": "legacy",
         "flags": {
@@ -17107,7 +17152,7 @@
       },
       {
         "type": "Ashbark Talisman",
-        "text": "눈의 인도하는 손바닥 성소 셉터",
+        "text": "인도하는 손바닥 성소 셉터",
         "name": "Fury of the King",
         "flags": {
           "unique": true
@@ -17115,7 +17160,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "심장의 인도하는 손바닥 성소 셉터",
+        "text": "눈의 인도하는 손바닥 성소 셉터",
         "name": "Guiding Palm",
         "disc": "legacy",
         "flags": {
@@ -17124,7 +17169,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "정신의 인도하는 손바닥 성소 셉터",
+        "text": "심장의 인도하는 손바닥 성소 셉터",
         "name": "Guiding Palm of the Eye",
         "flags": {
           "unique": true
@@ -17132,7 +17177,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "돼지사냥 쓰러진 대곤봉",
+        "text": "정신의 인도하는 손바닥 성소 셉터",
         "name": "Guiding Palm of the Heart",
         "flags": {
           "unique": true
@@ -17140,7 +17185,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "돼지사냥 룬벼림 쓰러진 대곤봉",
+        "text": "돼지사냥 쓰러진 대곤봉",
         "name": "Guiding Palm of the Mind",
         "flags": {
           "unique": true
@@ -17148,7 +17193,7 @@
       },
       {
         "type": "Felled Greatclub",
-        "text": "돼지사냥 룬숙련 쓰러진 대곤봉",
+        "text": "돼지사냥 룬벼림 쓰러진 대곤봉",
         "name": "Hoghunt",
         "flags": {
           "unique": true
@@ -17156,7 +17201,7 @@
       },
       {
         "type": "Runeforged Felled Greatclub",
-        "text": "흐림노르의 찬가 참나무 대망치",
+        "text": "돼지사냥 룬숙련 쓰러진 대곤봉",
         "name": "Hoghunt",
         "disc": "legacy",
         "flags": {
@@ -17165,7 +17210,7 @@
       },
       {
         "type": "Runemastered Felled Greatclub",
-        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
+        "text": "흐림노르의 찬가 참나무 대망치",
         "name": "Hoghunt",
         "disc": "legacy",
         "flags": {
@@ -17174,7 +17219,7 @@
       },
       {
         "type": "Oak Greathammer",
-        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
+        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17182,7 +17227,7 @@
       },
       {
         "type": "Runeforged Oak Greathammer",
-        "text": "히세그의 발톱 가문의 부적",
+        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
         "name": "Hrimnor's Hymn",
         "disc": "legacy",
         "flags": {
@@ -17191,7 +17236,7 @@
       },
       {
         "type": "Runemastered Oak Greathammer",
-        "text": "히세그의 발톱 룬벼림 가문의 부적",
+        "text": "히세그의 발톱 가문의 부적",
         "name": "Hrimnor's Hymn",
         "disc": "legacy",
         "flags": {
@@ -17200,7 +17245,7 @@
       },
       {
         "type": "Familial Talisman",
-        "text": "히세그의 발톱 룬숙련 가문의 부적",
+        "text": "히세그의 발톱 룬벼림 가문의 부적",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17208,7 +17253,7 @@
       },
       {
         "type": "Runeforged Familial Talisman",
-        "text": "미완성 무딘 손도끼",
+        "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hysseg's Claw",
         "disc": "legacy",
         "flags": {
@@ -17217,7 +17262,7 @@
       },
       {
         "type": "Runemastered Familial Talisman",
-        "text": "미완성 부식된 장검",
+        "text": "미완성 무딘 손도끼",
         "name": "Hysseg's Claw",
         "disc": "legacy",
         "flags": {
@@ -17233,7 +17278,7 @@
         }
       },
       {
-        "type": "Corroded Longsword",
+        "type": "Chain Flail",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17241,7 +17286,7 @@
         }
       },
       {
-        "type": "Chain Flail",
+        "type": "Hook Axe",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17249,7 +17294,15 @@
         }
       },
       {
-        "type": "Hook Axe",
+        "type": "Broadsword",
+        "text": "미완성 부식된 장검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Corroded Longsword",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17257,7 +17310,7 @@
         }
       },
       {
-        "type": "Broadsword",
+        "type": "Rippled Greatsword",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17265,7 +17318,7 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
+        "type": "Skinning Knife",
         "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17273,7 +17326,7 @@
         }
       },
       {
-        "type": "Skinning Knife",
+        "type": "Charred Shortsword",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17281,7 +17334,7 @@
         }
       },
       {
-        "type": "Charred Shortsword",
+        "type": "Iron Greatsword",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17289,7 +17342,7 @@
         }
       },
       {
-        "type": "Iron Greatsword",
+        "type": "Crone Knife",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17297,7 +17350,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Simple Dagger",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17305,7 +17358,7 @@
         }
       },
       {
-        "type": "Simple Dagger",
+        "type": "Bearded Axe",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17313,7 +17366,7 @@
         }
       },
       {
-        "type": "Bearded Axe",
+        "type": "Splitting Greataxe",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17321,7 +17374,7 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
+        "type": "Executioner Greataxe",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17329,7 +17382,7 @@
         }
       },
       {
-        "type": "Executioner Greataxe",
+        "type": "Moon Dagger",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17337,7 +17390,7 @@
         }
       },
       {
-        "type": "Moon Dagger",
+        "type": "Holy Flail",
         "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17345,7 +17398,7 @@
         }
       },
       {
-        "type": "Holy Flail",
+        "type": "Arched Greataxe",
         "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17353,7 +17406,7 @@
         }
       },
       {
-        "type": "Arched Greataxe",
+        "type": "Hunting Spear",
         "text": "미완성 전쟁 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17361,7 +17414,7 @@
         }
       },
       {
-        "type": "Hunting Spear",
+        "type": "War Spear",
         "text": "미완성 축복받은 클레이모어",
         "name": "INCOMPLETE",
         "flags": {
@@ -17369,7 +17422,7 @@
         }
       },
       {
-        "type": "War Spear",
+        "type": "Blessed Claymore",
         "text": "미완성 쌍둥이 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17377,7 +17430,7 @@
         }
       },
       {
-        "type": "Blessed Claymore",
+        "type": "Twin Flail",
         "text": "미완성 넓은날 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17385,7 +17438,7 @@
         }
       },
       {
-        "type": "Twin Flail",
+        "type": "Broad Greatsword",
         "text": "미완성 도적 손도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17393,7 +17446,7 @@
         }
       },
       {
-        "type": "Broad Greatsword",
+        "type": "Bandit Hatchet",
         "text": "미완성 흡혈 칼날",
         "name": "INCOMPLETE",
         "flags": {
@@ -17401,7 +17454,7 @@
         }
       },
       {
-        "type": "Bandit Hatchet",
+        "type": "Vampiric Blade",
         "text": "미완성 고상한 글레이브",
         "name": "INCOMPLETE",
         "flags": {
@@ -17409,7 +17462,7 @@
         }
       },
       {
-        "type": "Vampiric Blade",
+        "type": "Elegant Glaive",
         "text": "미완성 연장 가로날도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17417,7 +17470,7 @@
         }
       },
       {
-        "type": "Elegant Glaive",
+        "type": "Extended Cleaver",
         "text": "미완성 철창날 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17425,16 +17478,8 @@
         }
       },
       {
-        "type": "Extended Cleaver",
-        "text": "철결속 간수 활",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
         "type": "Ironhead Spear",
-        "text": "생명의 가지 조율된 마법봉",
+        "text": "철결속 간수 활",
         "name": "INCOMPLETE",
         "disc": "legacy",
         "flags": {
@@ -17443,7 +17488,7 @@
       },
       {
         "type": "Warden Bow",
-        "text": "경계 감개 뒤틀린 마법봉",
+        "text": "생명의 가지 조율된 마법봉",
         "name": "Ironbound",
         "flags": {
           "unique": true
@@ -17451,7 +17496,7 @@
       },
       {
         "type": "Attuned Wand",
-        "text": "라이온아이의 섬광 무거운 활",
+        "text": "경계 감개 뒤틀린 마법봉",
         "name": "Lifesprig",
         "flags": {
           "unique": true
@@ -17459,7 +17504,7 @@
       },
       {
         "type": "Twisted Wand",
-        "text": "마로히 에르키 토템의 대곤봉",
+        "text": "라이온아이의 섬광 무거운 활",
         "name": "Liminal Coil",
         "flags": {
           "unique": true
@@ -17467,7 +17512,7 @@
       },
       {
         "type": "Heavy Bow",
-        "text": "마챠 초승달 육척봉",
+        "text": "마로히 에르키 토템의 대곤봉",
         "name": "Lioneye's Glare",
         "flags": {
           "unique": true
@@ -17475,7 +17520,7 @@
       },
       {
         "type": "Totemic Greatclub",
-        "text": "마챠 룬벼림 초승달 육척봉",
+        "text": "마챠 초승달 육척봉",
         "name": "Marohi Erqi",
         "flags": {
           "unique": true
@@ -17483,7 +17528,7 @@
       },
       {
         "type": "Crescent Quarterstaff",
-        "text": "연무의 속삭임 임시 석궁",
+        "text": "마챠 룬벼림 초승달 육척봉",
         "name": "Matsya",
         "flags": {
           "unique": true
@@ -17491,7 +17536,7 @@
       },
       {
         "type": "Runeforged Crescent Quarterstaff",
-        "text": "연무의 속삭임 룬벼림 임시 석궁",
+        "text": "연무의 속삭임 임시 석궁",
         "name": "Matsya",
         "disc": "legacy",
         "flags": {
@@ -17500,7 +17545,7 @@
       },
       {
         "type": "Makeshift Crossbow",
-        "text": "묠니르 고통 곤봉",
+        "text": "연무의 속삭임 룬벼림 임시 석궁",
         "name": "Mist Whisper",
         "flags": {
           "unique": true
@@ -17508,7 +17553,7 @@
       },
       {
         "type": "Runeforged Makeshift Crossbow",
-        "text": "나지르의 심판 강철침 육척봉",
+        "text": "묠니르 고통 곤봉",
         "name": "Mist Whisper",
         "disc": "legacy",
         "flags": {
@@ -17517,15 +17562,24 @@
       },
       {
         "type": "Torment Club",
-        "text": "나지르의 심판 룬벼림 강철침 육척봉",
+        "text": "묠니르 Runemastered Torment Club",
         "name": "Mjölner",
         "flags": {
           "unique": true
         }
       },
       {
+        "type": "Runemastered Torment Club",
+        "text": "나지르의 심판 강철침 육척봉",
+        "name": "Mjölner",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
         "type": "Steelpoint Quarterstaff",
-        "text": "네뷸록 혐오받는 망치",
+        "text": "나지르의 심판 룬벼림 강철침 육척봉",
         "name": "Nazir's Judgement",
         "flags": {
           "unique": true
@@ -17533,7 +17587,7 @@
       },
       {
         "type": "Runeforged Steelpoint Quarterstaff",
-        "text": "올로바사라 고통 곤봉",
+        "text": "네뷸록 혐오받는 망치",
         "name": "Nazir's Judgement",
         "disc": "legacy",
         "flags": {
@@ -17542,7 +17596,7 @@
       },
       {
         "type": "Execratus Hammer",
-        "text": "올로바사라 룬숙련 고통 곤봉",
+        "text": "올로바사라 고통 곤봉",
         "name": "Nebuloch",
         "flags": {
           "unique": true
@@ -17550,7 +17604,7 @@
       },
       {
         "type": "Torment Club",
-        "text": "몽상가의 손바닥 성소 셉터",
+        "text": "올로바사라 룬숙련 고통 곤봉",
         "name": "Olrovasara",
         "flags": {
           "unique": true
@@ -17558,7 +17612,7 @@
       },
       {
         "type": "Runemastered Torment Club",
-        "text": "주변부 심목 단궁",
+        "text": "몽상가의 손바닥 성소 셉터",
         "name": "Olrovasara",
         "disc": "legacy",
         "flags": {
@@ -17567,7 +17621,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "갇힌 신의 기둥 긴 육척봉",
+        "text": "주변부 심목 단궁",
         "name": "Palm of the Dreamer",
         "flags": {
           "unique": true
@@ -17575,7 +17629,7 @@
       },
       {
         "type": "Heartwood Shortbow",
-        "text": "갇힌 신의 기둥 룬벼림 긴 육척봉",
+        "text": "갇힌 신의 기둥 긴 육척봉",
         "name": "Periphery",
         "flags": {
           "unique": true
@@ -17583,7 +17637,7 @@
       },
       {
         "type": "Long Quarterstaff",
-        "text": "갇힌 신의 기둥 룬숙련 긴 육척봉",
+        "text": "갇힌 신의 기둥 룬벼림 긴 육척봉",
         "name": "Pillar of the Caged God",
         "flags": {
           "unique": true
@@ -17591,7 +17645,7 @@
       },
       {
         "type": "Runeforged Long Quarterstaff",
-        "text": "퀘촐리 허물어지는 대형 망치",
+        "text": "갇힌 신의 기둥 룬숙련 긴 육척봉",
         "name": "Pillar of the Caged God",
         "disc": "legacy",
         "flags": {
@@ -17600,7 +17654,7 @@
       },
       {
         "type": "Runemastered Long Quarterstaff",
-        "text": "퀘촐리 룬벼림 허물어지는 대형 망치",
+        "text": "퀘촐리 허물어지는 대형 망치",
         "name": "Pillar of the Caged God",
         "disc": "legacy",
         "flags": {
@@ -17609,7 +17663,7 @@
       },
       {
         "type": "Crumbling Maul",
-        "text": "화살 비 단궁",
+        "text": "퀘촐리 룬벼림 허물어지는 대형 망치",
         "name": "Quecholli",
         "flags": {
           "unique": true
@@ -17617,7 +17671,7 @@
       },
       {
         "type": "Runeforged Crumbling Maul",
-        "text": "화살 비 룬벼림 단궁",
+        "text": "화살 비 단궁",
         "name": "Quecholli",
         "disc": "legacy",
         "flags": {
@@ -17626,7 +17680,7 @@
       },
       {
         "type": "Shortbow",
-        "text": "성벽 랩터 팽팽한 석궁",
+        "text": "화살 비 룬벼림 단궁",
         "name": "Quill Rain",
         "flags": {
           "unique": true
@@ -17634,7 +17688,7 @@
       },
       {
         "type": "Runeforged Shortbow",
-        "text": "성벽 랩터 룬벼림 팽팽한 석궁",
+        "text": "성벽 랩터 팽팽한 석궁",
         "name": "Quill Rain",
         "disc": "legacy",
         "flags": {
@@ -17643,7 +17697,7 @@
       },
       {
         "type": "Tense Crossbow",
-        "text": "성벽 랩터 룬숙련 팽팽한 석궁",
+        "text": "성벽 랩터 룬벼림 팽팽한 석궁",
         "name": "Rampart Raptor",
         "flags": {
           "unique": true
@@ -17651,7 +17705,7 @@
       },
       {
         "type": "Runeforged Tense Crossbow",
-        "text": "붉은 부리 절단도",
+        "text": "성벽 랩터 룬숙련 팽팽한 석궁",
         "name": "Rampart Raptor",
         "disc": "legacy",
         "flags": {
@@ -17660,7 +17714,7 @@
       },
       {
         "type": "Runemastered Tense Crossbow",
-        "text": "구원 트라투스 대포",
+        "text": "붉은 부리 절단도",
         "name": "Rampart Raptor",
         "disc": "legacy",
         "flags": {
@@ -17669,7 +17723,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "신성한 불꽃 성소 셉터",
+        "text": "구원 트라투스 대포",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17677,7 +17731,7 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "가학자의 자비 테두리 철퇴",
+        "text": "신성한 불꽃 성소 셉터",
         "name": "Redemption",
         "flags": {
           "unique": true
@@ -17685,7 +17739,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "사이타의 창 가시 돋친 창",
+        "text": "가학자의 자비 테두리 철퇴",
         "name": "Sacred Flame",
         "flags": {
           "unique": true
@@ -17693,7 +17747,7 @@
       },
       {
         "type": "Flanged Mace",
-        "text": "사이타의 창 룬벼림 가시 돋친 창",
+        "text": "사이타의 창 가시 돋친 창",
         "name": "Sadist's Mercy",
         "flags": {
           "unique": true
@@ -17701,7 +17755,7 @@
       },
       {
         "type": "Barbed Spear",
-        "text": "핏빛 예언자 뼈 마법봉",
+        "text": "사이타의 창 룬벼림 가시 돋친 창",
         "name": "Saitha's Spear",
         "flags": {
           "unique": true
@@ -17709,7 +17763,7 @@
       },
       {
         "type": "Runeforged Barbed Spear",
-        "text": "조각된 고통 전쟁곡괭이",
+        "text": "핏빛 예언자 뼈 마법봉",
         "name": "Saitha's Spear",
         "disc": "legacy",
         "flags": {
@@ -17718,7 +17772,7 @@
       },
       {
         "type": "Bone Wand",
-        "text": "조각된 고통 룬벼림 전쟁곡괭이",
+        "text": "조각된 고통 전쟁곡괭이",
         "name": "Sanguine Diviner",
         "flags": {
           "unique": true
@@ -17726,7 +17780,7 @@
       },
       {
         "type": "Warpick",
-        "text": "눈앞의 별 행진 철퇴",
+        "text": "조각된 고통 룬벼림 전쟁곡괭이",
         "name": "Sculpted Suffering",
         "flags": {
           "unique": true
@@ -17734,7 +17788,7 @@
       },
       {
         "type": "Runeforged Warpick",
-        "text": "눈앞의 별 판금 철퇴",
+        "text": "눈앞의 별 행진 철퇴",
         "name": "Sculpted Suffering",
         "disc": "legacy",
         "flags": {
@@ -17743,7 +17797,7 @@
       },
       {
         "type": "Marching Mace",
-        "text": "눈앞의 별 룬숙련 행진 철퇴",
+        "text": "눈앞의 별 판금 철퇴",
         "name": "Seeing Stars",
         "flags": {
           "unique": true
@@ -17751,7 +17805,7 @@
       },
       {
         "type": "Plated Mace",
-        "text": "세를의 근성 칼구르 대장망치",
+        "text": "눈앞의 별 룬숙련 행진 철퇴",
         "name": "Seeing Stars",
         "disc": "legacy",
         "flags": {
@@ -17760,7 +17814,7 @@
       },
       {
         "type": "Runeforged Marching Mace",
-        "text": "세를의 근성 룬벼림 칼구르 대장망치",
+        "text": "세를의 근성 칼구르 대장망치",
         "name": "Seeing Stars",
         "disc": "legacy",
         "flags": {
@@ -17769,7 +17823,7 @@
       },
       {
         "type": "Kalguuran Forgehammer",
-        "text": "샤바 사원 대형 망치",
+        "text": "세를의 근성 룬벼림 칼구르 대장망치",
         "name": "Serle's Grit",
         "flags": {
           "unique": true
@@ -17777,7 +17831,7 @@
       },
       {
         "type": "Runeforged Kalguuran Forgehammer",
-        "text": "샤바 룬벼림 사원 대형 망치",
+        "text": "샤바 사원 대형 망치",
         "name": "Serle's Grit",
         "disc": "legacy",
         "flags": {
@@ -17786,7 +17840,7 @@
       },
       {
         "type": "Temple Maul",
-        "text": "파편의 영주 차임벨 지팡이",
+        "text": "샤바 룬벼림 사원 대형 망치",
         "name": "Shyaba",
         "flags": {
           "unique": true
@@ -17794,7 +17848,7 @@
       },
       {
         "type": "Runeforged Temple Maul",
-        "text": "하늘의 편린 날개 달린 창",
+        "text": "파편의 영주 차임벨 지팡이",
         "name": "Shyaba",
         "disc": "legacy",
         "flags": {
@@ -17803,7 +17857,7 @@
       },
       {
         "type": "Chiming Staff",
-        "text": "하늘의 편린 룬벼림 날개 달린 창",
+        "text": "하늘의 편린 날개 달린 창",
         "name": "Sire of Shards",
         "flags": {
           "unique": true
@@ -17811,7 +17865,7 @@
       },
       {
         "type": "Winged Spear",
-        "text": "슬리버텅 맹신자 활",
+        "text": "하늘의 편린 룬벼림 날개 달린 창",
         "name": "Skysliver",
         "flags": {
           "unique": true
@@ -17819,7 +17873,7 @@
       },
       {
         "type": "Runeforged Winged Spear",
-        "text": "슬리버텅 룬벼림 맹신자 활",
+        "text": "슬리버텅 맹신자 활",
         "name": "Skysliver",
         "disc": "legacy",
         "flags": {
@@ -17828,7 +17882,7 @@
       },
       {
         "type": "Zealot Bow",
-        "text": "노여움의 첨탑 나선 창",
+        "text": "슬리버텅 룬벼림 맹신자 활",
         "name": "Slivertongue",
         "flags": {
           "unique": true
@@ -17836,7 +17890,7 @@
       },
       {
         "type": "Runeforged Zealot Bow",
-        "text": "악의에 찬 소화 쐐기풀 부적",
+        "text": "노여움의 첨탑 나선 창",
         "name": "Slivertongue",
         "disc": "legacy",
         "flags": {
@@ -17845,7 +17899,7 @@
       },
       {
         "type": "Helix Spear",
-        "text": "악의에 찬 소화 룬벼림 쐐기풀 부적",
+        "text": "악의에 찬 소화 쐐기풀 부적",
         "name": "Spire of Ire",
         "flags": {
           "unique": true
@@ -17853,7 +17907,7 @@
       },
       {
         "type": "Nettle Talisman",
-        "text": "악의에 찬 소화 룬숙련 쐐기풀 부적",
+        "text": "악의에 찬 소화 룬벼림 쐐기풀 부적",
         "name": "Spiteful Floret",
         "flags": {
           "unique": true
@@ -17861,7 +17915,7 @@
       },
       {
         "type": "Runeforged Nettle Talisman",
-        "text": "파편심장 반곡궁",
+        "text": "악의에 찬 소화 룬숙련 쐐기풀 부적",
         "name": "Spiteful Floret",
         "disc": "legacy",
         "flags": {
@@ -17870,7 +17924,7 @@
       },
       {
         "type": "Runemastered Nettle Talisman",
-        "text": "파편심장 룬벼림 반곡궁",
+        "text": "파편심장 반곡궁",
         "name": "Spiteful Floret",
         "disc": "legacy",
         "flags": {
@@ -17879,7 +17933,7 @@
       },
       {
         "type": "Recurve Bow",
-        "text": "로라타의 파편 견목 창",
+        "text": "파편심장 룬벼림 반곡궁",
         "name": "Splinterheart",
         "flags": {
           "unique": true
@@ -17887,7 +17941,7 @@
       },
       {
         "type": "Runeforged Recurve Bow",
-        "text": "로라타의 파편 룬벼림 견목 창",
+        "text": "로라타의 파편 견목 창",
         "name": "Splinterheart",
         "disc": "legacy",
         "flags": {
@@ -17896,7 +17950,7 @@
       },
       {
         "type": "Hardwood Spear",
-        "text": "밀려드는 파도 굼뜬 부적",
+        "text": "로라타의 파편 룬벼림 견목 창",
         "name": "Splinter of Lorrata",
         "flags": {
           "unique": true
@@ -17904,7 +17958,7 @@
       },
       {
         "type": "Runeforged Hardwood Spear",
-        "text": "숲의 제웅 엄숙한 셉터",
+        "text": "밀려드는 파도 굼뜬 부적",
         "name": "Splinter of Lorrata",
         "disc": "legacy",
         "flags": {
@@ -17913,7 +17967,7 @@
       },
       {
         "type": "Lumbering Talisman",
-        "text": "꼬인혀 갈라진 창",
+        "text": "숲의 제웅 엄숙한 셉터",
         "name": "Surge of the Tide",
         "flags": {
           "unique": true
@@ -17921,7 +17975,7 @@
       },
       {
         "type": "Stoic Sceptre",
-        "text": "꼬인혀 룬벼림 갈라진 창",
+        "text": "꼬인혀 갈라진 창",
         "name": "Sylvan's Effigy",
         "flags": {
           "unique": true
@@ -17929,7 +17983,7 @@
       },
       {
         "type": "Forked Spear",
-        "text": "타린의 오한 극한의 지팡이",
+        "text": "꼬인혀 룬벼림 갈라진 창",
         "name": "Tangletongue",
         "flags": {
           "unique": true
@@ -17937,7 +17991,7 @@
       },
       {
         "type": "Runeforged Forked Spear",
-        "text": "피의 가시 싸맨 육척봉",
+        "text": "타린의 오한 극한의 지팡이",
         "name": "Tangletongue",
         "disc": "legacy",
         "flags": {
@@ -17946,7 +18000,7 @@
       },
       {
         "type": "Gelid Staff",
-        "text": "피의 가시 룬벼림 싸맨 육척봉",
+        "text": "피의 가시 싸맨 육척봉",
         "name": "Taryn's Shiver",
         "flags": {
           "unique": true
@@ -17954,7 +18008,7 @@
       },
       {
         "type": "Wrapped Quarterstaff",
-        "text": "그림자의 짐 차임벨 지팡이",
+        "text": "피의 가시 룬벼림 싸맨 육척봉",
         "name": "The Blood Thorn",
         "flags": {
           "unique": true
@@ -17962,7 +18016,7 @@
       },
       {
         "type": "Runeforged Wrapped Quarterstaff",
-        "text": "춤추는 수도승 시미터",
+        "text": "그림자의 짐 차임벨 지팡이",
         "name": "The Blood Thorn",
         "disc": "legacy",
         "flags": {
@@ -17971,7 +18025,7 @@
       },
       {
         "type": "Chiming Staff",
-        "text": "어둠의 모독자 덜컹대는 셉터",
+        "text": "춤추는 수도승 시미터",
         "name": "The Burden of Shadows",
         "flags": {
           "unique": true
@@ -17979,7 +18033,7 @@
       },
       {
         "type": "Scimitar",
-        "text": "공허한 포효 광신자 대망치",
+        "text": "어둠의 모독자 덜컹대는 셉터",
         "name": "The Dancing Dervish",
         "flags": {
           "unique": true
@@ -17987,7 +18041,7 @@
       },
       {
         "type": "Rattling Sceptre",
-        "text": "공허한 포효 룬벼림 광신자 대망치",
+        "text": "공허한 포효 광신자 대망치",
         "name": "The Dark Defiler",
         "flags": {
           "unique": true
@@ -17995,7 +18049,7 @@
       },
       {
         "type": "Cultist Greathammer",
-        "text": "살점 귀염둥이 포악한 부적",
+        "text": "공허한 포효 룬벼림 광신자 대망치",
         "name": "The Empty Roar",
         "flags": {
           "unique": true
@@ -18003,7 +18057,7 @@
       },
       {
         "type": "Runeforged Cultist Greathammer",
-        "text": "살점 귀염둥이 룬벼림 포악한 부적",
+        "text": "살점 귀염둥이 포악한 부적",
         "name": "The Empty Roar",
         "disc": "legacy",
         "flags": {
@@ -18012,7 +18066,7 @@
       },
       {
         "type": "Vicious Talisman",
-        "text": "신념의 망치 거대 대형 망치",
+        "text": "살점 귀염둥이 룬벼림 포악한 부적",
         "name": "The Flesh Poppet",
         "flags": {
           "unique": true
@@ -18020,7 +18074,7 @@
       },
       {
         "type": "Runeforged Vicious Talisman",
-        "text": "최후의 한탄 황량한 석궁",
+        "text": "신념의 망치 거대 대형 망치",
         "name": "The Flesh Poppet",
         "disc": "legacy",
         "flags": {
@@ -18029,7 +18083,7 @@
       },
       {
         "type": "Giant Maul",
-        "text": "명을 받은 자 우수한 창",
+        "text": "최후의 한탄 황량한 석궁",
         "name": "The Hammer of Faith",
         "flags": {
           "unique": true
@@ -18037,7 +18091,7 @@
       },
       {
         "type": "Desolate Crossbow",
-        "text": "큰까마귀의 떼 홰 지팡이",
+        "text": "명을 받은 자 우수한 창",
         "name": "The Last Lament",
         "flags": {
           "unique": true
@@ -18045,7 +18099,7 @@
       },
       {
         "type": "Grand Spear",
-        "text": "이글거리는 손길 불저항 지팡이",
+        "text": "큰까마귀의 떼 홰 지팡이",
         "name": "The Ordained",
         "flags": {
           "unique": true
@@ -18053,7 +18107,7 @@
       },
       {
         "type": "Perching Staff",
-        "text": "보초 고딕 육척봉",
+        "text": "이글거리는 손길 불저항 지팡이",
         "name": "The Raven's Flock",
         "flags": {
           "unique": true
@@ -18061,7 +18115,7 @@
       },
       {
         "type": "Pyrophyte Staff",
-        "text": "보초 룬벼림 고딕 육척봉",
+        "text": "보초 고딕 육척봉",
         "name": "The Searing Touch",
         "flags": {
           "unique": true
@@ -18069,7 +18123,7 @@
       },
       {
         "type": "Gothic Quarterstaff",
-        "text": "보초 룬숙련 고딕 육척봉",
+        "text": "보초 룬벼림 고딕 육척봉",
         "name": "The Sentry",
         "flags": {
           "unique": true
@@ -18077,7 +18131,7 @@
       },
       {
         "type": "Runeforged Gothic Quarterstaff",
-        "text": "태어나지 않은 리치 굶주린 지팡이",
+        "text": "보초 룬숙련 고딕 육척봉",
         "name": "The Sentry",
         "disc": "legacy",
         "flags": {
@@ -18086,7 +18140,7 @@
       },
       {
         "type": "Runemastered Gothic Quarterstaff",
-        "text": "속삭이는 얼음 만년설 지팡이",
+        "text": "태어나지 않은 리치 굶주린 지팡이",
         "name": "The Sentry",
         "disc": "legacy",
         "flags": {
@@ -18095,7 +18149,7 @@
       },
       {
         "type": "Ravenous Staff",
-        "text": "부도덕한 깃펜 말라버린 마법봉",
+        "text": "속삭이는 얼음 만년설 지팡이",
         "name": "The Unborn Lich",
         "flags": {
           "unique": true
@@ -18103,7 +18157,7 @@
       },
       {
         "type": "Permafrost Staff",
-        "text": "물결 분쇄기 뾰족한 대형 망치",
+        "text": "부도덕한 깃펜 말라버린 마법봉",
         "name": "The Whispering Ice",
         "flags": {
           "unique": true
@@ -18111,7 +18165,7 @@
       },
       {
         "type": "Withered Wand",
-        "text": "물결 분쇄기 룬벼림 뾰족한 대형 망치",
+        "text": "물결 분쇄기 뾰족한 대형 망치",
         "name": "The Wicked Quill",
         "flags": {
           "unique": true
@@ -18119,7 +18173,7 @@
       },
       {
         "type": "Pointed Maul",
-        "text": "참호목 가시 박힌 곤봉",
+        "text": "물결 분쇄기 룬벼림 뾰족한 대형 망치",
         "name": "Tidebreaker",
         "flags": {
           "unique": true
@@ -18127,7 +18181,7 @@
       },
       {
         "type": "Runeforged Pointed Maul",
-        "text": "참호목 룬벼림 가시 박힌 곤봉",
+        "text": "참호목 가시 박힌 곤봉",
         "name": "Tidebreaker",
         "disc": "legacy",
         "flags": {
@@ -18136,7 +18190,7 @@
       },
       {
         "type": "Spiked Club",
-        "text": "트레피나 대장간 대형 망치",
+        "text": "참호목 룬벼림 가시 박힌 곤봉",
         "name": "Trenchtimbre",
         "flags": {
           "unique": true
@@ -18144,7 +18198,7 @@
       },
       {
         "type": "Runeforged Spiked Club",
-        "text": "트레피나 룬벼림 대장간 대형 망치",
+        "text": "트레피나 대장간 대형 망치",
         "name": "Trenchtimbre",
         "disc": "legacy",
         "flags": {
@@ -18153,7 +18207,7 @@
       },
       {
         "type": "Forge Maul",
-        "text": "뒤틀린 천공인 특이한 대형 양손 망치",
+        "text": "트레피나 룬벼림 대장간 대형 망치",
         "name": "Trephina",
         "flags": {
           "unique": true
@@ -18161,7 +18215,7 @@
       },
       {
         "type": "Runeforged Forge Maul",
-        "text": "뒤틀린 천공인 룬숙련 특이한 대형 양손 망치",
+        "text": "뒤틀린 천공인 특이한 대형 양손 망치",
         "name": "Trephina",
         "disc": "legacy",
         "flags": {
@@ -18170,7 +18224,7 @@
       },
       {
         "type": "Aberrant Sledge",
-        "text": "폭정의 손아귀 철창날 창",
+        "text": "뒤틀린 천공인 룬숙련 특이한 대형 양손 망치",
         "name": "Twisted Empyrean",
         "flags": {
           "unique": true
@@ -18178,7 +18232,7 @@
       },
       {
         "type": "Runemastered Aberrant Sledge",
-        "text": "폭정의 손아귀 룬벼림 철창날 창",
+        "text": "폭정의 손아귀 철창날 창",
         "name": "Twisted Empyrean",
         "disc": "legacy",
         "flags": {
@@ -18187,7 +18241,7 @@
       },
       {
         "type": "Ironhead Spear",
-        "text": "폭정의 손아귀 룬숙련 철창날 창",
+        "text": "폭정의 손아귀 룬벼림 철창날 창",
         "name": "Tyranny's Grip",
         "flags": {
           "unique": true
@@ -18195,7 +18249,7 @@
       },
       {
         "type": "Runeforged Ironhead Spear",
-        "text": "전도성 균열 광신도 활",
+        "text": "폭정의 손아귀 룬숙련 철창날 창",
         "name": "Tyranny's Grip",
         "disc": "legacy",
         "flags": {
@@ -18204,7 +18258,7 @@
       },
       {
         "type": "Runemastered Ironhead Spear",
-        "text": "과부우박 조잡한 활",
+        "text": "전도성 균열 광신도 활",
         "name": "Tyranny's Grip",
         "disc": "legacy",
         "flags": {
@@ -18213,7 +18267,7 @@
       },
       {
         "type": "Fanatic Bow",
-        "text": "과부우박 룬벼림 조잡한 활",
+        "text": "과부우박 조잡한 활",
         "name": "Voltaxic Rift",
         "flags": {
           "unique": true
@@ -18221,7 +18275,7 @@
       },
       {
         "type": "Crude Bow",
-        "text": "겨울의 추위 유리 단도",
+        "text": "과부우박 룬벼림 조잡한 활",
         "name": "Widowhail",
         "flags": {
           "unique": true
@@ -18229,7 +18283,7 @@
       },
       {
         "type": "Runeforged Crude Bow",
-        "text": "와일룬드의 말뚝 대장장이 망치",
+        "text": "겨울의 추위 유리 단도",
         "name": "Widowhail",
         "disc": "legacy",
         "flags": {
@@ -18238,7 +18292,7 @@
       },
       {
         "type": "Glass Shank",
-        "text": "Winter's Bite Glass Shank",
+        "text": "와일룬드의 말뚝 대장장이 망치",
         "name": "Winter's Bite",
         "flags": {
           "unique": true
