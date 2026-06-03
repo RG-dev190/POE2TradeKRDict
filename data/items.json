@@ -2093,6 +2093,10 @@
       },
       {
         "type": "Runemastered Gilded Vestments",
+        "text": "화려한 고리 갑옷"
+      },
+      {
+        "type": "Ornate Ringmail",
         "text": "고대 사슬옷"
       },
       {
@@ -4625,14 +4629,18 @@
       },
       {
         "type": "Gutspike Buckler",
-        "text": "고리 버클러"
+        "text": "룬숙련 가시 버클러"
       },
       {
         "type": "Runeforged Gutspike Buckler",
-        "text": "방울 버클러"
+        "text": "고리 버클러"
       },
       {
         "type": "Runeforged Spiked Buckler",
+        "text": "방울 버클러"
+      },
+      {
+        "type": "Runemastered Spiked Buckler",
         "text": "룬벼림 방울 버클러"
       },
       {
@@ -6585,7 +6593,7 @@
       },
       {
         "type": "Threaded Shoes",
-        "text": "석양법복 엘리멘탈리스트 로브",
+        "text": "혼돈의 섬광 룬숙련 부족 가면",
         "name": "Ghostmarch",
         "flags": {
           "unique": true
@@ -6593,7 +6601,7 @@
       },
       {
         "type": "Runemastered Threaded Shoes",
-        "text": "석양법복 룬숙련 엘리멘탈리스트 로브",
+        "text": "석양법복 엘리멘탈리스트 로브",
         "name": "Ghostmarch",
         "disc": "legacy",
         "flags": {
@@ -6602,7 +6610,7 @@
       },
       {
         "type": "Tattered Robe",
-        "text": "순흑체 밀랍재질 재킷",
+        "text": "석양법복 룬숙련 엘리멘탈리스트 로브",
         "name": "Ghostwrithe",
         "flags": {
           "unique": true
@@ -6610,7 +6618,7 @@
       },
       {
         "type": "Runemastered Tattered Robe",
-        "text": "순흑체 룬숙련 밀랍재질 재킷",
+        "text": "순흑체 밀랍재질 재킷",
         "name": "Ghostwrithe",
         "disc": "legacy",
         "flags": {
@@ -6619,8 +6627,17 @@
       },
       {
         "type": "Tribal Mask",
+        "text": "순흑체 룬숙련 밀랍재질 재킷",
+        "name": "Glimpse of Chaos",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Tribal Mask",
         "text": "금테 펠트 모자",
         "name": "Glimpse of Chaos",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -7119,7 +7136,7 @@
       },
       {
         "type": "Runemastered Embroidered Gloves",
-        "text": "빛나는 발걸음 짚 샌들",
+        "text": "지식의 매듭 화려한 고리 갑옷",
         "name": "Leopold's Applause",
         "disc": "legacy",
         "flags": {
@@ -7128,7 +7145,7 @@
       },
       {
         "type": "Ancestral Mail",
-        "text": "빛나는 발걸음 룬숙련 짚 샌들",
+        "text": "지식의 매듭 룬숙련 화려한 고리 갑옷",
         "name": "Lightning Coil",
         "flags": {
           "unique": true
@@ -7136,7 +7153,7 @@
       },
       {
         "type": "Runemastered Ancestral Mail",
-        "text": "늑대 거미 성벽 거대 방패",
+        "text": "빛나는 발걸음 짚 샌들",
         "name": "Lightning Coil",
         "disc": "legacy",
         "flags": {
@@ -7145,7 +7162,7 @@
       },
       {
         "type": "Tempered Mitts",
-        "text": "늑대 거미 룬숙련 성벽 거대 방패",
+        "text": "빛나는 발걸음 룬숙련 짚 샌들",
         "name": "Lochtonial Caress",
         "flags": {
           "unique": true
@@ -7153,8 +7170,25 @@
       },
       {
         "type": "Runemastered Tempered Mitts",
-        "text": "마훅소틀의 계책 징조 문양 방패",
+        "text": "늑대 거미 성벽 거대 방패",
         "name": "Lochtonial Caress",
+        "disc": "legacy",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Ornate Ringmail",
+        "text": "늑대 거미 룬숙련 성벽 거대 방패",
+        "name": "Loreweave",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Ornate Ringmail",
+        "text": "마훅소틀의 계책 징조 문양 방패",
+        "name": "Loreweave",
         "disc": "legacy",
         "flags": {
           "unique": true
@@ -7305,7 +7339,7 @@
       },
       {
         "type": "Covert Hood",
-        "text": "밤비늘 파우아비늘 장갑",
+        "text": "해질녘 룬숙련 빙하 요새",
         "name": "Myris Uxor",
         "flags": {
           "unique": true
@@ -7313,7 +7347,7 @@
       },
       {
         "type": "Runemastered Covert Hood",
-        "text": "밤비늘 룬숙련 파우아비늘 장갑",
+        "text": "밤비늘 파우아비늘 장갑",
         "name": "Myris Uxor",
         "disc": "legacy",
         "flags": {
@@ -7322,7 +7356,7 @@
       },
       {
         "type": "Bone Raiment",
-        "text": "야상곡 목재 버클러",
+        "text": "밤비늘 룬숙련 파우아비늘 장갑",
         "name": "Necromantle",
         "flags": {
           "unique": true
@@ -7330,7 +7364,7 @@
       },
       {
         "type": "Runemastered Bone Raiment",
-        "text": "야상곡 룬숙련 목재 버클러",
+        "text": "야상곡 목재 버클러",
         "name": "Necromantle",
         "disc": "legacy",
         "flags": {
@@ -7339,8 +7373,17 @@
       },
       {
         "type": "Glacial Fortress",
+        "text": "야상곡 룬숙련 목재 버클러",
+        "name": "Nightfall",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Glacial Fortress",
         "text": "북방발 스웨드 팔보호구",
         "name": "Nightfall",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -7907,7 +7950,7 @@
       },
       {
         "type": "Runemastered Grand Manchettes",
-        "text": "영혼의 외투 희생의 외투",
+        "text": "솔루스 입세 룬숙련 우수한 얼굴",
         "name": "Sine Aequo",
         "disc": "legacy",
         "flags": {
@@ -7916,7 +7959,7 @@
       },
       {
         "type": "Garment",
-        "text": "영혼의 외투 룬숙련 희생의 외투",
+        "text": "영혼의 외투 희생의 외투",
         "name": "Skin of the Loyal",
         "flags": {
           "unique": true
@@ -7924,7 +7967,7 @@
       },
       {
         "type": "Spined Bracers",
-        "text": "스타콘자의 머리 가죽묶음 두건",
+        "text": "영혼의 외투 룬숙련 희생의 외투",
         "name": "Snakebite",
         "flags": {
           "unique": true
@@ -7932,7 +7975,7 @@
       },
       {
         "type": "Runemastered Spined Bracers",
-        "text": "스타콘자의 머리 룬숙련 가죽묶음 두건",
+        "text": "스타콘자의 머리 가죽묶음 두건",
         "name": "Snakebite",
         "disc": "legacy",
         "flags": {
@@ -7941,8 +7984,17 @@
       },
       {
         "type": "Grand Visage",
+        "text": "스타콘자의 머리 룬숙련 가죽묶음 두건",
+        "name": "Solus Ipse",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Grand Visage",
         "text": "태양분열자 배열 버클러",
         "name": "Solus Ipse",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -16468,10 +16520,14 @@
       },
       {
         "type": "Runeforged Familial Talisman",
-        "text": "분할의 대도끼"
+        "text": "룬벼림 포악한 부적"
       },
       {
         "type": "Runemastered Familial Talisman",
+        "text": "분할의 대도끼"
+      },
+      {
+        "type": "Runeforged Vicious Talisman",
         "text": "잉걸불 대도끼"
       },
       {
@@ -17947,7 +18003,7 @@
       },
       {
         "type": "Runeforged Cultist Greathammer",
-        "text": "신념의 망치 거대 대형 망치",
+        "text": "살점 귀염둥이 룬벼림 포악한 부적",
         "name": "The Empty Roar",
         "disc": "legacy",
         "flags": {
@@ -17956,8 +18012,17 @@
       },
       {
         "type": "Vicious Talisman",
+        "text": "신념의 망치 거대 대형 망치",
+        "name": "The Flesh Poppet",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Vicious Talisman",
         "text": "최후의 한탄 황량한 석궁",
         "name": "The Flesh Poppet",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
