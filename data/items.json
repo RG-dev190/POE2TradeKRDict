@@ -1016,6 +1016,10 @@
         "text": "장갑을 두른 조끼"
       },
       {
+        "type": "Runemastered Armoured Vest",
+        "text": "룬숙련 장갑을 두른 조끼"
+      },
+      {
         "type": "Runeforged Leather Vest",
         "text": "룬벼림 가죽 조끼"
       },
@@ -10355,6 +10359,10 @@
         "text": "하위 환영 룬"
       },
       {
+        "type": "Perfect Vision Rune",
+        "text": "완벽한 환영 룬"
+      },
+      {
         "type": "Glacial Rune",
         "text": "빙하 룬"
       },
@@ -10469,6 +10477,10 @@
       {
         "type": "Lesser Rebirth Rune",
         "text": "하위 부활 룬"
+      },
+      {
+        "type": "Perfect Rebirth Rune",
+        "text": "완벽한 부활 룬"
       },
       {
         "type": "Storm Rune",
@@ -10635,6 +10647,14 @@
         "text": "체르노보그의 기둥의 유산"
       },
       {
+        "type": "Legacy of Duality",
+        "text": "이중성의 유산"
+      },
+      {
+        "type": "Legacy of Foxshade",
+        "text": "여우 그림자의 유산"
+      },
+      {
         "type": "Legacy of Greymake",
         "text": "회색작품의 유산"
       },
@@ -10773,6 +10793,10 @@
       {
         "type": "Lesser Robust Rune",
         "text": "하위 왕성 룬"
+      },
+      {
+        "type": "Perfect Robust Rune",
+        "text": "완벽한 왕성한 룬"
       },
       {
         "type": "Stone Rune",
@@ -17287,14 +17311,6 @@
       },
       {
         "type": "Hook Axe",
-        "text": "미완성 넓적검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Broadsword",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17319,6 +17335,14 @@
       },
       {
         "type": "Skinning Knife",
+        "text": "미완성 넓적검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Broadsword",
         "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
