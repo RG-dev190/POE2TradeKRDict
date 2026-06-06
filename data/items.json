@@ -8097,7 +8097,7 @@
       },
       {
         "type": "Crucible Tower Shield",
-        "text": "테츨라포칼의 갈망 봉헌된 의복",
+        "text": "템포랄리스 룬숙련 실크 로브",
         "name": "Svalinn",
         "flags": {
           "unique": true
@@ -8105,7 +8105,7 @@
       },
       {
         "type": "Runemastered Crucible Tower Shield",
-        "text": "테츨라포칼의 갈망 룬숙련 봉헌된 의복",
+        "text": "테츨라포칼의 갈망 봉헌된 의복",
         "name": "Svalinn",
         "disc": "legacy",
         "flags": {
@@ -8114,7 +8114,7 @@
       },
       {
         "type": "Garment",
-        "text": "복점관 정교한 조끼",
+        "text": "테츨라포칼의 갈망 룬숙련 봉헌된 의복",
         "name": "Tabula Rasa",
         "flags": {
           "unique": true
@@ -8122,7 +8122,7 @@
       },
       {
         "type": "Runeforged Garment",
-        "text": "복점관 룬숙련 정교한 조끼",
+        "text": "복점관 정교한 조끼",
         "name": "Tabula Rasa",
         "disc": "legacy",
         "flags": {
@@ -8131,8 +8131,17 @@
       },
       {
         "type": "Silk Robe",
+        "text": "복점관 룬숙련 정교한 조끼",
+        "name": "Temporalis",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Silk Robe",
         "text": "고분의 주민 악한 방어구",
         "name": "Temporalis",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -10655,6 +10664,10 @@
         "text": "아도니아의 자아의 유산"
       },
       {
+        "type": "Legacy of Blackbraid",
+        "text": "검은끈의 유산"
+      },
+      {
         "type": "Legacy of Brain Rattler",
         "text": "요동치는 두뇌의 유산"
       },
@@ -10689,6 +10702,10 @@
       {
         "type": "Legacy of Hrimnor's Hymn",
         "text": "흐림노르의 찬가의 유산"
+      },
+      {
+        "type": "Legacy of Ironbound",
+        "text": "철결속의 유산"
       },
       {
         "type": "Legacy of Lifesprig",
@@ -17334,7 +17351,7 @@
       },
       {
         "type": "Runemastered Familial Talisman",
-        "text": "미완성 사슬 도리깨",
+        "text": "미완성 까맣게 탄 절단도",
         "name": "Hysseg's Claw",
         "disc": "legacy",
         "flags": {
@@ -17343,6 +17360,14 @@
       },
       {
         "type": "Dull Hatchet",
+        "text": "미완성 사슬 도리깨",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Charred Shortsword",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17383,14 +17408,6 @@
       },
       {
         "type": "Skinning Knife",
-        "text": "미완성 까맣게 탄 절단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Broadsword",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17398,7 +17415,7 @@
         }
       },
       {
-        "type": "Charred Shortsword",
+        "type": "Broadsword",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
