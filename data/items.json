@@ -2541,6 +2541,10 @@
       },
       {
         "type": "Runeforged Trimmed Greaves",
+        "text": "룬숙련 다듬은 각반"
+      },
+      {
+        "type": "Runemastered Trimmed Greaves",
         "text": "돌 각반"
       },
       {
@@ -3553,14 +3557,18 @@
       },
       {
         "type": "Runemastered Burnished Gauntlets",
-        "text": "밧줄 수갑"
+        "text": "룬숙련 우수한 소맷부리"
       },
       {
         "type": "Ornate Gauntlets",
-        "text": "땋은 수갑"
+        "text": "밧줄 수갑"
       },
       {
         "type": "Grand Manchettes",
+        "text": "땋은 수갑"
+      },
+      {
+        "type": "Runemastered Grand Manchettes",
         "text": "속박된 수갑"
       },
       {
@@ -10236,6 +10244,10 @@
         "text": "태양 유물"
       },
       {
+        "type": "Rogue's Marker",
+        "text": "도둑의 증표"
+      },
+      {
         "type": "Azmeri Reliquary Key",
         "text": "아즈메리 성유물 보관실 열쇠"
       },
@@ -10690,6 +10702,10 @@
       {
         "type": "Legacy of Duality",
         "text": "이중성의 유산"
+      },
+      {
+        "type": "Legacy of Facebreaker",
+        "text": "페이스브레이커의 유산"
       },
       {
         "type": "Legacy of Foxshade",
@@ -16133,6 +16149,14 @@
         "text": "뒤틀린 마법봉"
       },
       {
+        "type": "Runic Fork",
+        "text": "룬 쇠스랑"
+      },
+      {
+        "type": "Runemastered Runic Fork",
+        "text": "룬숙련 룬 쇠스랑"
+      },
+      {
         "type": "Crude Bow",
         "text": "조잡한 활"
       },
@@ -17820,7 +17844,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "신성한 불꽃 성소 셉터",
+        "text": "룬 탐구자의 소명 룬 쇠스랑",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17828,8 +17852,25 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "가학자의 자비 테두리 철퇴",
+        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
         "name": "Redemption",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runic Fork",
+        "text": "신성한 불꽃 성소 셉터",
+        "name": "Runeseeker's Call",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Runic Fork",
+        "text": "가학자의 자비 테두리 철퇴",
+        "name": "Runeseeker's Call",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
