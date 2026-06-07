@@ -7978,7 +7978,7 @@
       },
       {
         "type": "Spiked Buckler",
-        "text": "뱀 이빨 가시 팔보호구",
+        "text": "충신의 가죽 룬벼림 옷",
         "name": "Silverthorne",
         "flags": {
           "unique": true
@@ -7986,7 +7986,7 @@
       },
       {
         "type": "Runemastered Spiked Buckler",
-        "text": "뱀 이빨 룬숙련 가시 팔보호구",
+        "text": "뱀 이빨 가시 팔보호구",
         "name": "Silverthorne",
         "disc": "legacy",
         "flags": {
@@ -7995,7 +7995,7 @@
       },
       {
         "type": "Grand Manchettes",
-        "text": "솔루스 입세 우수한 얼굴",
+        "text": "뱀 이빨 룬숙련 가시 팔보호구",
         "name": "Sine Aequo",
         "flags": {
           "unique": true
@@ -8003,7 +8003,7 @@
       },
       {
         "type": "Runemastered Grand Manchettes",
-        "text": "솔루스 입세 룬숙련 우수한 얼굴",
+        "text": "솔루스 입세 우수한 얼굴",
         "name": "Sine Aequo",
         "disc": "legacy",
         "flags": {
@@ -8012,8 +8012,17 @@
       },
       {
         "type": "Garment",
+        "text": "솔루스 입세 룬숙련 우수한 얼굴",
+        "name": "Skin of the Loyal",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Garment",
         "text": "영혼의 외투 희생의 외투",
         "name": "Skin of the Loyal",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -10702,6 +10711,10 @@
       {
         "type": "Legacy of Duality",
         "text": "이중성의 유산"
+      },
+      {
+        "type": "Legacy of Dusk Vigil",
+        "text": "황혼의 불침번의 유산"
       },
       {
         "type": "Legacy of Facebreaker",
