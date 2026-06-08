@@ -10517,6 +10517,10 @@
         "text": "하위 육신 룬"
       },
       {
+        "type": "Perfect Body Rune",
+        "text": "완벽한 육신 룬"
+      },
+      {
         "type": "Rebirth Rune",
         "text": "부활 룬"
       },
@@ -10559,6 +10563,10 @@
       {
         "type": "Lesser Mind Rune",
         "text": "하위 정신 룬"
+      },
+      {
+        "type": "Perfect Mind Rune",
+        "text": "완벽한 정신 룬"
       },
       {
         "type": "Inspiration Rune",
@@ -17396,7 +17404,7 @@
       },
       {
         "type": "Runemastered Familial Talisman",
-        "text": "미완성 까맣게 탄 절단도",
+        "text": "미완성 갈고리 도끼",
         "name": "Hysseg's Claw",
         "disc": "legacy",
         "flags": {
@@ -17405,6 +17413,14 @@
       },
       {
         "type": "Dull Hatchet",
+        "text": "미완성 까맣게 탄 절단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17413,14 +17429,6 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17428,7 +17436,7 @@
         }
       },
       {
-        "type": "Hook Axe",
+        "type": "Chain Flail",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17485,14 +17493,6 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 분할의 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Bearded Axe",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17500,7 +17500,7 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
+        "type": "Bearded Axe",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17517,7 +17517,7 @@
       },
       {
         "type": "Moon Dagger",
-        "text": "미완성 아치형 대도끼",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17525,6 +17525,14 @@
       },
       {
         "type": "Holy Flail",
+        "text": "미완성 아치형 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
         "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
