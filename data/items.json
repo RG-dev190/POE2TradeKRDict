@@ -1945,6 +1945,10 @@
       },
       {
         "type": "Corvus Mantle",
+        "text": "룬숙련 까마귀 외투"
+      },
+      {
+        "type": "Runemastered Corvus Mantle",
         "text": "템플러 법의"
       },
       {
@@ -4629,14 +4633,18 @@
       },
       {
         "type": "Runemastered Plated Buckler",
-        "text": "이랑 버클러"
+        "text": "룬숙련 철 버클러"
       },
       {
         "type": "Iron Buckler",
-        "text": "똬리 버클러"
+        "text": "이랑 버클러"
       },
       {
         "type": "Runeforged Iron Buckler",
+        "text": "똬리 버클러"
+      },
+      {
+        "type": "Runemastered Iron Buckler",
         "text": "룬벼림 이랑 버클러"
       },
       {
@@ -17413,14 +17421,6 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 까맣게 탄 절단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Hook Axe",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17428,8 +17428,8 @@
         }
       },
       {
-        "type": "Charred Shortsword",
-        "text": "미완성 부식된 장검",
+        "type": "Hook Axe",
+        "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17437,6 +17437,14 @@
       },
       {
         "type": "Chain Flail",
+        "text": "미완성 부식된 장검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Charred Shortsword",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17445,7 +17453,7 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 무두질용 단도",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17453,6 +17461,14 @@
       },
       {
         "type": "Rippled Greatsword",
+        "text": "미완성 무두질용 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17469,14 +17485,6 @@
       },
       {
         "type": "Broadsword",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Iron Greatsword",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17484,7 +17492,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Iron Greatsword",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
