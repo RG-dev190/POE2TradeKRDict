@@ -10709,6 +10709,10 @@
         "text": "요동치는 두뇌의 유산"
       },
       {
+        "type": "Legacy of Briskwrap",
+        "text": "활력의 겉옷의 유산"
+      },
+      {
         "type": "Legacy of Brynhand's Mark",
         "text": "브린핸드의 징표의 유산"
       },
@@ -10723,6 +10727,10 @@
       {
         "type": "Legacy of Cursecarver",
         "text": "저주난자의 유산"
+      },
+      {
+        "type": "Legacy of Deathblow",
+        "text": "죽음의 일격의 유산"
       },
       {
         "type": "Legacy of Duality",
@@ -17421,14 +17429,6 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 사슬 도리깨",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Hook Axe",
         "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17436,7 +17436,7 @@
         }
       },
       {
-        "type": "Chain Flail",
+        "type": "Hook Axe",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17445,14 +17445,22 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 파문 대검",
+        "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Corroded Longsword",
+        "type": "Chain Flail",
+        "text": "미완성 넓적검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Broadsword",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17460,7 +17468,7 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
+        "type": "Corroded Longsword",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17469,14 +17477,6 @@
       },
       {
         "type": "Crone Knife",
-        "text": "미완성 넓적검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Skinning Knife",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17484,7 +17484,7 @@
         }
       },
       {
-        "type": "Broadsword",
+        "type": "Skinning Knife",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17509,7 +17509,7 @@
       },
       {
         "type": "Bearded Axe",
-        "text": "미완성 달의 단검",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17517,6 +17517,14 @@
       },
       {
         "type": "Executioner Greataxe",
+        "text": "미완성 달의 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Rippled Greatsword",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
