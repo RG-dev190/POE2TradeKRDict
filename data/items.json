@@ -17457,7 +17457,7 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 단순한 단검",
+        "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17465,6 +17465,14 @@
       },
       {
         "type": "Corroded Longsword",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Broadsword",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17473,14 +17481,6 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 넓적검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17488,7 +17488,7 @@
         }
       },
       {
-        "type": "Broadsword",
+        "type": "Chain Flail",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
