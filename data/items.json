@@ -10745,6 +10745,10 @@
         "text": "황혼의 불침번의 유산"
       },
       {
+        "type": "Legacy of Erian's Cobble",
+        "text": "에리안의 수선의 유산"
+      },
+      {
         "type": "Legacy of Facebreaker",
         "text": "페이스브레이커의 유산"
       },
@@ -10775,6 +10779,10 @@
       {
         "type": "Legacy of Northpaw",
         "text": "북방발의 유산"
+      },
+      {
+        "type": "Legacy of Olrovasara",
+        "text": "올로바사라의 유산"
       },
       {
         "type": "Legacy of Quill Rain",
@@ -17465,7 +17473,7 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 단순한 단검",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17473,6 +17481,14 @@
       },
       {
         "type": "Broadsword",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17481,14 +17497,6 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17496,7 +17504,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Chain Flail",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
