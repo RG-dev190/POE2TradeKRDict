@@ -1004,6 +1004,10 @@
         "text": "질주자 조끼"
       },
       {
+        "type": "Runemastered Strider Vest",
+        "text": "룬숙련 질주자 조끼"
+      },
+      {
         "type": "Exquisite Vest",
         "text": "정교한 조끼"
       },
@@ -4549,14 +4553,18 @@
       },
       {
         "type": "Cryptic Crown",
-        "text": "어둑한 왕관"
+        "text": "룬숙련 혼백뼈 왕관"
       },
       {
         "type": "Runeforged Cryptic Crown",
-        "text": "룬숙련 어둑한 왕관"
+        "text": "어둑한 왕관"
       },
       {
         "type": "Runeforged Spiritbone Crown",
+        "text": "룬숙련 어둑한 왕관"
+      },
+      {
+        "type": "Runemastered Spiritbone Crown",
         "text": "가죽 버클러"
       },
       {
@@ -6154,7 +6162,7 @@
       },
       {
         "type": "Doubled Gauntlets",
-        "text": "비행의 법령 고대 레깅스",
+        "text": "예민함의 법령 룬숙련 고대 차양",
         "name": "Deathblow",
         "flags": {
           "unique": true
@@ -6162,7 +6170,7 @@
       },
       {
         "type": "Runemastered Doubled Gauntlets",
-        "text": "비행의 법령 룬숙련 고대 레깅스",
+        "text": "비행의 법령 고대 레깅스",
         "name": "Deathblow",
         "disc": "legacy",
         "flags": {
@@ -6171,7 +6179,7 @@
       },
       {
         "type": "Twig Focus",
-        "text": "충성의 법령 고대 사슬옷",
+        "text": "비행의 법령 룬숙련 고대 레깅스",
         "name": "Deathrattle",
         "flags": {
           "unique": true
@@ -6179,7 +6187,7 @@
       },
       {
         "type": "Runemastered Twig Focus",
-        "text": "충성의 법령 룬숙련 고대 사슬옷",
+        "text": "충성의 법령 고대 사슬옷",
         "name": "Deathrattle",
         "disc": "legacy",
         "flags": {
@@ -6188,8 +6196,17 @@
       },
       {
         "type": "Ancient Visor",
+        "text": "충성의 법령 룬숙련 고대 사슬옷",
+        "name": "Decree of Acuity",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Ancient Visor",
         "text": "죽음의 종 정예병 대헬름",
         "name": "Decree of Acuity",
+        "disc": "legacy",
         "flags": {
           "unique": true
         }
@@ -9505,6 +9522,10 @@
         "text": "신경 기폭제"
       },
       {
+        "type": "Necrotic Catalyst",
+        "text": "괴사의 기폭제"
+      },
+      {
         "type": "Uul-Netol's Catalyst",
         "text": "울네톨의 기폭제"
       },
@@ -9551,6 +9572,10 @@
       {
         "type": "Refined Neural Catalyst",
         "text": "제련된 신경 기폭제"
+      },
+      {
+        "type": "Refined Necrotic Catalyst",
+        "text": "제련된 괴사의 기폭제"
       },
       {
         "type": "Refined Uul-Netol's Catalyst",
@@ -9879,6 +9904,10 @@
       {
         "type": "Expansive Alloy",
         "text": "팽창하는 합금"
+      },
+      {
+        "type": "Swift Alloy",
+        "text": "재빠른 합금"
       },
       {
         "type": "Cyclonic Alloy",
@@ -10777,6 +10806,10 @@
         "text": "철결속의 유산"
       },
       {
+        "type": "Legacy of Keeper of the Arc",
+        "text": "전호의 보관자의 유산"
+      },
+      {
         "type": "Legacy of Lifesprig",
         "text": "생명의 가지의 유산"
       },
@@ -10795,6 +10828,10 @@
       {
         "type": "Legacy of Quill Rain",
         "text": "화살 비의 유산"
+      },
+      {
+        "type": "Legacy of Runeseeker's Call",
+        "text": "룬 탐구자의 소명의 유산"
       },
       {
         "type": "Legacy of Starkonja's Head",
@@ -11003,6 +11040,10 @@
       {
         "type": "Warding Rune of Heart",
         "text": "심장의 수호하는 룬"
+      },
+      {
+        "type": "Warding Rune of Nourishment",
+        "text": "자양분의 수호하는 룬"
       },
       {
         "type": "Warding Rune of Annihilation",
@@ -17485,7 +17526,7 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 단순한 단검",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17493,6 +17534,14 @@
       },
       {
         "type": "Broadsword",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17501,22 +17550,6 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
-        "text": "미완성 무두질용 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17524,15 +17557,7 @@
         }
       },
       {
-        "type": "Skinning Knife",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Executioner Greataxe",
+        "type": "Chain Flail",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17540,8 +17565,8 @@
         }
       },
       {
-        "type": "Iron Greatsword",
-        "text": "미완성 수염 도끼",
+        "type": "Executioner Greataxe",
+        "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17549,6 +17574,22 @@
       },
       {
         "type": "Rippled Greatsword",
+        "text": "미완성 철 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Skinning Knife",
+        "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
