@@ -4429,14 +4429,18 @@
       },
       {
         "type": "Runemastered Decorated Helm",
-        "text": "철 왕관"
+        "text": "룬숙련 고대 차양"
       },
       {
         "type": "Grand Visage",
-        "text": "사슬 왕관"
+        "text": "철 왕관"
       },
       {
         "type": "Ancient Visor",
+        "text": "사슬 왕관"
+      },
+      {
+        "type": "Runemastered Ancient Visor",
         "text": "룬벼림 철 왕관"
       },
       {
@@ -17526,7 +17530,7 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 노파 단도",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17534,6 +17538,14 @@
       },
       {
         "type": "Broadsword",
+        "text": "미완성 노파 단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Rippled Greatsword",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17566,14 +17578,6 @@
       },
       {
         "type": "Chain Flail",
-        "text": "미완성 파문 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Executioner Greataxe",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17581,7 +17585,7 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
+        "type": "Executioner Greataxe",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
