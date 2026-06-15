@@ -10938,6 +10938,10 @@
         "text": "룬 탐구자의 소명의 유산"
       },
       {
+        "type": "Legacy of Serle's Grit",
+        "text": "세를의 근성의 유산"
+      },
+      {
         "type": "Legacy of Starkonja's Head",
         "text": "스타콘자의 머리의 유산"
       },
@@ -17606,14 +17610,6 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Charred Shortsword",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17621,8 +17617,8 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 노파 단도",
+        "type": "Charred Shortsword",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17630,14 +17626,6 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 넓적검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17645,8 +17633,8 @@
         }
       },
       {
-        "type": "Broadsword",
-        "text": "미완성 단순한 단검",
+        "type": "Hook Axe",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17654,6 +17642,14 @@
       },
       {
         "type": "Rippled Greatsword",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
         "text": "미완성 쪼개진 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17662,7 +17658,7 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 사슬 도리깨",
+        "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17670,14 +17666,22 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 분할의 대도끼",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Chain Flail",
+        "type": "Broadsword",
+        "text": "미완성 사슬 도리깨",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17685,7 +17689,7 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
+        "type": "Chain Flail",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
