@@ -10683,6 +10683,10 @@
         "text": "호적수의 유산"
       },
       {
+        "type": "Legacy of Ezomyte Peak",
+        "text": "에조미어의 면갑의 유산"
+      },
+      {
         "type": "Legacy of Facebreaker",
         "text": "페이스브레이커의 유산"
       },
@@ -17390,14 +17394,6 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Charred Shortsword",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17405,8 +17401,8 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 부식된 장검",
+        "type": "Charred Shortsword",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17414,6 +17410,14 @@
       },
       {
         "type": "Splitting Greataxe",
+        "text": "미완성 부식된 장검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
