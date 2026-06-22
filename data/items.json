@@ -17438,14 +17438,6 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 분할의 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Hook Axe",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17453,8 +17445,8 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
-        "text": "미완성 파문 대검",
+        "type": "Hook Axe",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17462,6 +17454,14 @@
       },
       {
         "type": "Crone Knife",
+        "text": "미완성 파문 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
