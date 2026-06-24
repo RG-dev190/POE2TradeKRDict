@@ -17446,14 +17446,6 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 분할의 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
         "text": "미완성 쪼개진 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17461,8 +17453,8 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
-        "text": "미완성 사형 집행자 대도끼",
+        "type": "Crone Knife",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17470,7 +17462,15 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 파문 대검",
+        "text": "미완성 사형 집행자 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
+        "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17478,6 +17478,14 @@
       },
       {
         "type": "Executioner Greataxe",
+        "text": "미완성 파문 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Arched Greataxe",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17502,14 +17510,6 @@
       },
       {
         "type": "Bearded Axe",
-        "text": "미완성 아치형 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Broadsword",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17517,7 +17517,7 @@
         }
       },
       {
-        "type": "Arched Greataxe",
+        "type": "Broadsword",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17871,7 +17871,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "룬 탐구자의 소명 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17879,14 +17879,14 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬 쇠스랑",
         "name": "Redemption",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Runic Fork",
+        "type": "Runemastered Runic Fork",
         "text": "신성한 불꽃 성소 셉터",
         "name": "Runeseeker's Call",
         "flags": {
@@ -17894,7 +17894,7 @@
         }
       },
       {
-        "type": "Runemastered Runic Fork",
+        "type": "Runic Fork",
         "text": "가학자의 자비 테두리 철퇴",
         "name": "Runeseeker's Call",
         "flags": {
