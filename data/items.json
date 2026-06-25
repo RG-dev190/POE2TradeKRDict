@@ -3711,14 +3711,18 @@
       },
       {
         "type": "Runeforged Adherent Cuffs",
-        "text": "황금 얼굴"
+        "text": "연을 맺는 고리"
       },
       {
         "type": "Runeforged Kalguuran Cuffs",
-        "text": "허름한 두건"
+        "text": "황금 얼굴"
       },
       {
         "type": "Runemastered Verisium Cuffs",
+        "text": "허름한 두건"
+      },
+      {
+        "type": "Tethering Bands",
         "text": "은밀한 두건"
       },
       {
@@ -7100,7 +7104,7 @@
       },
       {
         "type": "Runeforged Conqueror Plate",
-        "text": "왕의 보호구 전신 판금 갑옷",
+        "text": "살을 에는 강풍 전신 판금 갑옷",
         "name": "Kaom's Heart",
         "flags": {
           "unique": true
@@ -7108,7 +7112,7 @@
       },
       {
         "type": "Spiritbone Crown",
-        "text": "왕의 보호구 룬숙련 전신 판금 갑옷",
+        "text": "살을 에는 강풍 룬숙련 전신 판금 갑옷",
         "name": "Keeper of the Arc",
         "flags": {
           "unique": true
@@ -8364,7 +8368,7 @@
       },
       {
         "type": "Bronze Greaves",
-        "text": "변이하는 별 성직자 법의",
+        "text": "대가의 깜냥 연을 맺는 고리",
         "name": "The Infinite Pursuit",
         "flags": {
           "unique": true
@@ -8372,7 +8376,7 @@
       },
       {
         "type": "Runemastered Bronze Greaves",
-        "text": "변이하는 별 룬숙련 성직자 법의",
+        "text": "변이하는 별 성직자 법의",
         "name": "The Infinite Pursuit",
         "flags": {
           "unique": true
@@ -8380,7 +8384,7 @@
       },
       {
         "type": "Mail Sabatons",
-        "text": "죄수의 수갑 칼구르 수갑",
+        "text": "변이하는 별 룬숙련 성직자 법의",
         "name": "The Knight-errant",
         "flags": {
           "unique": true
@@ -8388,7 +8392,7 @@
       },
       {
         "type": "Runemastered Mail Sabatons",
-        "text": "죄수의 수갑 룬숙련 베리시움 수갑",
+        "text": "죄수의 수갑 칼구르 수갑",
         "name": "The Knight-errant",
         "flags": {
           "unique": true
@@ -8396,8 +8400,16 @@
       },
       {
         "type": "Sacral Quiver",
-        "text": "쥐덫 정찰병의 조끼",
+        "text": "죄수의 수갑 룬숙련 베리시움 수갑",
         "name": "The Lethal Draw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Tethering Bands",
+        "text": "쥐덫 정찰병의 조끼",
+        "name": "The Master's Reach",
         "flags": {
           "unique": true
         }
@@ -9351,6 +9363,22 @@
         "text": "핵 불안정화기"
       },
       {
+        "type": "Kopec's Orb of Sacrifice",
+        "text": "강화된 희생의 오브"
+      },
+      {
+        "type": "Yugul's Orb of Sacrifice",
+        "text": "왕실 희생의 오브"
+      },
+      {
+        "type": "Kamasa's Orb of Sacrifice",
+        "text": "부정한 희생의 오브"
+      },
+      {
+        "type": "Yaomac's Orb of Sacrifice",
+        "text": "잔인한 희생의 오브"
+      },
+      {
         "type": "Vaal Cultivation Orb",
         "text": "바알 함양 오브"
       },
@@ -9649,6 +9677,10 @@
       {
         "type": "Perfect Chaos Orb",
         "text": "완벽한 카오스 오브"
+      },
+      {
+        "type": "Liquid Verisium",
+        "text": "액체 베리시움"
       },
       {
         "type": "Albino Rhoa Feather",
@@ -17390,7 +17422,7 @@
       },
       {
         "type": "Runemastered Oak Greathammer",
-        "text": "히세그의 발톱 룬벼림 가문의 부적",
+        "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17398,15 +17430,7 @@
       },
       {
         "type": "Familial Talisman",
-        "text": "히세그의 발톱 룬숙련 가문의 부적",
-        "name": "Hysseg's Claw",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runeforged Familial Talisman",
-        "text": "미완성 무딘 손도끼",
+        "text": "히세그의 발톱 룬벼림 가문의 부적",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17414,6 +17438,14 @@
       },
       {
         "type": "Runemastered Familial Talisman",
+        "text": "미완성 무딘 손도끼",
+        "name": "Hysseg's Claw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Familial Talisman",
         "text": "미완성 까맣게 탄 절단도",
         "name": "Hysseg's Claw",
         "flags": {
@@ -17462,7 +17494,7 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 사형 집행자 대도끼",
+        "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17470,6 +17502,14 @@
       },
       {
         "type": "Splitting Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Bearded Axe",
         "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17478,14 +17518,6 @@
       },
       {
         "type": "Executioner Greataxe",
-        "text": "미완성 파문 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Arched Greataxe",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17493,15 +17525,7 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
-        "text": "미완성 수염 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
+        "type": "Arched Greataxe",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17509,8 +17533,8 @@
         }
       },
       {
-        "type": "Bearded Axe",
-        "text": "미완성 단순한 단검",
+        "type": "Chain Flail",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17518,6 +17542,14 @@
       },
       {
         "type": "Broadsword",
+        "text": "미완성 단순한 단검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Rippled Greatsword",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
