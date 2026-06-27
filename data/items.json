@@ -17441,7 +17441,7 @@
         }
       },
       {
-        "type": "Runemastered Familial Talisman",
+        "type": "Runeforged Familial Talisman",
         "text": "미완성 무딘 손도끼",
         "name": "Hysseg's Claw",
         "flags": {
@@ -17449,8 +17449,8 @@
         }
       },
       {
-        "type": "Runeforged Familial Talisman",
-        "text": "미완성 까맣게 탄 절단도",
+        "type": "Runemastered Familial Talisman",
+        "text": "미완성 노파 단도",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17458,6 +17458,14 @@
       },
       {
         "type": "Dull Hatchet",
+        "text": "미완성 까맣게 탄 절단도",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17466,14 +17474,6 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Corroded Longsword",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17481,7 +17481,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Corroded Longsword",
         "text": "미완성 쪼개진 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17498,22 +17498,6 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 사형 집행자 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Splitting Greataxe",
-        "text": "미완성 아치형 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Executioner Greataxe",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17521,7 +17505,7 @@
         }
       },
       {
-        "type": "Arched Greataxe",
+        "type": "Splitting Greataxe",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17530,7 +17514,7 @@
       },
       {
         "type": "Bearded Axe",
-        "text": "미완성 사슬 도리깨",
+        "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17538,6 +17522,22 @@
       },
       {
         "type": "Broadsword",
+        "text": "미완성 아치형 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Executioner Greataxe",
+        "text": "미완성 사슬 도리깨",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Arched Greataxe",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
