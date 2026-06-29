@@ -10655,6 +10655,10 @@
         "text": "아도니아의 자아의 유산"
       },
       {
+        "type": "Legacy of Alkem Eira",
+        "text": "알켐 에이라의 유산"
+      },
+      {
         "type": "Legacy of Ashrend",
         "text": "부서진 잿더미의 유산"
       },
@@ -10763,6 +10767,10 @@
         "text": "전호의 보관자의 유산"
       },
       {
+        "type": "Legacy of Legionstride",
+        "text": "군단의 보조의 유산"
+      },
+      {
         "type": "Legacy of Lifesprig",
         "text": "생명의 가지의 유산"
       },
@@ -10809,6 +10817,10 @@
       {
         "type": "Legacy of Svalinn",
         "text": "스발린의 유산"
+      },
+      {
+        "type": "Legacy of The Knight-errant",
+        "text": "무사 수행 기사의 유산"
       },
       {
         "type": "Legacy of The Sentry",
@@ -17410,7 +17422,7 @@
       },
       {
         "type": "Runeforged Felled Greatclub",
-        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
+        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
         "name": "Hoghunt",
         "flags": {
           "unique": true
@@ -17418,15 +17430,7 @@
       },
       {
         "type": "Oak Greathammer",
-        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
-        "name": "Hrimnor's Hymn",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Oak Greathammer",
-        "text": "히세그의 발톱 가문의 부적",
+        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17434,6 +17438,14 @@
       },
       {
         "type": "Runeforged Oak Greathammer",
+        "text": "히세그의 발톱 가문의 부적",
+        "name": "Hrimnor's Hymn",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Oak Greathammer",
         "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
@@ -17474,14 +17486,6 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 부식된 장검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17489,8 +17493,8 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 쪼개진 도리깨",
+        "type": "Crone Knife",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17498,6 +17502,14 @@
       },
       {
         "type": "Hook Axe",
+        "text": "미완성 쪼개진 도리깨",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Corroded Longsword",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17506,14 +17518,6 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 넓적검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Bearded Axe",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17521,7 +17525,7 @@
         }
       },
       {
-        "type": "Broadsword",
+        "type": "Bearded Axe",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17538,7 +17542,7 @@
       },
       {
         "type": "Executioner Greataxe",
-        "text": "미완성 아치형 대도끼",
+        "text": "미완성 넓은날 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17546,7 +17550,15 @@
       },
       {
         "type": "Iron Greatsword",
-        "text": "미완성 사슬 도리깨",
+        "text": "미완성 넓적검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Broadsword",
+        "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17554,7 +17566,7 @@
       },
       {
         "type": "Arched Greataxe",
-        "text": "미완성 파문 대검",
+        "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17562,7 +17574,7 @@
       },
       {
         "type": "Chain Flail",
-        "text": "미완성 단순한 단검",
+        "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17570,7 +17582,7 @@
       },
       {
         "type": "Rippled Greatsword",
-        "text": "미완성 무두질용 단도",
+        "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17578,7 +17590,7 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 달의 단검",
+        "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17586,7 +17598,7 @@
       },
       {
         "type": "Skinning Knife",
-        "text": "미완성 신성한 도리깨",
+        "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17594,7 +17606,7 @@
       },
       {
         "type": "Moon Dagger",
-        "text": "미완성 사냥 창",
+        "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17602,7 +17614,7 @@
       },
       {
         "type": "Holy Flail",
-        "text": "미완성 전쟁 창",
+        "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17610,7 +17622,7 @@
       },
       {
         "type": "Hunting Spear",
-        "text": "미완성 축복받은 클레이모어",
+        "text": "미완성 전쟁 창",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17618,7 +17630,7 @@
       },
       {
         "type": "War Spear",
-        "text": "미완성 쌍둥이 도리깨",
+        "text": "미완성 축복받은 클레이모어",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17626,7 +17638,7 @@
       },
       {
         "type": "Blessed Claymore",
-        "text": "미완성 넓은날 대검",
+        "text": "미완성 쌍둥이 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
