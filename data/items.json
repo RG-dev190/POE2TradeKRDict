@@ -10775,6 +10775,14 @@
         "text": "북방발의 유산"
       },
       {
+        "type": "Legacy of Oaksworn",
+        "text": "참나무맹세의 유산"
+      },
+      {
+        "type": "Legacy of Obern's Bastion",
+        "text": "오베른의 보루의 유산"
+      },
+      {
         "type": "Legacy of Olrovasara",
         "text": "올로바사라의 유산"
       },
@@ -17402,7 +17410,7 @@
       },
       {
         "type": "Runeforged Felled Greatclub",
-        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
+        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
         "name": "Hoghunt",
         "flags": {
           "unique": true
@@ -17410,15 +17418,7 @@
       },
       {
         "type": "Oak Greathammer",
-        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
-        "name": "Hrimnor's Hymn",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runeforged Oak Greathammer",
-        "text": "히세그의 발톱 가문의 부적",
+        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17426,6 +17426,14 @@
       },
       {
         "type": "Runemastered Oak Greathammer",
+        "text": "히세그의 발톱 가문의 부적",
+        "name": "Hrimnor's Hymn",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Oak Greathammer",
         "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
@@ -17522,7 +17530,7 @@
       },
       {
         "type": "Splitting Greataxe",
-        "text": "미완성 아치형 대도끼",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17530,6 +17538,14 @@
       },
       {
         "type": "Executioner Greataxe",
+        "text": "미완성 아치형 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17562,14 +17578,6 @@
       },
       {
         "type": "Simple Dagger",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Skinning Knife",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17577,7 +17585,7 @@
         }
       },
       {
-        "type": "Iron Greatsword",
+        "type": "Skinning Knife",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17907,7 +17915,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "룬 탐구자의 소명 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17915,14 +17923,14 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬 쇠스랑",
         "name": "Redemption",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Runic Fork",
+        "type": "Runemastered Runic Fork",
         "text": "신성한 불꽃 성소 셉터",
         "name": "Runeseeker's Call",
         "flags": {
@@ -17930,7 +17938,7 @@
         }
       },
       {
-        "type": "Runemastered Runic Fork",
+        "type": "Runic Fork",
         "text": "가학자의 자비 테두리 철퇴",
         "name": "Runeseeker's Call",
         "flags": {
