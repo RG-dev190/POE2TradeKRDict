@@ -10671,6 +10671,10 @@
         "text": "요동치는 두뇌의 유산"
       },
       {
+        "type": "Legacy of Bramblejack",
+        "text": "가시나무 갑옷의 유산"
+      },
+      {
         "type": "Legacy of Briarpatch",
         "text": "가시밭의 유산"
       },
@@ -17446,7 +17450,7 @@
       },
       {
         "type": "Runemastered Oak Greathammer",
-        "text": "히세그의 발톱 룬숙련 가문의 부적",
+        "text": "히세그의 발톱 룬벼림 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17454,15 +17458,7 @@
       },
       {
         "type": "Familial Talisman",
-        "text": "히세그의 발톱 룬벼림 가문의 부적",
-        "name": "Hysseg's Claw",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Familial Talisman",
-        "text": "미완성 무딘 손도끼",
+        "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17470,6 +17466,14 @@
       },
       {
         "type": "Runeforged Familial Talisman",
+        "text": "미완성 무딘 손도끼",
+        "name": "Hysseg's Claw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Familial Talisman",
         "text": "미완성 까맣게 탄 절단도",
         "name": "Hysseg's Claw",
         "flags": {
@@ -17486,14 +17490,6 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 갈고리 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17501,8 +17497,8 @@
         }
       },
       {
-        "type": "Hook Axe",
-        "text": "미완성 쪼개진 도리깨",
+        "type": "Crone Knife",
+        "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17510,6 +17506,14 @@
       },
       {
         "type": "Corroded Longsword",
+        "text": "미완성 쪼개진 도리깨",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Hook Axe",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17557,7 +17561,7 @@
         }
       },
       {
-        "type": "Broadsword",
+        "type": "Broad Greatsword",
         "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17565,7 +17569,7 @@
         }
       },
       {
-        "type": "Arched Greataxe",
+        "type": "Broadsword",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17573,7 +17577,7 @@
         }
       },
       {
-        "type": "Chain Flail",
+        "type": "Arched Greataxe",
         "text": "미완성 파문 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17581,7 +17585,7 @@
         }
       },
       {
-        "type": "Rippled Greatsword",
+        "type": "Chain Flail",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17589,7 +17593,7 @@
         }
       },
       {
-        "type": "Simple Dagger",
+        "type": "Rippled Greatsword",
         "text": "미완성 무두질용 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17597,7 +17601,7 @@
         }
       },
       {
-        "type": "Skinning Knife",
+        "type": "Simple Dagger",
         "text": "미완성 달의 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17605,7 +17609,7 @@
         }
       },
       {
-        "type": "Moon Dagger",
+        "type": "Skinning Knife",
         "text": "미완성 신성한 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17613,7 +17617,7 @@
         }
       },
       {
-        "type": "Holy Flail",
+        "type": "Moon Dagger",
         "text": "미완성 사냥 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17621,7 +17625,7 @@
         }
       },
       {
-        "type": "Hunting Spear",
+        "type": "Holy Flail",
         "text": "미완성 전쟁 창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17629,7 +17633,7 @@
         }
       },
       {
-        "type": "War Spear",
+        "type": "Hunting Spear",
         "text": "미완성 축복받은 클레이모어",
         "name": "INCOMPLETE",
         "flags": {
@@ -17637,7 +17641,7 @@
         }
       },
       {
-        "type": "Blessed Claymore",
+        "type": "War Spear",
         "text": "미완성 쌍둥이 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17645,7 +17649,7 @@
         }
       },
       {
-        "type": "Twin Flail",
+        "type": "Blessed Claymore",
         "text": "미완성 도적 손도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17653,7 +17657,7 @@
         }
       },
       {
-        "type": "Broad Greatsword",
+        "type": "Twin Flail",
         "text": "미완성 흡혈 칼날",
         "name": "INCOMPLETE",
         "flags": {
@@ -17927,7 +17931,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬 쇠스랑",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17935,14 +17939,14 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "룬 탐구자의 소명 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
         "name": "Redemption",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Runemastered Runic Fork",
+        "type": "Runic Fork",
         "text": "신성한 불꽃 성소 셉터",
         "name": "Runeseeker's Call",
         "flags": {
@@ -17950,7 +17954,7 @@
         }
       },
       {
-        "type": "Runic Fork",
+        "type": "Runemastered Runic Fork",
         "text": "가학자의 자비 테두리 철퇴",
         "name": "Runeseeker's Call",
         "flags": {
