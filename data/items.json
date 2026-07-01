@@ -10659,6 +10659,10 @@
         "text": "알켐 에이라의 유산"
       },
       {
+        "type": "Legacy of Amor Mandragora",
+        "text": "아모르 만드라고라의 유산"
+      },
+      {
         "type": "Legacy of Ashrend",
         "text": "부서진 잿더미의 유산"
       },
@@ -17518,7 +17522,7 @@
       },
       {
         "type": "Hook Axe",
-        "text": "미완성 분할의 대도끼",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17533,8 +17537,8 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
-        "text": "미완성 철 대검",
+        "type": "Iron Greatsword",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17549,7 +17553,7 @@
         }
       },
       {
-        "type": "Iron Greatsword",
+        "type": "Splitting Greataxe",
         "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17935,7 +17939,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "룬 탐구자의 소명 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17943,14 +17947,14 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬 쇠스랑",
         "name": "Redemption",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Runic Fork",
+        "type": "Runemastered Runic Fork",
         "text": "신성한 불꽃 성소 셉터",
         "name": "Runeseeker's Call",
         "flags": {
@@ -17958,7 +17962,7 @@
         }
       },
       {
-        "type": "Runemastered Runic Fork",
+        "type": "Runic Fork",
         "text": "가학자의 자비 테두리 철퇴",
         "name": "Runeseeker's Call",
         "flags": {
