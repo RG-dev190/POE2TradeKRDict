@@ -17498,14 +17498,6 @@
       },
       {
         "type": "Crone Knife",
-        "text": "미완성 부식된 장검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Charred Shortsword",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17513,8 +17505,8 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 쪼개진 도리깨",
+        "type": "Charred Shortsword",
+        "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17522,6 +17514,14 @@
       },
       {
         "type": "Hook Axe",
+        "text": "미완성 쪼개진 도리깨",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Corroded Longsword",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17530,14 +17530,6 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 수염 도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Iron Greatsword",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17545,8 +17537,8 @@
         }
       },
       {
-        "type": "Bearded Axe",
-        "text": "미완성 사형 집행자 대도끼",
+        "type": "Iron Greatsword",
+        "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17554,6 +17546,14 @@
       },
       {
         "type": "Splitting Greataxe",
+        "text": "미완성 사형 집행자 대도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Bearded Axe",
         "text": "미완성 아치형 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17954,7 +17954,7 @@
         }
       },
       {
-        "type": "Runemastered Runic Fork",
+        "type": "Runic Fork",
         "text": "신성한 불꽃 성소 셉터",
         "name": "Runeseeker's Call",
         "flags": {
@@ -17962,7 +17962,7 @@
         }
       },
       {
-        "type": "Runic Fork",
+        "type": "Runemastered Runic Fork",
         "text": "가학자의 자비 테두리 철퇴",
         "name": "Runeseeker's Call",
         "flags": {
