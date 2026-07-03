@@ -16384,6 +16384,10 @@
         "text": "룬벼림 단궁"
       },
       {
+        "type": "Runeforged Warden Bow",
+        "text": "Runeforged Warden Bow"
+      },
+      {
         "type": "Runeforged Recurve Bow",
         "text": "룬벼림 반곡궁"
       },
@@ -17458,7 +17462,7 @@
       },
       {
         "type": "Runeforged Oak Greathammer",
-        "text": "히세그의 발톱 룬숙련 가문의 부적",
+        "text": "히세그의 발톱 룬벼림 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17466,15 +17470,7 @@
       },
       {
         "type": "Familial Talisman",
-        "text": "히세그의 발톱 룬벼림 가문의 부적",
-        "name": "Hysseg's Claw",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Familial Talisman",
-        "text": "미완성 무딘 손도끼",
+        "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17482,7 +17478,15 @@
       },
       {
         "type": "Runeforged Familial Talisman",
-        "text": "미완성 노파 단도",
+        "text": "미완성 무딘 손도끼",
+        "name": "Hysseg's Claw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Familial Talisman",
+        "text": "미완성 까맣게 탄 절단도",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17490,15 +17494,7 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 까맣게 탄 절단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
-        "text": "미완성 갈고리 도끼",
+        "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17506,6 +17502,14 @@
       },
       {
         "type": "Charred Shortsword",
+        "text": "미완성 갈고리 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17522,7 +17526,7 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 철 대검",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17530,7 +17534,15 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 분할의 대도끼",
+        "text": "미완성 철 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
+        "text": "미완성 넓은날 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17545,7 +17557,7 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
+        "type": "Broad Greatsword",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17562,14 +17574,6 @@
       },
       {
         "type": "Executioner Greataxe",
-        "text": "미완성 넓은날 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Arched Greataxe",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17577,7 +17581,7 @@
         }
       },
       {
-        "type": "Broad Greatsword",
+        "type": "Arched Greataxe",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17706,7 +17710,7 @@
       },
       {
         "type": "Ironhead Spear",
-        "text": "생명의 가지 조율된 마법봉",
+        "text": "철결속 Runeforged Warden Bow",
         "name": "INCOMPLETE",
         "disc": "legacy",
         "flags": {
@@ -17715,6 +17719,14 @@
       },
       {
         "type": "Warden Bow",
+        "text": "생명의 가지 조율된 마법봉",
+        "name": "Ironbound",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Warden Bow",
         "text": "경계 감개 뒤틀린 마법봉",
         "name": "Ironbound",
         "flags": {
