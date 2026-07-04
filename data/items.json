@@ -10779,6 +10779,10 @@
         "text": "전호의 보관자의 유산"
       },
       {
+        "type": "Legacy of Kingsguard",
+        "text": "왕의 보호구의 유산"
+      },
+      {
         "type": "Legacy of Legionstride",
         "text": "군단의 보조의 유산"
       },
@@ -17462,7 +17466,7 @@
       },
       {
         "type": "Runeforged Oak Greathammer",
-        "text": "히세그의 발톱 룬벼림 가문의 부적",
+        "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17470,15 +17474,7 @@
       },
       {
         "type": "Familial Talisman",
-        "text": "히세그의 발톱 룬숙련 가문의 부적",
-        "name": "Hysseg's Claw",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runeforged Familial Talisman",
-        "text": "미완성 무딘 손도끼",
+        "text": "히세그의 발톱 룬벼림 가문의 부적",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17486,7 +17482,15 @@
       },
       {
         "type": "Runemastered Familial Talisman",
-        "text": "미완성 까맣게 탄 절단도",
+        "text": "미완성 무딘 손도끼",
+        "name": "Hysseg's Claw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runeforged Familial Talisman",
+        "text": "미완성 노파 단도",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17494,15 +17498,7 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 노파 단도",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Charred Shortsword",
-        "text": "미완성 갈고리 도끼",
+        "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17510,6 +17506,14 @@
       },
       {
         "type": "Crone Knife",
+        "text": "미완성 갈고리 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Charred Shortsword",
         "text": "미완성 부식된 장검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17526,14 +17530,6 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Splintered Flail",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17541,8 +17537,8 @@
         }
       },
       {
-        "type": "Iron Greatsword",
-        "text": "미완성 수염 도끼",
+        "type": "Splintered Flail",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17550,6 +17546,14 @@
       },
       {
         "type": "Splitting Greataxe",
+        "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
