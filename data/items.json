@@ -17442,7 +17442,7 @@
       },
       {
         "type": "Runeforged Felled Greatclub",
-        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
+        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
         "name": "Hoghunt",
         "flags": {
           "unique": true
@@ -17450,15 +17450,7 @@
       },
       {
         "type": "Oak Greathammer",
-        "text": "흐림노르의 찬가 룬벼림 참나무 대망치",
-        "name": "Hrimnor's Hymn",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Oak Greathammer",
-        "text": "히세그의 발톱 가문의 부적",
+        "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
         "name": "Hrimnor's Hymn",
         "flags": {
           "unique": true
@@ -17466,6 +17458,14 @@
       },
       {
         "type": "Runeforged Oak Greathammer",
+        "text": "히세그의 발톱 가문의 부적",
+        "name": "Hrimnor's Hymn",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Oak Greathammer",
         "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
@@ -17490,7 +17490,7 @@
       },
       {
         "type": "Runeforged Familial Talisman",
-        "text": "미완성 까맣게 탄 절단도",
+        "text": "미완성 노파 단도",
         "name": "Hysseg's Claw",
         "flags": {
           "unique": true
@@ -17498,7 +17498,7 @@
       },
       {
         "type": "Dull Hatchet",
-        "text": "미완성 노파 단도",
+        "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17521,7 +17521,7 @@
         }
       },
       {
-        "type": "Splintered Flail",
+        "type": "Hook Axe",
         "text": "미완성 쪼개진 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17529,7 +17529,7 @@
         }
       },
       {
-        "type": "Hook Axe",
+        "type": "Corroded Longsword",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17537,8 +17537,8 @@
         }
       },
       {
-        "type": "Corroded Longsword",
-        "text": "미완성 철 대검",
+        "type": "Splintered Flail",
+        "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17553,15 +17553,15 @@
         }
       },
       {
-        "type": "Bearded Axe",
-        "text": "미완성 사슬 도리깨",
+        "type": "Chain Flail",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Iron Greatsword",
+        "type": "Bearded Axe",
         "text": "미완성 넓은날 대검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17569,7 +17569,7 @@
         }
       },
       {
-        "type": "Chain Flail",
+        "type": "Iron Greatsword",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
