@@ -17546,14 +17546,6 @@
       },
       {
         "type": "Corroded Longsword",
-        "text": "미완성 사슬 도리깨",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Splintered Flail",
         "text": "미완성 수염 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17561,8 +17553,8 @@
         }
       },
       {
-        "type": "Chain Flail",
-        "text": "미완성 철 대검",
+        "type": "Splintered Flail",
+        "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17570,6 +17562,14 @@
       },
       {
         "type": "Bearded Axe",
+        "text": "미완성 철 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Chain Flail",
         "text": "미완성 경량 미늘창",
         "name": "INCOMPLETE",
         "flags": {
