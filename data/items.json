@@ -10735,6 +10735,10 @@
         "text": "에디른의 엄니의 유산"
       },
       {
+        "type": "Legacy of Elevore",
+        "text": "원소포식의 유산"
+      },
+      {
         "type": "Legacy of Erian's Cobble",
         "text": "에리안의 수선의 유산"
       },
@@ -17465,7 +17469,7 @@
         }
       },
       {
-        "type": "Runeforged Oak Greathammer",
+        "type": "Runemastered Oak Greathammer",
         "text": "히세그의 발톱 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
@@ -17473,7 +17477,7 @@
         }
       },
       {
-        "type": "Runemastered Oak Greathammer",
+        "type": "Runeforged Oak Greathammer",
         "text": "히세그의 발톱 룬숙련 가문의 부적",
         "name": "Hrimnor's Hymn",
         "flags": {
@@ -17514,14 +17518,6 @@
       },
       {
         "type": "Charred Shortsword",
-        "text": "미완성 분할의 대도끼",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Crone Knife",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17529,8 +17525,8 @@
         }
       },
       {
-        "type": "Splitting Greataxe",
-        "text": "미완성 부식된 장검",
+        "type": "Crone Knife",
+        "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17538,6 +17534,14 @@
       },
       {
         "type": "Hook Axe",
+        "text": "미완성 부식된 장검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splitting Greataxe",
         "text": "미완성 쪼개진 도리깨",
         "name": "INCOMPLETE",
         "flags": {
@@ -17562,14 +17566,6 @@
       },
       {
         "type": "Bearded Axe",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Chain Flail",
         "text": "미완성 경량 미늘창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17577,8 +17573,8 @@
         }
       },
       {
-        "type": "Iron Greatsword",
-        "text": "미완성 넓은날 대검",
+        "type": "Chain Flail",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17586,6 +17582,14 @@
       },
       {
         "type": "Light Halberd",
+        "text": "미완성 넓은날 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
