@@ -17570,14 +17570,6 @@
       },
       {
         "type": "Iron Greatsword",
-        "text": "미완성 사슬 도리깨",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Bearded Axe",
         "text": "미완성 경량 미늘창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17585,8 +17577,8 @@
         }
       },
       {
-        "type": "Chain Flail",
-        "text": "미완성 넓은날 대검",
+        "type": "Bearded Axe",
+        "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17594,6 +17586,14 @@
       },
       {
         "type": "Light Halberd",
+        "text": "미완성 넓은날 대검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Chain Flail",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17979,7 +17979,7 @@
       },
       {
         "type": "Shortsword",
-        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬 쇠스랑",
         "name": "Redbeak",
         "flags": {
           "unique": true
@@ -17987,14 +17987,14 @@
       },
       {
         "type": "Trarthan Cannon",
-        "text": "룬 탐구자의 소명 룬 쇠스랑",
+        "text": "룬 탐구자의 소명 룬숙련 룬 쇠스랑",
         "name": "Redemption",
         "flags": {
           "unique": true
         }
       },
       {
-        "type": "Runemastered Runic Fork",
+        "type": "Runic Fork",
         "text": "신성한 불꽃 성소 셉터",
         "name": "Runeseeker's Call",
         "flags": {
@@ -18002,7 +18002,7 @@
         }
       },
       {
-        "type": "Runic Fork",
+        "type": "Runemastered Runic Fork",
         "text": "가학자의 자비 테두리 철퇴",
         "name": "Runeseeker's Call",
         "flags": {
