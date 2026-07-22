@@ -17498,14 +17498,6 @@
       },
       {
         "type": "Runemastered Familial Talisman",
-        "text": "미완성 무딘 손도끼",
-        "name": "Hysseg's Claw",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runeforged Familial Talisman",
         "text": "미완성 까맣게 탄 절단도",
         "name": "Hysseg's Claw",
         "flags": {
@@ -17513,7 +17505,15 @@
         }
       },
       {
-        "type": "Dull Hatchet",
+        "type": "Runeforged Familial Talisman",
+        "text": "미완성 무딘 손도끼",
+        "name": "Hysseg's Claw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Charred Shortsword",
         "text": "미완성 노파 단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17521,7 +17521,7 @@
         }
       },
       {
-        "type": "Charred Shortsword",
+        "type": "Dull Hatchet",
         "text": "미완성 분할의 대도끼",
         "name": "INCOMPLETE",
         "flags": {
