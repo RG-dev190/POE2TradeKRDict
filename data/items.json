@@ -17502,14 +17502,6 @@
       },
       {
         "type": "Runemastered Familial Talisman",
-        "text": "미완성 무딘 손도끼",
-        "name": "Hysseg's Claw",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runeforged Familial Talisman",
         "text": "미완성 노파 단도",
         "name": "Hysseg's Claw",
         "flags": {
@@ -17517,7 +17509,15 @@
         }
       },
       {
-        "type": "Dull Hatchet",
+        "type": "Runeforged Familial Talisman",
+        "text": "미완성 무딘 손도끼",
+        "name": "Hysseg's Claw",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Crone Knife",
         "text": "미완성 까맣게 탄 절단도",
         "name": "INCOMPLETE",
         "flags": {
@@ -17525,7 +17525,7 @@
         }
       },
       {
-        "type": "Crone Knife",
+        "type": "Dull Hatchet",
         "text": "미완성 갈고리 도끼",
         "name": "INCOMPLETE",
         "flags": {
