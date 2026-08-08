@@ -17566,14 +17566,6 @@
       },
       {
         "type": "Splintered Flail",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Bearded Axe",
         "text": "미완성 경량 미늘창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17581,8 +17573,8 @@
         }
       },
       {
-        "type": "Iron Greatsword",
-        "text": "미완성 넓적검",
+        "type": "Bearded Axe",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17590,6 +17582,14 @@
       },
       {
         "type": "Light Halberd",
+        "text": "미완성 넓적검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 사슬 도리깨",
         "name": "INCOMPLETE",
         "flags": {
