@@ -17590,14 +17590,6 @@
       },
       {
         "type": "Chain Flail",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Simple Dagger",
         "text": "미완성 경량 미늘창",
         "name": "INCOMPLETE",
         "flags": {
@@ -17605,8 +17597,8 @@
         }
       },
       {
-        "type": "Iron Greatsword",
-        "text": "미완성 넓적검",
+        "type": "Simple Dagger",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17614,6 +17606,14 @@
       },
       {
         "type": "Light Halberd",
+        "text": "미완성 넓적검",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 넓은날 대검",
         "name": "INCOMPLETE",
         "flags": {
