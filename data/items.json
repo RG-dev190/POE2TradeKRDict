@@ -7104,7 +7104,7 @@
       },
       {
         "type": "Runeforged Conqueror Plate",
-        "text": "살을 에는 강풍 전신 판금 갑옷",
+        "text": "왕의 보호구 전신 판금 갑옷",
         "name": "Kaom's Heart",
         "flags": {
           "unique": true
@@ -7112,7 +7112,7 @@
       },
       {
         "type": "Spiritbone Crown",
-        "text": "살을 에는 강풍 룬숙련 전신 판금 갑옷",
+        "text": "왕의 보호구 룬숙련 전신 판금 갑옷",
         "name": "Keeper of the Arc",
         "flags": {
           "unique": true
@@ -9364,19 +9364,19 @@
       },
       {
         "type": "Kopec's Orb of Sacrifice",
-        "text": "강화된 희생의 오브"
+        "text": "코펙의 희생의 오브"
       },
       {
         "type": "Yugul's Orb of Sacrifice",
-        "text": "왕실 희생의 오브"
+        "text": "유굴의 희생의 오브"
       },
       {
         "type": "Kamasa's Orb of Sacrifice",
-        "text": "부정한 희생의 오브"
+        "text": "카마사의 희생의 오브"
       },
       {
         "type": "Yaomac's Orb of Sacrifice",
-        "text": "잔인한 희생의 오브"
+        "text": "야오맥의 희생의 오브"
       },
       {
         "type": "Vaal Cultivation Orb",
@@ -10219,6 +10219,10 @@
         "text": "도둑의 증표"
       },
       {
+        "type": "Sacred Bloom",
+        "text": "신성한 꽃"
+      },
+      {
         "type": "Azmeri Reliquary Key",
         "text": "아즈메리 성유물 보관실 열쇠"
       },
@@ -10739,7 +10743,7 @@
         "text": "황혼의 불침번의 유산"
       },
       {
-        "type": "Legacy of Edyrns Tusks",
+        "type": "Legacy of Edyrn's Tusks",
         "text": "에디른의 엄니의 유산"
       },
       {
@@ -11252,14 +11256,58 @@
       },
       {
         "type": "Xipocado's Soul Core of Dominion",
+        "text": "지콰니의 대상 지정 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Targeting",
         "text": "잘라틀의 절연의 영혼 핵"
       },
       {
         "type": "Zalatl's Soul Core of Insulation",
+        "text": "지콰니의 광휘 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Radiance",
+        "text": "지콰니의 단절 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Severing",
+        "text": "지콰니의 진동 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Quaking",
+        "text": "지콰니의 군수품 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Munitions",
+        "text": "지콰니의 올가미 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Snares",
+        "text": "지콰니의 돌풍 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Squalls",
+        "text": "앗지리의 헌신 영혼 핵"
+      },
+      {
+        "type": "Atziri's Soul Core of Devotion",
         "text": "토포탄테의 완화의 영혼 핵"
       },
       {
         "type": "Topotante's Soul Core of Dampening",
+        "text": "앗지리의 활력 영혼 핵"
+      },
+      {
+        "type": "Atziri's Soul Core of Vitality",
+        "text": "앗지리의 기민성 영혼 핵"
+      },
+      {
+        "type": "Atziri's Soul Core of Alacrity",
+        "text": "앗지리의 접종 영혼 핵"
+      },
+      {
+        "type": "Atziri's Soul Core of Inoculation",
         "text": "앗모후아의 후퇴의 영혼 핵"
       },
       {
@@ -16417,7 +16465,7 @@
       },
       {
         "type": "Runeforged Warden Bow",
-        "text": "Runeforged Warden Bow"
+        "text": "룬벼림 간수 활"
       },
       {
         "type": "Runeforged Recurve Bow",
@@ -17750,7 +17798,7 @@
       },
       {
         "type": "Ironhead Spear",
-        "text": "철결속 Runeforged Warden Bow",
+        "text": "철결속 룬벼림 간수 활",
         "name": "INCOMPLETE",
         "disc": "legacy",
         "flags": {
@@ -17959,7 +18007,7 @@
       },
       {
         "type": "Runeforged Shortbow",
-        "text": "성벽 랩터 룬숙련 팽팽한 석궁",
+        "text": "성벽 랩터 룬벼림 팽팽한 석궁",
         "name": "Quill Rain",
         "flags": {
           "unique": true
@@ -17967,15 +18015,7 @@
       },
       {
         "type": "Tense Crossbow",
-        "text": "성벽 랩터 룬벼림 팽팽한 석궁",
-        "name": "Rampart Raptor",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Tense Crossbow",
-        "text": "붉은 부리 절단도",
+        "text": "성벽 랩터 룬숙련 팽팽한 석궁",
         "name": "Rampart Raptor",
         "flags": {
           "unique": true
@@ -17983,6 +18023,14 @@
       },
       {
         "type": "Runeforged Tense Crossbow",
+        "text": "붉은 부리 절단도",
+        "name": "Rampart Raptor",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Tense Crossbow",
         "text": "구원 트라투스 대포",
         "name": "Rampart Raptor",
         "flags": {
