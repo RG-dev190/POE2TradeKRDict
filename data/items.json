@@ -11256,10 +11256,22 @@
       },
       {
         "type": "Xipocado's Soul Core of Dominion",
+        "text": "지콰니의 자동화 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Automation",
+        "text": "지콰니의 악담 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Malediction",
         "text": "지콰니의 대상 지정 영혼 핵"
       },
       {
         "type": "Jiquani's Soul Core of Targeting",
+        "text": "지콰니의 재집결 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Rallying",
         "text": "잘라틀의 절연의 영혼 핵"
       },
       {
@@ -11272,6 +11284,10 @@
       },
       {
         "type": "Jiquani's Soul Core of Severing",
+        "text": "지콰니의 물결 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Rippling",
         "text": "지콰니의 진동 영혼 핵"
       },
       {
@@ -11284,10 +11300,18 @@
       },
       {
         "type": "Jiquani's Soul Core of Snares",
+        "text": "지콰니의 풍부 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Abundance",
         "text": "지콰니의 돌풍 영혼 핵"
       },
       {
         "type": "Jiquani's Soul Core of Squalls",
+        "text": "지콰니의 천둥 영혼 핵"
+      },
+      {
+        "type": "Jiquani's Soul Core of Thundering",
         "text": "앗지리의 헌신 영혼 핵"
       },
       {
@@ -17237,7 +17261,7 @@
       },
       {
         "type": "Runeforged Morning Star",
-        "text": "브린핸드의 징표 룬숙련 목재 곤봉",
+        "text": "브린핸드의 징표 룬벼림 목재 곤봉",
         "name": "Brutus' Lead Sprinkler",
         "flags": {
           "unique": true
@@ -17245,15 +17269,7 @@
       },
       {
         "type": "Wooden Club",
-        "text": "브린핸드의 징표 룬벼림 목재 곤봉",
-        "name": "Brynhand's Mark",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Wooden Club",
-        "text": "사슬침 사냥 창",
+        "text": "브린핸드의 징표 룬숙련 목재 곤봉",
         "name": "Brynhand's Mark",
         "flags": {
           "unique": true
@@ -17261,6 +17277,14 @@
       },
       {
         "type": "Runeforged Wooden Club",
+        "text": "사슬침 사냥 창",
+        "name": "Brynhand's Mark",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Wooden Club",
         "text": "사슬침 룬벼림 사냥 창",
         "name": "Brynhand's Mark",
         "flags": {
@@ -17494,7 +17518,7 @@
       },
       {
         "type": "Shrine Sceptre",
-        "text": "돼지사냥 룬숙련 쓰러진 대곤봉",
+        "text": "돼지사냥 룬벼림 쓰러진 대곤봉",
         "name": "Guiding Palm of the Mind",
         "flags": {
           "unique": true
@@ -17502,15 +17526,7 @@
       },
       {
         "type": "Felled Greatclub",
-        "text": "돼지사냥 룬벼림 쓰러진 대곤봉",
-        "name": "Hoghunt",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Runemastered Felled Greatclub",
-        "text": "흐림노르의 찬가 참나무 대망치",
+        "text": "돼지사냥 룬숙련 쓰러진 대곤봉",
         "name": "Hoghunt",
         "flags": {
           "unique": true
@@ -17518,6 +17534,14 @@
       },
       {
         "type": "Runeforged Felled Greatclub",
+        "text": "흐림노르의 찬가 참나무 대망치",
+        "name": "Hoghunt",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Runemastered Felled Greatclub",
         "text": "흐림노르의 찬가 룬숙련 참나무 대망치",
         "name": "Hoghunt",
         "flags": {
