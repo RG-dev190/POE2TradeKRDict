@@ -17662,14 +17662,6 @@
       },
       {
         "type": "Chain Flail",
-        "text": "미완성 철 대검",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Simple Dagger",
         "text": "미완성 넓적검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17677,7 +17669,7 @@
         }
       },
       {
-        "type": "Iron Greatsword",
+        "type": "Simple Dagger",
         "text": "미완성 사형 집행자 대도끼",
         "name": "INCOMPLETE",
         "flags": {
@@ -17686,7 +17678,7 @@
       },
       {
         "type": "Broadsword",
-        "text": "미완성 경량 미늘창",
+        "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17694,6 +17686,14 @@
       },
       {
         "type": "Executioner Greataxe",
+        "text": "미완성 경량 미늘창",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Iron Greatsword",
         "text": "미완성 넓은날 대검",
         "name": "INCOMPLETE",
         "flags": {
