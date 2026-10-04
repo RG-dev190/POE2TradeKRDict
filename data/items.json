@@ -17630,14 +17630,6 @@
       },
       {
         "type": "Splitting Greataxe",
-        "text": "미완성 쪼개진 도리깨",
-        "name": "INCOMPLETE",
-        "flags": {
-          "unique": true
-        }
-      },
-      {
-        "type": "Corroded Longsword",
         "text": "미완성 단순한 단검",
         "name": "INCOMPLETE",
         "flags": {
@@ -17645,8 +17637,8 @@
         }
       },
       {
-        "type": "Splintered Flail",
-        "text": "미완성 수염 도끼",
+        "type": "Corroded Longsword",
+        "text": "미완성 쪼개진 도리깨",
         "name": "INCOMPLETE",
         "flags": {
           "unique": true
@@ -17654,6 +17646,14 @@
       },
       {
         "type": "Simple Dagger",
+        "text": "미완성 수염 도끼",
+        "name": "INCOMPLETE",
+        "flags": {
+          "unique": true
+        }
+      },
+      {
+        "type": "Splintered Flail",
         "text": "미완성 철 대검",
         "name": "INCOMPLETE",
         "flags": {
